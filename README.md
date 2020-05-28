@@ -1,6 +1,6 @@
 # Unpacking the game
 
-In the asset reader, click Functions -> Unpack Game Assets -> navigate to SteamLibrary\steamapps\common\Hydroneer\Mining\Content\Paks and click open. Select a folder to save the game files in, click open again, wait for the game to unpack
+In the asset reader, click Functions -> Unpack Game Assets -> navigate to "SteamLibrary\steamapps\common\Hydroneer\Mining\Content\Paks" and click open. Select a folder to save the game files in, click open again, wait for the game to unpack
 
 # Pak mods
 
