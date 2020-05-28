@@ -2,6 +2,8 @@
 
 In the asset reader, click Functions -> Unpack Game Assets -> navigate to "SteamLibrary\steamapps\common\Hydroneer\Mining\Content\Paks" and click open. Select a folder to save the game files in, click open again, wait for the game to unpack
 
+Note: The Asset Editor was not originally designed to work with this version of unreal and CAN NOT currently save files. You will need to edit the data in a hex editor. I use HxD 
+
 # Pak mods
 
 Pak files for the game go into - %LocalAppData%\Mining\Saved\Paks
