@@ -1,8 +1,8 @@
 # Pak mods
 
-Pak files for the game go into - %LocalAppData%\Mining\Saved\SaveGames\Paks
+Pak files for the game go into - %LocalAppData%\Mining\Saved\Paks
 
-Hit Win + R and copy paste %LocalAppData%\Mining\Saved\SaveGames then create the Paks folder in that directory.
+Hit Win + R and copy paste %LocalAppData%\Mining\Saved then create the Paks folder in that directory.
 
 000-EverythingFree_P.pak - Removes the cost of all buyable items, however at least one coin must still be placed in the buckets
 000-MilWaterDura_P.pak - Increases the durability of the Goliath, Ram, Harvester and Water filter to 1 million
