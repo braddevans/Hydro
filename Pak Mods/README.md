@@ -16,4 +16,5 @@ Increases the torque and reverse speed of the truck.
 ### 000-EternalDrill_P.pak
 
 Goliath drills no longer remove dirt
+
 ---
