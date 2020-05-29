@@ -13,3 +13,7 @@ Increases the durability of water using items to 1 million
 Increases the torque and reverse speed of the truck. 
 
 ---
+### 000-EternalDrill_P.pak
+
+Goliath drills no longer remove dirt
+---
