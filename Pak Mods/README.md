@@ -15,6 +15,6 @@ Increases the torque and reverse speed of the truck.
 ---
 ### 000-EternalDrill_P.pak
 
-Goliath drills no longer remove dirt
+Goliath drills no longer remove dirt. (Doesn't work with Million Durability Mod)
 
 ---
