@@ -4,6 +4,7 @@
 
 | Mod File  | Description | Creator |
 | ------------- | ------------- | ------------- |
+| [000-CrystalLength_P.pak](https://github.com/kaiheilos/Hydro/raw/master/Pak%20Mods/000-CrystalLength_P.pak)  | makes crystals last 100 times longer in the pressure chamber | Heilos |
 | [000-EverythingFree_P.pak](https://github.com/kaiheilos/Hydro/raw/master/Pak%20Mods/000-EverythingFree_P.pak)  | Makes all buyable items free. Must place one coin in each bucket  | Heilos |
 | [000-VehicleTorque_P.pak](https://github.com/kaiheilos/Hydro/raw/master/Pak%20Mods/000-VehicleTorque_P.pak)  | Doubles the torqu and reverse speed of the pickup truck | Heilos |
 | [000-EternalDrill_P.pak](https://github.com/kaiheilos/Hydro/raw/master/Pak%20Mods/000-EternalDrill_P.pak)  |  Stops the goliath drill from destroying dirt  | Heilos |
