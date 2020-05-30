@@ -10,8 +10,9 @@ Maintained by kaiheilos
    - Asset Editor.exe
    - HydroneerSaveEdit.exe
    
-## Pak Mods
- - Notes: \# ADD Notes here for pak mods \#
+## /Pak Mods
+ - Pak files for the game go into - `%LocalAppData%\Mining\Saved\Paks`
+ - Hit Win + R and copy paste - `%LocalAppData%\Mining\Saved` then create the Paks folder in that directory.
  
  - Currently Contains:
     - 000-EternalDrill_P.pak
@@ -22,15 +23,11 @@ Maintained by kaiheilos
     - PickupTruckFuel_P.pak 
 
 # Project Usage and Notes:
-## Unpacking the game
- - In the asset reader, click Functions -> Unpack Game Assets -> navigate to "SteamLibrary\steamapps\common\Hydroneer\Mining\Content\Paks" and click open. Select a folder to save the game files in, click open again, wait for the game to unpack
+
+## Unpacking the game with the Asset Editor
+ - In the asset editor, click Functions -> Unpack Game Assets -> navigate to "SteamLibrary\steamapps\common\Hydroneer\Mining\Content\Paks" and click open. Select a folder to save the game files in, click open again, wait for the game to unpack
  - Note: The Asset Editor was not originally designed to work with this version of unreal and CAN NOT currently save files. You will need to edit the data in a hex editor. I use HxD 
 
-## Pak mods
-
- - Pak files for the game go into - `%LocalAppData%\Mining\Saved\Paks`
- - Hit Win + R and copy paste - `%LocalAppData%\Mining\Saved` then create the Paks folder in that directory.
- 
 ## Save Editor
 
  - Saves are located at %LocalAppData%\Mining\Saved\SaveGames
