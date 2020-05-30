@@ -7,17 +7,11 @@ Maintained by kaiheilos
 # Structure
 ## /Tools.
  - currently contains:
-   - Asset Editor.exe
-   - HydroneerSaveEdit.exe
+   - The Asset Editor and Save Editor
    
 ## /Pak Mods
  - Pak files for the game go into - `%LocalAppData%\Mining\Saved\Paks`
  - Hit Win + R and copy paste - `%LocalAppData%\Mining\Saved` then create the Paks folder in that directory.
  
  - Currently Contains:
-    - 000-EternalDrill_P.pak
-    - 000-EverythingFree_P.pak
-    - 000-MilWaterDura_P.pak
-    - 000-VehicleTorque_P.pak
-    - DayNightExtended_P.pak
-    - PickupTruckFuel_P.pak 
+    - All the pak mods for use.
