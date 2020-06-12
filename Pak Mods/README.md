@@ -4,6 +4,7 @@
 
 | Mod File  | Description | Creator |
 | ------------- | ------------- | ------------- |
+| [000-ConveyorBumpers_P.pak](https://github.com/kaiheilos/Hydro/raw/master/Pak%20Mods/000-ConveyorBumpers_P.pak)  | Adds bumpers/walls to conveyors so they sit flush with windows and panels | Rhino |
 | [000-AutumnOverhaul_P.pak](https://github.com/kaiheilos/Hydro/raw/master/Pak%20Mods/000-AutumnOverhaul_P.pak)  | New textures and colors for an autumn/fall themed mining experience | Rhino |
 | [000-CrystalLength_P.pak](https://github.com/kaiheilos/Hydro/raw/master/Pak%20Mods/000-CrystalLength_P.pak)  | makes crystals last 100 times longer in the pressure chamber | Heilos |
 | [000-EverythingFree_P.pak](https://github.com/kaiheilos/Hydro/raw/master/Pak%20Mods/000-EverythingFree_P.pak)  | Makes all buyable items free. Must place one coin in each bucket  | Heilos |
