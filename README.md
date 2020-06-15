@@ -1,6 +1,9 @@
 ### Hydroneer Modding project
-[![Generic badge](https://img.shields.io/badge/Hydroneer%20Version-1.2.16-orange.svg)](https://shields.io/)
-[![Generic badge](https://img.shields.io/badge/project%20language-c%2B%2B-green.svg)](https://shields.io/)
+![Generic badge](https://img.shields.io/badge/Hydroneer%20Version-1.2.16-orange.svg)
+![Generic badge](https://img.shields.io/badge/UE4_Version-4.21-blue.svg)
+
+![Generic badge](https://img.shields.io/badge/project%20language-c%2B%2B-green.svg)
+![Generic badge](https://img.shields.io/badge/Also_Using-Blueprints-blue.svg)
 
 Maintained by kaiheilos
 
@@ -8,6 +11,7 @@ Maintained by kaiheilos
 ## /Tools.
  - currently contains:
    - The Asset Editor and Save Editor
+   - Saves Stored in location: `%LocalAppData%\Mining\Saved\SaveGames`
    
 ## /Pak Mods
  - Pak files for the game go into - `%LocalAppData%\Mining\Saved\Paks`
