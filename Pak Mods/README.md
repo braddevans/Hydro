@@ -4,7 +4,7 @@
 
 | Mod File  | Description | Creator |
 | ------------- | ------------- | ------------- |
-| [000-BetterHarvester_P.pak](https://github.com/kaiheilos/Hydro/raw/master/Pak%20Mods/000-BetterHarvester_P.pak)  | Imporves the harvester hitbox so it can harvest any size dirt without clogs | Rhino |
+| [000-BetterHarvester_P.pak](https://github.com/kaiheilos/Hydro/raw/master/Pak%20Mods/000-BetterHarvester_P.pak)  | Improves the harvester hitbox so it can harvest any size dirt without clogs | Rhino |
 | [000-ConveyorBumpers_P.pak](https://github.com/kaiheilos/Hydro/raw/master/Pak%20Mods/000-ConveyorBumpers_P.pak)  | Adds bumpers/walls to conveyors so they sit flush with windows and panels | Rhino |
 | [000-AutumnOverhaul_P.pak](https://github.com/kaiheilos/Hydro/raw/master/Pak%20Mods/000-AutumnOverhaul_P.pak)  | New textures and colors for an autumn/fall themed mining experience | Rhino |
 | [000-F7Menu_P.pak](https://github.com/kaiheilos/Hydro/raw/master/Pak%20Mods/000-F7Menu_P.pak)  | Removes the World Map from the game and enables you to open a secret menu by pressing F7 | Heilos |
