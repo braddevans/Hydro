@@ -1,0 +1,565 @@
+"C:/Users/Some Guy/Documents/Unreal Projects/Hydroneer/Content/TestStuff.uasset" 0
+"C:/Users/Some Guy/Documents/Unreal Projects/Hydroneer/Content/MoreTest.uasset" 1
+"C:/Users/Some Guy/Documents/Unreal Projects/Hydroneer/Content/SpawnMenu/SpawnItems.uasset" 2
+"C:/Users/Some Guy/Documents/Unreal Projects/Hydroneer/Content/StarterContent/Materials/M_Basic_Wall.uasset" 3
+"C:/Users/Some Guy/Documents/Unreal Projects/Hydroneer/Content/StarterContent/Architecture/Pillar_50x500.uasset" 4
+"C:/Users/Some Guy/Documents/Unreal Projects/Hydroneer/Content/StarterContent/Architecture/Wall_400x300.uasset" 5
+"C:/Users/Some Guy/Documents/Unreal Projects/Hydroneer/Content/StarterContent/Architecture/Wall_400x400.uasset" 6
+"C:/Users/Some Guy/Documents/Unreal Projects/Hydroneer/Content/StarterContent/Architecture/Wall_500x500.uasset" 7
+"C:/Users/Some Guy/Documents/Unreal Projects/Hydroneer/Content/StarterContent/Architecture/Wall_Door_400x400.uasset" 8
+"C:/Users/Some Guy/Documents/Unreal Projects/Hydroneer/Content/StarterContent/Architecture/Wall_Window_400x400.uasset" 9
+"C:/Users/Some Guy/Documents/Unreal Projects/Hydroneer/Content/StarterContent/Audio/Collapse01.uasset" 10
+"C:/Users/Some Guy/Documents/Unreal Projects/Hydroneer/Content/StarterContent/Audio/Collapse02.uasset" 11
+"C:/Users/Some Guy/Documents/Unreal Projects/Hydroneer/Content/StarterContent/Audio/Explosion01.uasset" 12
+"C:/Users/Some Guy/Documents/Unreal Projects/Hydroneer/Content/StarterContent/Audio/Explosion02.uasset" 13
+"C:/Users/Some Guy/Documents/Unreal Projects/Hydroneer/Content/StarterContent/Audio/Fire01.uasset" 14
+"C:/Users/Some Guy/Documents/Unreal Projects/Hydroneer/Content/StarterContent/Audio/Fire_Sparks01.uasset" 15
+"C:/Users/Some Guy/Documents/Unreal Projects/Hydroneer/Content/StarterContent/Audio/Light01.uasset" 16
+"C:/Users/Some Guy/Documents/Unreal Projects/Hydroneer/Content/StarterContent/Audio/Light01_Cue.uasset" 17
+"C:/Users/Some Guy/Documents/Unreal Projects/Hydroneer/Content/StarterContent/Audio/Light02.uasset" 18
+"C:/Users/Some Guy/Documents/Unreal Projects/Hydroneer/Content/StarterContent/Audio/Light02_Cue.uasset" 19
+"C:/Users/Some Guy/Documents/Unreal Projects/Hydroneer/Content/StarterContent/Audio/Smoke01.uasset" 20
+"C:/Users/Some Guy/Documents/Unreal Projects/Hydroneer/Content/StarterContent/Audio/Starter_Birds01.uasset" 21
+"C:/Users/Some Guy/Documents/Unreal Projects/Hydroneer/Content/StarterContent/Audio/Starter_Music01.uasset" 22
+"C:/Users/Some Guy/Documents/Unreal Projects/Hydroneer/Content/StarterContent/Audio/Starter_Wind05.uasset" 23
+"C:/Users/Some Guy/Documents/Unreal Projects/Hydroneer/Content/StarterContent/Audio/Starter_Wind06.uasset" 24
+"C:/Users/Some Guy/Documents/Unreal Projects/Hydroneer/Content/StarterContent/Audio/Steam01.uasset" 25
+"C:/Users/Some Guy/Documents/Unreal Projects/Hydroneer/Content/StarterContent/Audio/Explosion_Cue.uasset" 26
+"C:/Users/Some Guy/Documents/Unreal Projects/Hydroneer/Content/StarterContent/Textures/T_Burst_M.uasset" 27
+"C:/Users/Some Guy/Documents/Unreal Projects/Hydroneer/Content/StarterContent/Particles/Materials/M_Burst.uasset" 28
+"C:/Users/Some Guy/Documents/Unreal Projects/Hydroneer/Content/StarterContent/Textures/T_Explosion_SubUV.uasset" 29
+"C:/Users/Some Guy/Documents/Unreal Projects/Hydroneer/Content/StarterContent/Particles/Materials/M_explosion_subUV.uasset" 30
+"C:/Users/Some Guy/Documents/Unreal Projects/Hydroneer/Content/StarterContent/Particles/Materials/m_flare_01.uasset" 31
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Gradient/RadialGradient.uasset" 32
+"C:/Users/Some Guy/Documents/Unreal Projects/Hydroneer/Content/StarterContent/Particles/Materials/M_radial_ramp.uasset" 33
+"C:/Users/Some Guy/Documents/Unreal Projects/Hydroneer/Content/StarterContent/Textures/T_Smoke_SubUV.uasset" 34
+"C:/Users/Some Guy/Documents/Unreal Projects/Hydroneer/Content/StarterContent/Textures/T_Smoke_Tiled_D.uasset" 35
+"C:/Users/Some Guy/Documents/Unreal Projects/Hydroneer/Content/StarterContent/Particles/Materials/M_smoke_subUV.uasset" 36
+"C:/Users/Some Guy/Documents/Unreal Projects/Hydroneer/Content/StarterContent/Particles/P_Explosion.uasset" 37
+"C:/Users/Some Guy/Documents/Unreal Projects/Hydroneer/Content/StarterContent/Blueprints/Blueprint_Effect_Explosion.uasset" 38
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/T_ColorGrid.uasset" 39
+"C:/Users/Some Guy/Documents/Unreal Projects/Hydroneer/Content/StarterContent/Materials/M_ColorGrid_LowSpec.uasset" 40
+"C:/Users/Some Guy/Documents/Unreal Projects/Hydroneer/Content/StarterContent/Textures/T_Bush_D.uasset" 41
+"C:/Users/Some Guy/Documents/Unreal Projects/Hydroneer/Content/StarterContent/Textures/T_Bush_N.uasset" 42
+"C:/Users/Some Guy/Documents/Unreal Projects/Hydroneer/Content/StarterContent/Props/Materials/M_Bush.uasset" 43
+"C:/Users/Some Guy/Documents/Unreal Projects/Hydroneer/Content/StarterContent/Props/SM_Bush.uasset" 44
+"C:/Users/Some Guy/Documents/Unreal Projects/Hydroneer/Content/StarterContent/Textures/T_Chair_M.uasset" 45
+"C:/Users/Some Guy/Documents/Unreal Projects/Hydroneer/Content/StarterContent/Textures/T_Chair_N.uasset" 46
+"C:/Users/Some Guy/Documents/Unreal Projects/Hydroneer/Content/StarterContent/Props/Materials/M_Chair.uasset" 47
+"C:/Users/Some Guy/Documents/Unreal Projects/Hydroneer/Content/StarterContent/Props/SM_Couch.uasset" 48
+"C:/Users/Some Guy/Documents/Unreal Projects/Hydroneer/Content/StarterContent/Materials/M_Glass.uasset" 49
+"C:/Users/Some Guy/Documents/Unreal Projects/Hydroneer/Content/StarterContent/Textures/T_Door_M.uasset" 50
+"C:/Users/Some Guy/Documents/Unreal Projects/Hydroneer/Content/StarterContent/Textures/T_Door_N.uasset" 51
+"C:/Users/Some Guy/Documents/Unreal Projects/Hydroneer/Content/StarterContent/Props/Materials/M_Door.uasset" 52
+"C:/Users/Some Guy/Documents/Unreal Projects/Hydroneer/Content/StarterContent/Props/SM_Door.uasset" 53
+"C:/Users/Some Guy/Documents/Unreal Projects/Hydroneer/Content/StarterContent/Props/Materials/M_MaterialSphere.uasset" 54
+"C:/Users/Some Guy/Documents/Unreal Projects/Hydroneer/Content/StarterContent/Props/Materials/M_MaterialSphere_Plain.uasset" 55
+"C:/Users/Some Guy/Documents/Unreal Projects/Hydroneer/Content/StarterContent/Props/SM_MatPreviewMesh_02.uasset" 56
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BlendAngleCorrectedNormals.uasset" 57
+"C:/Users/Some Guy/Documents/Unreal Projects/Hydroneer/Content/StarterContent/Textures/T_Detail_Rocky_N.uasset" 58
+"C:/Users/Some Guy/Documents/Unreal Projects/Hydroneer/Content/StarterContent/Textures/T_Rock_Basalt_D.uasset" 59
+"C:/Users/Some Guy/Documents/Unreal Projects/Hydroneer/Content/StarterContent/Textures/T_RockMesh_M.uasset" 60
+"C:/Users/Some Guy/Documents/Unreal Projects/Hydroneer/Content/StarterContent/Textures/T_RockMesh_N.uasset" 61
+"C:/Users/Some Guy/Documents/Unreal Projects/Hydroneer/Content/StarterContent/Props/Materials/M_Rock.uasset" 62
+"C:/Users/Some Guy/Documents/Unreal Projects/Hydroneer/Content/StarterContent/Props/SM_Rock.uasset" 63
+"C:/Users/Some Guy/Documents/Unreal Projects/Hydroneer/Content/StarterContent/Textures/T_Shelf_M.uasset" 64
+"C:/Users/Some Guy/Documents/Unreal Projects/Hydroneer/Content/StarterContent/Textures/T_Shelf_N.uasset" 65
+"C:/Users/Some Guy/Documents/Unreal Projects/Hydroneer/Content/StarterContent/Props/Materials/M_Shelf.uasset" 66
+"C:/Users/Some Guy/Documents/Unreal Projects/Hydroneer/Content/StarterContent/Props/SM_Shelf.uasset" 67
+"C:/Users/Some Guy/Documents/Unreal Projects/Hydroneer/Content/StarterContent/Materials/M_Basic_Floor.uasset" 68
+"C:/Users/Some Guy/Documents/Unreal Projects/Hydroneer/Content/StarterContent/Props/SM_Stairs.uasset" 69
+"C:/Users/Some Guy/Documents/Unreal Projects/Hydroneer/Content/StarterContent/Shapes/Shape_Cone.uasset" 70
+"C:/Users/Some Guy/Documents/Unreal Projects/Hydroneer/Content/StarterContent/Shapes/Shape_Cylinder.uasset" 71
+"C:/Users/Some Guy/Documents/Unreal Projects/Hydroneer/Content/StarterContent/Shapes/Shape_NarrowCapsule.uasset" 72
+"C:/Users/Some Guy/Documents/Unreal Projects/Hydroneer/Content/StarterContent/Shapes/Shape_Pipe.uasset" 73
+"C:/Users/Some Guy/Documents/Unreal Projects/Hydroneer/Content/StarterContent/Shapes/Shape_Pipe_180.uasset" 74
+"C:/Users/Some Guy/Documents/Unreal Projects/Hydroneer/Content/StarterContent/Shapes/Shape_Pipe_90.uasset" 75
+"C:/Users/Some Guy/Documents/Unreal Projects/Hydroneer/Content/StarterContent/Shapes/Shape_Plane.uasset" 76
+"C:/Users/Some Guy/Documents/Unreal Projects/Hydroneer/Content/StarterContent/Shapes/Shape_Torus.uasset" 77
+"C:/Users/Some Guy/Documents/Unreal Projects/Hydroneer/Content/StarterContent/Shapes/Shape_Trim.uasset" 78
+"C:/Users/Some Guy/Documents/Unreal Projects/Hydroneer/Content/StarterContent/Shapes/Shape_Trim_90_In.uasset" 79
+"C:/Users/Some Guy/Documents/Unreal Projects/Hydroneer/Content/StarterContent/Shapes/Shape_Trim_90_Out.uasset" 80
+"C:/Users/Some Guy/Documents/Unreal Projects/Hydroneer/Content/StarterContent/Shapes/Shape_TriPyramid.uasset" 81
+"C:/Users/Some Guy/Documents/Unreal Projects/Hydroneer/Content/StarterContent/Shapes/Shape_Tube.uasset" 82
+"C:/Users/Some Guy/Documents/Unreal Projects/Hydroneer/Content/StarterContent/Shapes/Shape_Wedge_A.uasset" 83
+"C:/Users/Some Guy/Documents/Unreal Projects/Hydroneer/Content/StarterContent/Shapes/Shape_Wedge_B.uasset" 84
+"C:/Users/Some Guy/Documents/Unreal Projects/Hydroneer/Content/StarterContent/Shapes/Shape_WideCapsule.uasset" 85
+"C:/Users/Some Guy/Documents/Unreal Projects/Hydroneer/Content/WorldObjects/Items/BP_ParentItem.uasset" 86
+"C:/Users/Some Guy/Documents/Unreal Projects/Hydroneer/Content/WorldObjects/Items/BuildItems/BP_ParentBuild.uasset" 87
+"../../../Engine/Content/BasicShapes/BasicShapeMaterial.uasset" 88
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Opacity/CameraDepthFade.uasset" 89
+"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_M.uasset" 90
+"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_N.uasset" 91
+"../../../Engine/Content/EngineMaterials/WorldGridMaterial.uasset" 92
+"../../../Engine/Content/BasicShapes/Cube.uasset" 93
+"C:/Users/Some Guy/Documents/Unreal Projects/Hydroneer/Content/WorldObjects/Items/BuildItems/BP_Anvil.uasset" 94
+"C:/Users/Some Guy/Documents/Unreal Projects/Hydroneer/Content/WorldObjects/Items/BuildItems/BP_BuildBed.uasset" 95
+"C:/Users/Some Guy/Documents/Unreal Projects/Hydroneer/Content/WorldObjects/Items/BuildItems/BP_BuildCarpet.uasset" 96
+"C:/Users/Some Guy/Documents/Unreal Projects/Hydroneer/Content/WorldObjects/Items/BuildItems/BP_BuildFancyBed.uasset" 97
+"C:/Users/Some Guy/Documents/Unreal Projects/Hydroneer/Content/WorldObjects/Items/BuildItems/BP_BuildFancyTable.uasset" 98
+"C:/Users/Some Guy/Documents/Unreal Projects/Hydroneer/Content/WorldObjects/Items/BuildItems/BP_BuildFloor.uasset" 99
+"C:/Users/Some Guy/Documents/Unreal Projects/Hydroneer/Content/WorldObjects/Items/BuildItems/BP_BuildLargeDoorway.uasset" 100
+"C:/Users/Some Guy/Documents/Unreal Projects/Hydroneer/Content/WorldObjects/Items/BuildItems/BP_BuildLargeFloor.uasset" 101
+"C:/Users/Some Guy/Documents/Unreal Projects/Hydroneer/Content/WorldObjects/Items/BuildItems/BP_BuildLargeFoundation.uasset" 102
+"C:/Users/Some Guy/Documents/Unreal Projects/Hydroneer/Content/WorldObjects/Items/BuildItems/BP_ParentBuildWall.uasset" 103
+"C:/Users/Some Guy/Documents/Unreal Projects/Hydroneer/Content/WorldObjects/Items/BuildItems/BP_BuildLargeWall1.uasset" 104
+"C:/Users/Some Guy/Documents/Unreal Projects/Hydroneer/Content/WorldObjects/Items/BuildItems/BP_BuildLargeWall2.uasset" 105
+"C:/Users/Some Guy/Documents/Unreal Projects/Hydroneer/Content/WorldObjects/Items/BuildItems/BP_BuildLargeWallTriangle.uasset" 106
+"C:/Users/Some Guy/Documents/Unreal Projects/Hydroneer/Content/WorldObjects/Items/BuildItems/BP_BuildLargeWallWindow1.uasset" 107
+"C:/Users/Some Guy/Documents/Unreal Projects/Hydroneer/Content/WorldObjects/Items/BuildItems/BP_BuildLargeWallWindow2.uasset" 108
+"C:/Users/Some Guy/Documents/Unreal Projects/Hydroneer/Content/WorldObjects/Items/BuildItems/BP_BuildPole.uasset" 109
+"C:/Users/Some Guy/Documents/Unreal Projects/Hydroneer/Content/WorldObjects/Items/BuildItems/BP_BuildRoofFlat.uasset" 110
+"C:/Users/Some Guy/Documents/Unreal Projects/Hydroneer/Content/WorldObjects/Items/BuildItems/BP_BuildRoofLong.uasset" 111
+"C:/Users/Some Guy/Documents/Unreal Projects/Hydroneer/Content/WorldObjects/Items/BuildItems/BP_BuildRoofShort.uasset" 112
+"C:/Users/Some Guy/Documents/Unreal Projects/Hydroneer/Content/WorldObjects/Items/BuildItems/BP_ParentBuildStorage.uasset" 113
+"C:/Users/Some Guy/Documents/Unreal Projects/Hydroneer/Content/WorldObjects/Items/BuildItems/BP_BuildSafe.uasset" 114
+"C:/Users/Some Guy/Documents/Unreal Projects/Hydroneer/Content/WorldObjects/Items/BuildItems/BP_ParentBuildSeedBag.uasset" 115
+"C:/Users/Some Guy/Documents/Unreal Projects/Hydroneer/Content/WorldObjects/Items/BuildItems/BP_BuildSeedBagAfage.uasset" 116
+"C:/Users/Some Guy/Documents/Unreal Projects/Hydroneer/Content/WorldObjects/Items/BuildItems/BP_BuildSeedBagEmberSpice.uasset" 117
+"C:/Users/Some Guy/Documents/Unreal Projects/Hydroneer/Content/WorldObjects/Items/BuildItems/BP_BuildSeedBagFrostspine.uasset" 118
+"C:/Users/Some Guy/Documents/Unreal Projects/Hydroneer/Content/WorldObjects/Items/BuildItems/BP_BuildSeedBagGluuin.uasset" 119
+"C:/Users/Some Guy/Documents/Unreal Projects/Hydroneer/Content/WorldObjects/Items/BuildItems/BP_BuildSeedBagGreenCane.uasset" 120
+"C:/Users/Some Guy/Documents/Unreal Projects/Hydroneer/Content/WorldObjects/Items/BuildItems/BP_BuildSeedBagHillLavender.uasset" 121
+"C:/Users/Some Guy/Documents/Unreal Projects/Hydroneer/Content/WorldObjects/Items/BuildItems/BP_BuildSeedBagLunarLeaf.uasset" 122
+"C:/Users/Some Guy/Documents/Unreal Projects/Hydroneer/Content/WorldObjects/Items/BuildItems/BP_BuildSeedBagRegalRye.uasset" 123
+"C:/Users/Some Guy/Documents/Unreal Projects/Hydroneer/Content/WorldObjects/Items/BuildItems/BP_BuildSeedBagStreedThorn.uasset" 124
+"C:/Users/Some Guy/Documents/Unreal Projects/Hydroneer/Content/WorldObjects/Items/BuildItems/BP_BuildSeedBagWildBower.uasset" 125
+"C:/Users/Some Guy/Documents/Unreal Projects/Hydroneer/Content/WorldObjects/Items/BuildItems/BP_BuildStairs.uasset" 126
+"C:/Users/Some Guy/Documents/Unreal Projects/Hydroneer/Content/WorldObjects/Items/BuildItems/BP_BuildTable.uasset" 127
+"C:/Users/Some Guy/Documents/Unreal Projects/Hydroneer/Content/WorldObjects/Items/BuildItems/BP_BuildWall.uasset" 128
+"C:/Users/Some Guy/Documents/Unreal Projects/Hydroneer/Content/WorldObjects/Items/BuildItems/BP_BuildWindow.uasset" 129
+"C:/Users/Some Guy/Documents/Unreal Projects/Hydroneer/Content/WorldObjects/Items/BuildItems/BP_ParentConveyer.uasset" 130
+"C:/Users/Some Guy/Documents/Unreal Projects/Hydroneer/Content/WorldObjects/Items/BuildItems/BP_Conveyer.uasset" 131
+"C:/Users/Some Guy/Documents/Unreal Projects/Hydroneer/Content/WorldObjects/Items/BuildItems/BP_ConveyerSplitter.uasset" 132
+"C:/Users/Some Guy/Documents/Unreal Projects/Hydroneer/Content/WorldObjects/Items/BuildItems/BP_ConveyerVertical.uasset" 133
+"C:/Users/Some Guy/Documents/Unreal Projects/Hydroneer/Content/WorldObjects/Items/BuildItems/BP_ConveyorShredder.uasset" 134
+"C:/Users/Some Guy/Documents/Unreal Projects/Hydroneer/Content/WorldObjects/Items/BuildItems/BP_DeerTrophy.uasset" 135
+"C:/Users/Some Guy/Documents/Unreal Projects/Hydroneer/Content/WorldObjects/Items/BuildItems/BP_FishingPot.uasset" 136
+"C:/Users/Some Guy/Documents/Unreal Projects/Hydroneer/Content/WorldObjects/Items/BuildItems/BP_FishTrophy.uasset" 137
+"C:/Users/Some Guy/Documents/Unreal Projects/Hydroneer/Content/WorldObjects/Items/BuildItems/BP_Funnel.uasset" 138
+"C:/Users/Some Guy/Documents/Unreal Projects/Hydroneer/Content/WorldObjects/Items/BuildItems/BP_GoldenHeadStatue.uasset" 139
+"C:/Users/Some Guy/Documents/Unreal Projects/Hydroneer/Content/WorldObjects/Items/BuildItems/BP_ParentWaterItem.uasset" 140
+"C:/Users/Some Guy/Documents/Unreal Projects/Hydroneer/Content/WorldObjects/Items/BuildItems/BP_ParentWaterItemDurability.uasset" 141
+"C:/Users/Some Guy/Documents/Unreal Projects/Hydroneer/Content/WorldObjects/Items/BuildItems/BP_GoliathDrill.uasset" 142
+"C:/Users/Some Guy/Documents/Unreal Projects/Hydroneer/Content/WorldObjects/Items/BuildItems/BP_GrindingWheel.uasset" 143
+"C:/Users/Some Guy/Documents/Unreal Projects/Hydroneer/Content/WorldObjects/Items/BuildItems/BP_Harvester.uasset" 144
+"C:/Users/Some Guy/Documents/Unreal Projects/Hydroneer/Content/WorldObjects/Items/BuildItems/BP_IntakePipe.uasset" 145
+"C:/Users/Some Guy/Documents/Unreal Projects/Hydroneer/Content/WorldObjects/Items/BuildItems/BP_ParentBuildLighting.uasset" 146
+"C:/Users/Some Guy/Documents/Unreal Projects/Hydroneer/Content/WorldObjects/Items/BuildItems/BP_LightPost.uasset" 147
+"C:/Users/Some Guy/Documents/Unreal Projects/Hydroneer/Content/WorldObjects/Items/BuildItems/BP_PipeBent.uasset" 148
+"C:/Users/Some Guy/Documents/Unreal Projects/Hydroneer/Content/WorldObjects/Items/BuildItems/BP_PipeCork.uasset" 149
+"C:/Users/Some Guy/Documents/Unreal Projects/Hydroneer/Content/WorldObjects/Items/BuildItems/BP_PipeFilter.uasset" 150
+"C:/Users/Some Guy/Documents/Unreal Projects/Hydroneer/Content/WorldObjects/Items/BuildItems/BP_PipeValve.uasset" 151
+"C:/Users/Some Guy/Documents/Unreal Projects/Hydroneer/Content/WorldObjects/Items/BuildItems/BP_Plinth.uasset" 152
+"C:/Users/Some Guy/Documents/Unreal Projects/Hydroneer/Content/WorldObjects/Items/BuildItems/BP_PressureGaugePipe.uasset" 153
+"C:/Users/Some Guy/Documents/Unreal Projects/Hydroneer/Content/WorldObjects/Items/BuildItems/BP_PressureTankPipe.uasset" 154
+"C:/Users/Some Guy/Documents/Unreal Projects/Hydroneer/Content/WorldObjects/Items/BuildItems/BP_RamDrill.uasset" 155
+"C:/Users/Some Guy/Documents/Unreal Projects/Hydroneer/Content/WorldObjects/Items/BuildItems/BP_Scales.uasset" 156
+"C:/Users/Some Guy/Documents/Unreal Projects/Hydroneer/Content/WorldObjects/Items/BuildItems/BP_SmallFurnace.uasset" 157
+"C:/Users/Some Guy/Documents/Unreal Projects/Hydroneer/Content/WorldObjects/Items/BuildItems/BP_StraightPipe.uasset" 158
+"C:/Users/Some Guy/Documents/Unreal Projects/Hydroneer/Content/WorldObjects/Items/BuildItems/BP_ThatchCorner1.uasset" 159
+"C:/Users/Some Guy/Documents/Unreal Projects/Hydroneer/Content/WorldObjects/Items/BuildItems/BP_ThatchCorner2.uasset" 160
+"C:/Users/Some Guy/Documents/Unreal Projects/Hydroneer/Content/WorldObjects/Items/BuildItems/BP_ThatchFlat.uasset" 161
+"C:/Users/Some Guy/Documents/Unreal Projects/Hydroneer/Content/WorldObjects/Items/BuildItems/BP_ThatchRamp.uasset" 162
+"C:/Users/Some Guy/Documents/Unreal Projects/Hydroneer/Content/WorldObjects/Items/BuildItems/BP_Throne.uasset" 163
+"C:/Users/Some Guy/Documents/Unreal Projects/Hydroneer/Content/WorldObjects/Items/BuildItems/BP_ToolRack.uasset" 164
+"C:/Users/Some Guy/Documents/Unreal Projects/Hydroneer/Content/WorldObjects/Items/BuildItems/BP_TPipe.uasset" 165
+"C:/Users/Some Guy/Documents/Unreal Projects/Hydroneer/Content/WorldObjects/Items/BuildItems/BP_WaterfallTub.uasset" 166
+"C:/Users/Some Guy/Documents/Unreal Projects/Hydroneer/Content/WorldObjects/Items/BuildItems/BP_WoodBlock.uasset" 167
+"C:/Users/Some Guy/Documents/Unreal Projects/Hydroneer/Content/WorldObjects/Items/Plants/BP_ParentPlant.uasset" 168
+"../../../Engine/Content/EditorBlueprintResources/StandardMacros.uasset" 169
+"C:/Users/Some Guy/Documents/Unreal Projects/Hydroneer/Content/WorldObjects/Items/ToolItems/BP_ParentTool.uasset" 170
+"C:/Users/Some Guy/Documents/Unreal Projects/Hydroneer/Content/Materials/Other3DPassThroughThing.uasset" 171
+"C:/Users/Some Guy/Documents/Unreal Projects/Hydroneer/Content/Meshes/UsedItems/Tools/SM_MapMesh.uasset" 172
+"C:/Users/Some Guy/Documents/Unreal Projects/Hydroneer/Content/WorldObjects/BP_DayNightCycle.uasset" 173
+"C:/Users/Some Guy/Documents/Unreal Projects/Hydroneer/Content/BP_Game_Controller.uasset" 174
+"C:/Users/Some Guy/Documents/Unreal Projects/Hydroneer/Content/StarterContent/Props/SM_Chair.uasset" 175
+"C:/Users/Some Guy/Documents/Unreal Projects/Hydroneer/Content/WorldObjects/Items/BuildItems/BP_Test.uasset" 176
+"C:/Users/Some Guy/Documents/Unreal Projects/Hydroneer/Content/WorldObjects/Items/ResourceItems/BP_ParentResource_C.uasset" 177
+"C:/Users/Some Guy/Documents/Unreal Projects/Hydroneer/Content/WorldObjects/Items/ResourceItems/BP_DirtResource.uasset" 178
+"C:/Users/Some Guy/Documents/Unreal Projects/Hydroneer/Content/WorldObjects/Items/ResourceItems/BP_GoldOre.uasset" 179
+"C:/Users/Some Guy/Documents/Unreal Projects/Hydroneer/Content/WorldObjects/Items/ResourceItems/BP_IronOre.uasset" 180
+"C:/Users/Some Guy/Documents/Unreal Projects/Hydroneer/Content/WorldObjects/Items/ResourceItems/BP_ScrapMetal.uasset" 181
+"C:/Users/Some Guy/Documents/Unreal Projects/Hydroneer/Content/WorldObjects/Items/ResourceItems/BP_UncutEmerald.uasset" 182
+"C:/Users/Some Guy/Documents/Unreal Projects/Hydroneer/Content/WorldObjects/Items/ResourceItems/BP_UncutRuby.uasset" 183
+"C:/Users/Some Guy/Documents/Unreal Projects/Hydroneer/Content/WorldObjects/Items/ResourceItems/BP_UncutSapphire.uasset" 184
+"C:/Users/Some Guy/Documents/Unreal Projects/Hydroneer/Content/SpawnMenu/ItemDeletion.uasset" 185
+"C:/Users/Some Guy/Documents/Unreal Projects/Hydroneer/Content/WorldObjects/Vehicles/BP_ParentVehicle.uasset" 186
+"C:/Users/Some Guy/Documents/Unreal Projects/Hydroneer/Content/WorldObjects/Vehicles/BP_PickupTruck.uasset" 187
+"C:/Users/Some Guy/Documents/Unreal Projects/Hydroneer/Content/SpawnMenu/TidyWorld.uasset" 188
+"C:/Users/Some Guy/Documents/Unreal Projects/Hydroneer/Content/UI/UI_WorldMap.uasset" 189
+"C:/Users/Some Guy/Documents/Unreal Projects/Hydroneer/Content/SpawnMenu/MainMenu.uasset" 190
+"C:/Users/Some Guy/Documents/Unreal Projects/Hydroneer/Content/WorldObjects/Items/ToolItems/BP_WorldMap.uasset" 191
+"C:/Users/Some Guy/Documents/Unreal Projects/Hydroneer/Content/WorldObjects/StoreItems/BP_ParentStoreItem.uasset" 192
+"C:/Users/Some Guy/Documents/Unreal Projects/Hydroneer/Content/WorldObjects/Vehicles/BP_Excavator.uasset" 193
+"../../../Engine/Content/ArtTools/RenderToTexture/Meshes/S_1_Unit_Plane.uasset" 194
+"../../../Engine/Content/EngineMaterials/DefaultMaterial.uasset" 195
+"../../../Engine/Content/BasicShapes/Cone.uasset" 196
+"../../../Engine/Content/BasicShapes/Cylinder.uasset" 197
+"../../../Engine/Content/BasicShapes/Plane.uasset" 198
+"../../../Engine/Content/BasicShapes/Sphere.uasset" 199
+"../../../Engine/Content/EditorLandscapeResources/DataLayer.uasset" 200
+"../../../Engine/Content/EditorMaterials/GizmoMaterial.uasset" 201
+"../../../Engine/Content/EditorMaterials/MAT_Groups_Toggle.uasset" 202
+"../../../Engine/Content/EditorMaterials/MAT_Groups_Visibility.uasset" 203
+"../../../Engine/Content/EditorMaterials/PreviewShadowIndicator.uasset" 204
+"../../../Engine/Content/EditorMaterials/PreviewShadowIndicatorMaterial.uasset" 205
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_ColorTrack.uasset" 206
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Anim.uasset" 207
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_AudioMaster.uasset" 208
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Director.uasset" 209
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Event.uasset" 210
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Fade.uasset" 211
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Float.uasset" 212
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Move.uasset" 213
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Slomo.uasset" 214
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Sound.uasset" 215
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Vector.uasset" 216
+"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_NoImage.uasset" 217
+"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_OOD.uasset" 218
+"../../../Engine/Content/EditorMaterials/Camera/CineMat.uasset" 219
+"../../../Engine/Content/EditorMaterials/Camera/MI_CineMat_Rig.uasset" 220
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Arm.uasset" 221
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Base.uasset" 222
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Body.uasset" 223
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Mount.uasset" 224
+"../../../Engine/Content/EditorMeshes/Camera/SM_RailRig_Mount.uasset" 225
+"../../../Engine/Content/EditorMeshes/Camera/SM_RailRig_Track.uasset" 226
+"../../../Engine/Content/EditorResources/BSPVertex.uasset" 227
+"../../../Engine/Content/EditorResources/EmptyActor.uasset" 228
+"../../../Engine/Content/EditorResources/S_Actor.uasset" 229
+"../../../Engine/Content/EditorResources/S_Trigger.uasset" 230
+"../../../Engine/Content/EditorResources/AudioIcons/S_AudioComponent.uasset" 231
+"../../../Engine/Content/EditorResources/AudioIcons/S_AudioComponent_AutoActivate.uasset" 232
+"../../../Engine/Content/EditorResources/LightIcons/S_LightError.uasset" 233
+"../../../Engine/Content/EditorResources/SequenceRecorder/Countdown.uasset" 234
+"../../../Engine/Content/EditorResources/SequenceRecorder/RecordingIndicator.uasset" 235
+"../../../Engine/Content/EditorSounds/Notifications/CompileFailed.uasset" 236
+"../../../Engine/Content/EditorSounds/Notifications/CompileFailed_Cue.uasset" 237
+"../../../Engine/Content/EditorSounds/Notifications/CompileSuccess.uasset" 238
+"../../../Engine/Content/EditorSounds/Notifications/CompileStart_Cue.uasset" 239
+"../../../Engine/Content/EditorSounds/Notifications/CompileSuccess_Cue.uasset" 240
+"../../../Engine/Content/EngineDamageTypes/DmgTypeBP_Environmental.uasset" 241
+"../../../Engine/Content/EngineDebugMaterials/HeatmapGradient.uasset" 242
+"../../../Engine/Content/EngineDebugMaterials/BoneWeightMaterial.uasset" 243
+"../../../Engine/Content/EngineDebugMaterials/ClothMaterial.uasset" 244
+"../../../Engine/Content/EngineDebugMaterials/ClothMaterial_WF.uasset" 245
+"../../../Engine/Content/EngineDebugMaterials/DebugEditorMaterial.uasset" 246
+"../../../Engine/Content/EngineDebugMaterials/DebugMeshMaterial.uasset" 247
+"../../../Engine/Content/EngineDebugMaterials/GeomMaterial.uasset" 248
+"../../../Engine/Content/EngineDebugMaterials/M_SimpleTranslucent.uasset" 249
+"../../../Engine/Content/EngineFonts/Faces/RobotoBold.uasset" 250
+"../../../Engine/Content/EngineFonts/Faces/RobotoBoldItalic.uasset" 251
+"../../../Engine/Content/EngineFonts/Faces/RobotoItalic.uasset" 252
+"../../../Engine/Content/EngineFonts/Faces/RobotoLight.uasset" 253
+"../../../Engine/Content/EngineFonts/Faces/RobotoRegular.uasset" 254
+"../../../Engine/Content/EngineFonts/Roboto.uasset" 255
+"../../../Engine/Content/EngineFonts/Faces/RobotoTiny.uasset" 256
+"../../../Engine/Content/EngineFonts/RobotoTiny.uasset" 257
+"../../../Engine/Content/EngineMaterials/BaseFlattenDiffuseMap.uasset" 258
+"../../../Engine/Content/EngineMaterials/BaseFlattenEmissiveMap.uasset" 259
+"../../../Engine/Content/EngineMaterials/BaseFlattenGrayscaleMap.uasset" 260
+"../../../Engine/Content/EngineMaterials/BaseFlattenNormalMap.uasset" 261
+"../../../Engine/Content/EngineMaterials/BaseFlattenMaterial.uasset" 262
+"../../../Engine/Content/EngineMaterials/DefaultBloomKernel.uasset" 263
+"../../../Engine/Content/EngineMaterials/DefaultBokeh.uasset" 264
+"../../../Engine/Content/EngineMaterials/DefaultDiffuse.uasset" 265
+"../../../Engine/Content/EngineMaterials/DefaultDeferredDecalMaterial.uasset" 266
+"../../../Engine/Content/EngineMaterials/DefaultLightFunctionMaterial.uasset" 267
+"../../../Engine/Content/EngineMaterials/DefaultPhysicalMaterial.uasset" 268
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat2Components.uasset" 269
+"../../../Engine/Content/EngineMaterials/DefaultPostProcessMaterial.uasset" 270
+"../../../Engine/Content/EngineFonts/RobotoDistanceField.uasset" 271
+"../../../Engine/Content/EngineMaterials/DefaultTextMaterialOpaque.uasset" 272
+"../../../Engine/Content/EngineMaterials/DefaultWhiteGrid.uasset" 273
+"../../../Engine/Content/EngineMaterials/EditorBrushMaterial.uasset" 274
+"../../../Engine/Content/EngineMaterials/Good64x64TilingNoiseHighFreq.uasset" 275
+"../../../Engine/Content/EngineMaterials/MiniFont.uasset" 276
+"../../../Engine/Content/EngineMaterials/InvalidLightmapSettings.uasset" 277
+"../../../Engine/Content/EngineMaterials/M_InvalidLightmapSettings.uasset" 278
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/WorldPositionOffset/CameraOffset.uasset" 279
+"../../../Engine/Content/EngineMaterials/PhAT_JointLimitMaterial.uasset" 280
+"../../../Engine/Content/EngineMaterials/PreintegratedSkinBRDF.uasset" 281
+"../../../Engine/Content/EngineMaterials/RemoveSurfaceMaterial.uasset" 282
+"../../../Engine/Content/EngineMaterials/WeightMapPlaceholderTexture.uasset" 283
+"../../../Engine/Content/EngineResources/WhiteSquareTexture.uasset" 284
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough.uasset" 285
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked.uasset" 286
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque.uasset" 287
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked_OneSided.uasset" 288
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque_OneSided.uasset" 289
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent.uasset" 290
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent_OneSided.uasset" 291
+"../../../Engine/Content/EngineMeshes/Cylinder.uasset" 292
+"../../../Engine/Content/EngineMeshes/Sphere.uasset" 293
+"../../../Engine/Content/EngineResources/Black.uasset" 294
+"../../../Engine/Content/EngineResources/DefaultTexture.uasset" 295
+"../../../Engine/Content/EngineResources/DefaultTextureCube.uasset" 296
+"../../../Engine/Content/EngineResources/DefaultVolumeTexture2D.uasset" 297
+"../../../Engine/Content/EngineResources/DefaultVolumeTexture.uasset" 298
+"../../../Engine/Content/EngineResources/GradientTexture0.uasset" 299
+"../../../Engine/Content/EngineSounds/Master.uasset" 300
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/ConvertFromDiffSpec.uasset" 301
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/PowerToRoughness.uasset" 302
+"../../../Engine/Content/Maps/Templates/Thumbnails/Default.uasset" 303
+"../../../Engine/Content/Maps/Templates/Thumbnails/VR-Basic.uasset" 304
+"../../../Engine/Content/MobileResources/T_MobileControls_texture.uasset" 305
+"../../../Engine/Content/MobileResources/T_MobileMenu2.uasset" 306
+"../../../Engine/Content/MobileResources/HUD/AnalogHat.uasset" 307
+"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Background.uasset" 308
+"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Thumb.uasset" 309
+"../../../Engine/Content/MobileResources/HUD/DefaultVirtualJoysticks.uasset" 310
+"../../../Engine/Content/MobileResources/HUD/LeftVirtualJoystickOnly.uasset" 311
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton1_off.uasset" 312
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton1_on.uasset" 313
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton2_off.uasset" 314
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton2_on.uasset" 315
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton3.uasset" 316
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButtonFire.uasset" 317
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad.uasset" 318
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad2.uasset" 319
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad3.uasset" 320
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionStick.uasset" 321
+"../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickInner.uasset" 322
+"../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickOutter.uasset" 323
+"../../../Engine/Content/Tutorial/ContentIntroCurve.uasset" 324
+"../../../Engine/Content/VREditor/LaserPointer/VR_LaserPower_01.uasset" 325
+"../../../Engine/Content/VREditor/TransformGizmo/TransformGizmoMaterial.uasset" 326
+"../../../Engine/Content/VREditor/TransformGizmo/TranslucentTransformGizmoMaterial.uasset" 327
+"../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxCorner.uasset" 328
+"../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxEdge.uasset" 329
+"../../../Engine/Content/VREditor/TransformGizmo/PlaneTranslationHandle.uasset" 330
+"../../../Engine/Content/VREditor/TransformGizmo/Main.uasset" 331
+"../../../Engine/Content/VREditor/TransformGizmo/Xray.uasset" 332
+"../../../Engine/Content/VREditor/TransformGizmo/SM_Sequencer_Key.uasset" 333
+"../../../Engine/Content/VREditor/TransformGizmo/SM_Sequencer_Node.uasset" 334
+"../../Plugins/2D/Paper2D/Content/PlaceholderTextures/DummySpriteTexture.uasset" 335
+"../../Plugins/2D/Paper2D/Content/DummySprite.uasset" 336
+"../../Plugins/2D/Paper2D/Content/DefaultPaperTerrainMaterial.uasset" 337
+"../../Plugins/2D/Paper2D/Content/DefaultSpriteMaterial.uasset" 338
+"../../Plugins/2D/Paper2D/Content/MaskedUnlitSpriteMaterial.uasset" 339
+"../../Plugins/2D/Paper2D/Content/OpaqueUnlitSpriteMaterial.uasset" 340
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/PokeAHoleMaterial.uasset" 341
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Textures/GearVRController_AO.uasset" 342
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Textures/GearVRController_Color.uasset" 343
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Textures/GearVRController_Normal.uasset" 344
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/GearVRControllerMaterial.uasset" 345
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Meshes/GearVrController.uasset" 346
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Textures/touchController_albedo.uasset" 347
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Textures/touchController_controlmap.uasset" 348
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/touchController_mat.uasset" 349
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Meshes/LeftTouchController.uasset" 350
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Meshes/RiftHMD.uasset" 351
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Meshes/RightTouchController.uasset" 352
+"C:/Users/Some Guy/Documents/Unreal Projects/Hydroneer/Content/StarterContent/Blueprints/Assets/FogBrightnessLUT.uasset" 353
+"C:/Users/Some Guy/Documents/Unreal Projects/Hydroneer/Content/StarterContent/Blueprints/Assets/SunlightColorLUT.uasset" 354
+"C:/Users/Some Guy/Documents/Unreal Projects/Hydroneer/Content/StarterContent/Blueprints/Assets/M_LightStage_Arrows.uasset" 355
+"../../../Engine/Content/MapTemplates/Sky/DaylightAmbientCubemap.uasset" 356
+"C:/Users/Some Guy/Documents/Unreal Projects/Hydroneer/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master.uasset" 357
+"C:/Users/Some Guy/Documents/Unreal Projects/Hydroneer/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Black.uasset" 358
+"C:/Users/Some Guy/Documents/Unreal Projects/Hydroneer/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_HDRI.uasset" 359
+"../../../Engine/Content/EditorMaterials/Thumbnails/SkySphereMaterial.uasset" 360
+"C:/Users/Some Guy/Documents/Unreal Projects/Hydroneer/Content/StarterContent/Blueprints/Assets/Skybox.uasset" 361
+"C:/Users/Some Guy/Documents/Unreal Projects/Hydroneer/Content/StarterContent/Blueprints/Assets/SM_Arrows.uasset" 362
+"C:/Users/Some Guy/Documents/Unreal Projects/Hydroneer/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset" 363
+"C:/Users/Some Guy/Documents/Unreal Projects/Hydroneer/Content/StarterContent/Blueprints/BP_LightStudio.uasset" 364
+"C:/Users/Some Guy/Documents/Unreal Projects/Hydroneer/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset" 365
+"C:/Users/Some Guy/Documents/Unreal Projects/Hydroneer/Content/StarterContent/Materials/M_AssetPlatform.uasset" 366
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ChromeBall.uasset" 367
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ClearCoat.uasset" 368
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ClearCoatBlack.uasset" 369
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/Color_checker.uasset" 370
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ColorGrid.uasset" 371
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_GreyBall.uasset" 372
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/SM_ColorCalibrator.uasset" 373
+"C:/Users/Some Guy/Documents/Unreal Projects/Hydroneer/Content/StarterContent/Architecture/SM_AssetPlatform.uasset" 374
+"C:/Users/Some Guy/Documents/Unreal Projects/Hydroneer/Content/StarterContent/Maps/Advanced_Lighting.umap" 375
+"../../../Engine/Content/EngineSky/C_Sky_Cloud_Color.uasset" 376
+"../../../Engine/Content/EngineSky/C_Sky_Horizon_Color.uasset" 377
+"../../../Engine/Content/EngineSky/C_Sky_Zenith_Color.uasset" 378
+"../../../Engine/Content/EngineSky/T_Sky_Blue.uasset" 379
+"../../../Engine/Content/EngineSky/T_Sky_Clouds_M.uasset" 380
+"../../../Engine/Content/EngineSky/T_Sky_Stars.uasset" 381
+"../../../Engine/Content/EngineSky/M_Sky_Panning_Clouds2.uasset" 382
+"../../../Engine/Content/EngineSky/SM_SkySphere.uasset" 383
+"../../../Engine/Content/EngineSky/BP_Sky_Sphere.uasset" 384
+"C:/Users/Some Guy/Documents/Unreal Projects/Hydroneer/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset" 385
+"C:/Users/Some Guy/Documents/Unreal Projects/Hydroneer/Content/StarterContent/Textures/T_MacroVariation.uasset" 386
+"C:/Users/Some Guy/Documents/Unreal Projects/Hydroneer/Content/StarterContent/Materials/M_Metal_Brushed_Nickel.uasset" 387
+"C:/Users/Some Guy/Documents/Unreal Projects/Hydroneer/Content/StarterContent/Textures/T_Metal_Aluminum_D.uasset" 388
+"C:/Users/Some Guy/Documents/Unreal Projects/Hydroneer/Content/StarterContent/Textures/T_Metal_Gold_N.uasset" 389
+"C:/Users/Some Guy/Documents/Unreal Projects/Hydroneer/Content/StarterContent/Materials/M_Metal_Burnished_Steel.uasset" 390
+"C:/Users/Some Guy/Documents/Unreal Projects/Hydroneer/Content/StarterContent/Textures/T_Metal_Copper_D.uasset" 391
+"C:/Users/Some Guy/Documents/Unreal Projects/Hydroneer/Content/StarterContent/Materials/M_Metal_Copper.uasset" 392
+"C:/Users/Some Guy/Documents/Unreal Projects/Hydroneer/Content/StarterContent/Textures/T_Statue_M.uasset" 393
+"C:/Users/Some Guy/Documents/Unreal Projects/Hydroneer/Content/StarterContent/Textures/T_Statue_N.uasset" 394
+"C:/Users/Some Guy/Documents/Unreal Projects/Hydroneer/Content/StarterContent/Props/Materials/M_StatueGlass.uasset" 395
+"C:/Users/Some Guy/Documents/Unreal Projects/Hydroneer/Content/StarterContent/Architecture/Floor_400x400.uasset" 396
+"C:/Users/Some Guy/Documents/Unreal Projects/Hydroneer/Content/StarterContent/Audio/Starter_Background_Cue.uasset" 397
+"C:/Users/Some Guy/Documents/Unreal Projects/Hydroneer/Content/StarterContent/Props/Materials/M_Statue.uasset" 398
+"C:/Users/Some Guy/Documents/Unreal Projects/Hydroneer/Content/StarterContent/Props/SM_Statue.uasset" 399
+"C:/Users/Some Guy/Documents/Unreal Projects/Hydroneer/Content/StarterContent/Textures/T_TableRound_M.uasset" 400
+"C:/Users/Some Guy/Documents/Unreal Projects/Hydroneer/Content/StarterContent/Textures/T_TableRound_N.uasset" 401
+"C:/Users/Some Guy/Documents/Unreal Projects/Hydroneer/Content/StarterContent/Props/Materials/M_TableRound.uasset" 402
+"C:/Users/Some Guy/Documents/Unreal Projects/Hydroneer/Content/StarterContent/Props/SM_TableRound.uasset" 403
+"C:/Users/Some Guy/Documents/Unreal Projects/Hydroneer/Content/StarterContent/Maps/Minimal_Default.umap" 404
+"C:/Users/Some Guy/Documents/Unreal Projects/Hydroneer/Content/StarterContent/Audio/Fire01_Cue.uasset" 405
+"C:/Users/Some Guy/Documents/Unreal Projects/Hydroneer/Content/StarterContent/Textures/T_Fire_SubUV.uasset" 406
+"C:/Users/Some Guy/Documents/Unreal Projects/Hydroneer/Content/StarterContent/Textures/T_Fire_Tiled_D.uasset" 407
+"C:/Users/Some Guy/Documents/Unreal Projects/Hydroneer/Content/StarterContent/Particles/Materials/M_Fire_SubUV.uasset" 408
+"C:/Users/Some Guy/Documents/Unreal Projects/Hydroneer/Content/StarterContent/Textures/T_Water_N.uasset" 409
+"C:/Users/Some Guy/Documents/Unreal Projects/Hydroneer/Content/StarterContent/Particles/Materials/M_Heat_Distortion.uasset" 410
+"C:/Users/Some Guy/Documents/Unreal Projects/Hydroneer/Content/StarterContent/Particles/Materials/M_Radial_Gradient.uasset" 411
+"C:/Users/Some Guy/Documents/Unreal Projects/Hydroneer/Content/StarterContent/Particles/P_Fire.uasset" 412
+"C:/Users/Some Guy/Documents/Unreal Projects/Hydroneer/Content/StarterContent/Blueprints/Blueprint_Effect_Fire.uasset" 413
+"C:/Users/Some Guy/Documents/Unreal Projects/Hydroneer/Content/StarterContent/Audio/Smoke01_Cue.uasset" 414
+"C:/Users/Some Guy/Documents/Unreal Projects/Hydroneer/Content/StarterContent/Particles/P_Smoke.uasset" 415
+"C:/Users/Some Guy/Documents/Unreal Projects/Hydroneer/Content/StarterContent/Blueprints/Blueprint_Effect_Smoke.uasset" 416
+"C:/Users/Some Guy/Documents/Unreal Projects/Hydroneer/Content/StarterContent/Audio/Fire_Sparks01_Cue.uasset" 417
+"C:/Users/Some Guy/Documents/Unreal Projects/Hydroneer/Content/StarterContent/Textures/T_Spark_Core.uasset" 418
+"C:/Users/Some Guy/Documents/Unreal Projects/Hydroneer/Content/StarterContent/Particles/Materials/M_Spark.uasset" 419
+"C:/Users/Some Guy/Documents/Unreal Projects/Hydroneer/Content/StarterContent/Particles/P_Sparks.uasset" 420
+"C:/Users/Some Guy/Documents/Unreal Projects/Hydroneer/Content/StarterContent/Blueprints/Blueprint_Effect_Sparks.uasset" 421
+"C:/Users/Some Guy/Documents/Unreal Projects/Hydroneer/Content/StarterContent/Audio/Steam01_Cue.uasset" 422
+"C:/Users/Some Guy/Documents/Unreal Projects/Hydroneer/Content/StarterContent/Particles/P_Steam_Lit.uasset" 423
+"C:/Users/Some Guy/Documents/Unreal Projects/Hydroneer/Content/StarterContent/Blueprints/Blueprint_Effect_Steam.uasset" 424
+"C:/Users/Some Guy/Documents/Unreal Projects/Hydroneer/Content/StarterContent/Textures/T_Lamp_M.uasset" 425
+"C:/Users/Some Guy/Documents/Unreal Projects/Hydroneer/Content/StarterContent/Textures/T_Lamp_N.uasset" 426
+"C:/Users/Some Guy/Documents/Unreal Projects/Hydroneer/Content/StarterContent/Props/Materials/M_Lamp.uasset" 427
+"C:/Users/Some Guy/Documents/Unreal Projects/Hydroneer/Content/StarterContent/Props/SM_Lamp_Ceiling.uasset" 428
+"C:/Users/Some Guy/Documents/Unreal Projects/Hydroneer/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset" 429
+"C:/Users/Some Guy/Documents/Unreal Projects/Hydroneer/Content/StarterContent/Props/SM_Lamp_Wall.uasset" 430
+"C:/Users/Some Guy/Documents/Unreal Projects/Hydroneer/Content/StarterContent/Blueprints/Blueprint_WallSconce.uasset" 431
+"C:/Users/Some Guy/Documents/Unreal Projects/Hydroneer/Content/StarterContent/Maps/StarterMap_BuiltData.uasset" 432
+"../../../Engine/Content/Functions/Engine_MaterialFunctions03/Procedurals/ComputeFilterWidth.uasset" 433
+"../../../Engine/Content/EngineMaterials/AntiAliasedTextMaterialTranslucent.uasset" 434
+"C:/Users/Some Guy/Documents/Unreal Projects/Hydroneer/Content/StarterContent/Textures/T_Brick_Clay_Beveled_D.uasset" 435
+"C:/Users/Some Guy/Documents/Unreal Projects/Hydroneer/Content/StarterContent/Textures/T_Brick_Clay_Beveled_M.uasset" 436
+"C:/Users/Some Guy/Documents/Unreal Projects/Hydroneer/Content/StarterContent/Textures/T_Brick_Clay_Beveled_N.uasset" 437
+"C:/Users/Some Guy/Documents/Unreal Projects/Hydroneer/Content/StarterContent/Materials/M_Brick_Clay_Beveled.uasset" 438
+"C:/Users/Some Guy/Documents/Unreal Projects/Hydroneer/Content/StarterContent/Textures/T_Brick_Clay_New_D.uasset" 439
+"C:/Users/Some Guy/Documents/Unreal Projects/Hydroneer/Content/StarterContent/Textures/T_Brick_Clay_New_M.uasset" 440
+"C:/Users/Some Guy/Documents/Unreal Projects/Hydroneer/Content/StarterContent/Textures/T_Brick_Clay_New_N.uasset" 441
+"C:/Users/Some Guy/Documents/Unreal Projects/Hydroneer/Content/StarterContent/Materials/M_Brick_Clay_New.uasset" 442
+"C:/Users/Some Guy/Documents/Unreal Projects/Hydroneer/Content/StarterContent/Textures/T_Brick_Clay_Old_D.uasset" 443
+"C:/Users/Some Guy/Documents/Unreal Projects/Hydroneer/Content/StarterContent/Textures/T_Brick_Clay_Old_N.uasset" 444
+"C:/Users/Some Guy/Documents/Unreal Projects/Hydroneer/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset" 445
+"C:/Users/Some Guy/Documents/Unreal Projects/Hydroneer/Content/StarterContent/Materials/M_Brick_Clay_Old.uasset" 446
+"C:/Users/Some Guy/Documents/Unreal Projects/Hydroneer/Content/StarterContent/Textures/T_Brick_Cut_Stone_D.uasset" 447
+"C:/Users/Some Guy/Documents/Unreal Projects/Hydroneer/Content/StarterContent/Textures/T_Brick_Cut_Stone_N.uasset" 448
+"C:/Users/Some Guy/Documents/Unreal Projects/Hydroneer/Content/StarterContent/Materials/M_Brick_Cut_Stone.uasset" 449
+"C:/Users/Some Guy/Documents/Unreal Projects/Hydroneer/Content/StarterContent/Textures/T_Brick_Hewn_Stone_D.uasset" 450
+"C:/Users/Some Guy/Documents/Unreal Projects/Hydroneer/Content/StarterContent/Textures/T_Brick_Hewn_Stone_M.uasset" 451
+"C:/Users/Some Guy/Documents/Unreal Projects/Hydroneer/Content/StarterContent/Textures/T_Brick_Hewn_Stone_N.uasset" 452
+"C:/Users/Some Guy/Documents/Unreal Projects/Hydroneer/Content/StarterContent/Materials/M_Brick_Hewn_Stone.uasset" 453
+"C:/Users/Some Guy/Documents/Unreal Projects/Hydroneer/Content/StarterContent/Textures/T_Ceramic_Tile_M.uasset" 454
+"C:/Users/Some Guy/Documents/Unreal Projects/Hydroneer/Content/StarterContent/Textures/T_Ceramic_Tile_N.uasset" 455
+"C:/Users/Some Guy/Documents/Unreal Projects/Hydroneer/Content/StarterContent/Textures/T_Rock_Marble_Polished_D.uasset" 456
+"C:/Users/Some Guy/Documents/Unreal Projects/Hydroneer/Content/StarterContent/Materials/M_Ceramic_Tile_Checker.uasset" 457
+"C:/Users/Some Guy/Documents/Unreal Projects/Hydroneer/Content/StarterContent/Textures/T_CobbleStone_Pebble_D.uasset" 458
+"C:/Users/Some Guy/Documents/Unreal Projects/Hydroneer/Content/StarterContent/Textures/T_CobbleStone_Pebble_M.uasset" 459
+"C:/Users/Some Guy/Documents/Unreal Projects/Hydroneer/Content/StarterContent/Textures/T_CobbleStone_Pebble_N.uasset" 460
+"C:/Users/Some Guy/Documents/Unreal Projects/Hydroneer/Content/StarterContent/Materials/M_CobbleStone_Pebble.uasset" 461
+"C:/Users/Some Guy/Documents/Unreal Projects/Hydroneer/Content/StarterContent/Textures/T_CobbleStone_Rough_D.uasset" 462
+"C:/Users/Some Guy/Documents/Unreal Projects/Hydroneer/Content/StarterContent/Textures/T_CobbleStone_Rough_N.uasset" 463
+"C:/Users/Some Guy/Documents/Unreal Projects/Hydroneer/Content/StarterContent/Textures/T_Gradinet_01.uasset" 464
+"C:/Users/Some Guy/Documents/Unreal Projects/Hydroneer/Content/StarterContent/Textures/T_Rock_Smooth_Granite_D.uasset" 465
+"C:/Users/Some Guy/Documents/Unreal Projects/Hydroneer/Content/StarterContent/Materials/M_CobbleStone_Rough.uasset" 466
+"C:/Users/Some Guy/Documents/Unreal Projects/Hydroneer/Content/StarterContent/Textures/T_CobbleStone_Smooth_D.uasset" 467
+"C:/Users/Some Guy/Documents/Unreal Projects/Hydroneer/Content/StarterContent/Textures/T_CobbleStone_Smooth_M.uasset" 468
+"C:/Users/Some Guy/Documents/Unreal Projects/Hydroneer/Content/StarterContent/Textures/T_CobbleStone_Smooth_N.uasset" 469
+"C:/Users/Some Guy/Documents/Unreal Projects/Hydroneer/Content/StarterContent/Materials/M_CobbleStone_Smooth.uasset" 470
+"C:/Users/Some Guy/Documents/Unreal Projects/Hydroneer/Content/StarterContent/Textures/T_Concrete_Grime_D.uasset" 471
+"C:/Users/Some Guy/Documents/Unreal Projects/Hydroneer/Content/StarterContent/Textures/T_Metal_Rust_N.uasset" 472
+"C:/Users/Some Guy/Documents/Unreal Projects/Hydroneer/Content/StarterContent/Materials/M_Concrete_Grime.uasset" 473
+"C:/Users/Some Guy/Documents/Unreal Projects/Hydroneer/Content/StarterContent/Textures/T_Concrete_Panels_D.uasset" 474
+"C:/Users/Some Guy/Documents/Unreal Projects/Hydroneer/Content/StarterContent/Textures/T_Concrete_Panels_N.uasset" 475
+"C:/Users/Some Guy/Documents/Unreal Projects/Hydroneer/Content/StarterContent/Materials/M_Concrete_Panels.uasset" 476
+"C:/Users/Some Guy/Documents/Unreal Projects/Hydroneer/Content/StarterContent/Textures/T_Concrete_Poured_D.uasset" 477
+"C:/Users/Some Guy/Documents/Unreal Projects/Hydroneer/Content/StarterContent/Textures/T_Concrete_Poured_N.uasset" 478
+"C:/Users/Some Guy/Documents/Unreal Projects/Hydroneer/Content/StarterContent/Materials/M_Concrete_Poured.uasset" 479
+"C:/Users/Some Guy/Documents/Unreal Projects/Hydroneer/Content/StarterContent/Textures/T_Concrete_Tiles_D.uasset" 480
+"C:/Users/Some Guy/Documents/Unreal Projects/Hydroneer/Content/StarterContent/Textures/T_Concrete_Tiles_M.uasset" 481
+"C:/Users/Some Guy/Documents/Unreal Projects/Hydroneer/Content/StarterContent/Textures/T_Concrete_Tiles_N.uasset" 482
+"C:/Users/Some Guy/Documents/Unreal Projects/Hydroneer/Content/StarterContent/Textures/T_Concrete_Tiles_Variation_M.uasset" 483
+"C:/Users/Some Guy/Documents/Unreal Projects/Hydroneer/Content/StarterContent/Materials/M_Concrete_Tiles.uasset" 484
+"C:/Users/Some Guy/Documents/Unreal Projects/Hydroneer/Content/StarterContent/Textures/T_Ground_Grass_D.uasset" 485
+"C:/Users/Some Guy/Documents/Unreal Projects/Hydroneer/Content/StarterContent/Textures/T_Ground_Grass_N.uasset" 486
+"C:/Users/Some Guy/Documents/Unreal Projects/Hydroneer/Content/StarterContent/Materials/M_Ground_Grass.uasset" 487
+"C:/Users/Some Guy/Documents/Unreal Projects/Hydroneer/Content/StarterContent/Textures/T_Ground_Gravel_D.uasset" 488
+"C:/Users/Some Guy/Documents/Unreal Projects/Hydroneer/Content/StarterContent/Textures/T_Ground_Gravel_N.uasset" 489
+"C:/Users/Some Guy/Documents/Unreal Projects/Hydroneer/Content/StarterContent/Materials/M_Ground_Gravel.uasset" 490
+"C:/Users/Some Guy/Documents/Unreal Projects/Hydroneer/Content/StarterContent/Textures/T_ground_Moss_D.uasset" 491
+"C:/Users/Some Guy/Documents/Unreal Projects/Hydroneer/Content/StarterContent/Textures/T_Ground_Moss_N.uasset" 492
+"C:/Users/Some Guy/Documents/Unreal Projects/Hydroneer/Content/StarterContent/Materials/M_Ground_Moss.uasset" 493
+"C:/Users/Some Guy/Documents/Unreal Projects/Hydroneer/Content/StarterContent/Materials/M_Metal_Chrome.uasset" 494
+"C:/Users/Some Guy/Documents/Unreal Projects/Hydroneer/Content/StarterContent/Textures/T_Metal_Gold_D.uasset" 495
+"C:/Users/Some Guy/Documents/Unreal Projects/Hydroneer/Content/StarterContent/Materials/M_Metal_Gold.uasset" 496
+"C:/Users/Some Guy/Documents/Unreal Projects/Hydroneer/Content/StarterContent/Textures/T_Metal_Rust_D.uasset" 497
+"C:/Users/Some Guy/Documents/Unreal Projects/Hydroneer/Content/StarterContent/Materials/M_Metal_Rust.uasset" 498
+"C:/Users/Some Guy/Documents/Unreal Projects/Hydroneer/Content/StarterContent/Textures/T_Metal_Steel_D.uasset" 499
+"C:/Users/Some Guy/Documents/Unreal Projects/Hydroneer/Content/StarterContent/Textures/T_Metal_Steel_N.uasset" 500
+"C:/Users/Some Guy/Documents/Unreal Projects/Hydroneer/Content/StarterContent/Materials/M_Metal_Steel.uasset" 501
+"C:/Users/Some Guy/Documents/Unreal Projects/Hydroneer/Content/StarterContent/Textures/T_Rock_Basalt_N.uasset" 502
+"C:/Users/Some Guy/Documents/Unreal Projects/Hydroneer/Content/StarterContent/Materials/M_Rock_Basalt.uasset" 503
+"C:/Users/Some Guy/Documents/Unreal Projects/Hydroneer/Content/StarterContent/Materials/M_Rock_Marble_Polished.uasset" 504
+"C:/Users/Some Guy/Documents/Unreal Projects/Hydroneer/Content/StarterContent/Textures/T_Rock_Sandstone_D.uasset" 505
+"C:/Users/Some Guy/Documents/Unreal Projects/Hydroneer/Content/StarterContent/Textures/T_Rock_Sandstone_N.uasset" 506
+"C:/Users/Some Guy/Documents/Unreal Projects/Hydroneer/Content/StarterContent/Materials/M_Rock_Sandstone.uasset" 507
+"C:/Users/Some Guy/Documents/Unreal Projects/Hydroneer/Content/StarterContent/Textures/T_Rock_Slate_D.uasset" 508
+"C:/Users/Some Guy/Documents/Unreal Projects/Hydroneer/Content/StarterContent/Textures/T_Rock_Slate_N.uasset" 509
+"C:/Users/Some Guy/Documents/Unreal Projects/Hydroneer/Content/StarterContent/Materials/M_Rock_Slate.uasset" 510
+"C:/Users/Some Guy/Documents/Unreal Projects/Hydroneer/Content/StarterContent/Textures/T_Checker_Noise_M.uasset" 511
+"C:/Users/Some Guy/Documents/Unreal Projects/Hydroneer/Content/StarterContent/Textures/T_Single_Tile_N.uasset" 512
+"C:/Users/Some Guy/Documents/Unreal Projects/Hydroneer/Content/StarterContent/Textures/T_Tech_Dot_M.uasset" 513
+"C:/Users/Some Guy/Documents/Unreal Projects/Hydroneer/Content/StarterContent/Textures/T_Tech_Dot_N.uasset" 514
+"C:/Users/Some Guy/Documents/Unreal Projects/Hydroneer/Content/StarterContent/Materials/M_Tech_Checker_Dot.uasset" 515
+"C:/Users/Some Guy/Documents/Unreal Projects/Hydroneer/Content/StarterContent/Textures/T_Tech_Hex_Tile_M.uasset" 516
+"C:/Users/Some Guy/Documents/Unreal Projects/Hydroneer/Content/StarterContent/Textures/T_Tech_Hex_Tile_N.uasset" 517
+"C:/Users/Some Guy/Documents/Unreal Projects/Hydroneer/Content/StarterContent/Materials/M_Tech_Hex_Tile.uasset" 518
+"C:/Users/Some Guy/Documents/Unreal Projects/Hydroneer/Content/StarterContent/Materials/M_Tech_Hex_Tile_Pulse.uasset" 519
+"C:/Users/Some Guy/Documents/Unreal Projects/Hydroneer/Content/StarterContent/Textures/T_Tech_Panel_M.uasset" 520
+"C:/Users/Some Guy/Documents/Unreal Projects/Hydroneer/Content/StarterContent/Textures/T_Tech_Panel_N.uasset" 521
+"C:/Users/Some Guy/Documents/Unreal Projects/Hydroneer/Content/StarterContent/Materials/M_Tech_Panel.uasset" 522
+"C:/Users/Some Guy/Documents/Unreal Projects/Hydroneer/Content/StarterContent/Materials/M_Water_Lake.uasset" 523
+"C:/Users/Some Guy/Documents/Unreal Projects/Hydroneer/Content/StarterContent/Textures/T_Water_M.uasset" 524
+"C:/Users/Some Guy/Documents/Unreal Projects/Hydroneer/Content/StarterContent/Materials/M_Water_Ocean.uasset" 525
+"C:/Users/Some Guy/Documents/Unreal Projects/Hydroneer/Content/StarterContent/Textures/T_Wood_Floor_Walnut_D.uasset" 526
+"C:/Users/Some Guy/Documents/Unreal Projects/Hydroneer/Content/StarterContent/Textures/T_Wood_Floor_Walnut_M.uasset" 527
+"C:/Users/Some Guy/Documents/Unreal Projects/Hydroneer/Content/StarterContent/Textures/T_Wood_Floor_Walnut_N.uasset" 528
+"C:/Users/Some Guy/Documents/Unreal Projects/Hydroneer/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Polished.uasset" 529
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Opacity/AlphaOffset.uasset" 530
+"C:/Users/Some Guy/Documents/Unreal Projects/Hydroneer/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Worn.uasset" 531
+"C:/Users/Some Guy/Documents/Unreal Projects/Hydroneer/Content/StarterContent/Textures/T_Wood_Oak_D.uasset" 532
+"C:/Users/Some Guy/Documents/Unreal Projects/Hydroneer/Content/StarterContent/Textures/T_Wood_Oak_N.uasset" 533
+"C:/Users/Some Guy/Documents/Unreal Projects/Hydroneer/Content/StarterContent/Materials/M_Wood_Oak.uasset" 534
+"C:/Users/Some Guy/Documents/Unreal Projects/Hydroneer/Content/StarterContent/Textures/T_Wood_Pine_D.uasset" 535
+"C:/Users/Some Guy/Documents/Unreal Projects/Hydroneer/Content/StarterContent/Textures/T_Wood_Pine_N.uasset" 536
+"C:/Users/Some Guy/Documents/Unreal Projects/Hydroneer/Content/StarterContent/Materials/M_Wood_Pine.uasset" 537
+"C:/Users/Some Guy/Documents/Unreal Projects/Hydroneer/Content/StarterContent/Textures/T_Wood_Walnut_D.uasset" 538
+"C:/Users/Some Guy/Documents/Unreal Projects/Hydroneer/Content/StarterContent/Textures/T_Wood_Walnut_N.uasset" 539
+"C:/Users/Some Guy/Documents/Unreal Projects/Hydroneer/Content/StarterContent/Materials/M_Wood_Walnut.uasset" 540
+"C:/Users/Some Guy/Documents/Unreal Projects/Hydroneer/Content/StarterContent/Architecture/Wall_400x200.uasset" 541
+"C:/Users/Some Guy/Documents/Unreal Projects/Hydroneer/Content/StarterContent/Architecture/Wall_Door_400x300.uasset" 542
+"C:/Users/Some Guy/Documents/Unreal Projects/Hydroneer/Content/StarterContent/Architecture/Wall_Window_400x300.uasset" 543
+"C:/Users/Some Guy/Documents/Unreal Projects/Hydroneer/Content/StarterContent/Audio/Collapse_Cue.uasset" 544
+"C:/Users/Some Guy/Documents/Unreal Projects/Hydroneer/Content/StarterContent/Audio/Starter_Music_Cue.uasset" 545
+"C:/Users/Some Guy/Documents/Unreal Projects/Hydroneer/Content/StarterContent/Textures/T_Dust_Particle_D.uasset" 546
+"C:/Users/Some Guy/Documents/Unreal Projects/Hydroneer/Content/StarterContent/Particles/Materials/M_Dust_Particle.uasset" 547
+"C:/Users/Some Guy/Documents/Unreal Projects/Hydroneer/Content/StarterContent/Particles/P_Ambient_Dust.uasset" 548
+"C:/Users/Some Guy/Documents/Unreal Projects/Hydroneer/Content/StarterContent/Props/MaterialSphere.uasset" 549
+"C:/Users/Some Guy/Documents/Unreal Projects/Hydroneer/Content/StarterContent/Textures/T_Frame_M.uasset" 550
+"C:/Users/Some Guy/Documents/Unreal Projects/Hydroneer/Content/StarterContent/Textures/T_Frame_N.uasset" 551
+"C:/Users/Some Guy/Documents/Unreal Projects/Hydroneer/Content/StarterContent/Props/Materials/M_Frame.uasset" 552
+"C:/Users/Some Guy/Documents/Unreal Projects/Hydroneer/Content/StarterContent/Props/SM_CornerFrame.uasset" 553
+"C:/Users/Some Guy/Documents/Unreal Projects/Hydroneer/Content/StarterContent/Props/SM_DoorFrame.uasset" 554
+"C:/Users/Some Guy/Documents/Unreal Projects/Hydroneer/Content/StarterContent/Props/SM_GlassWindow.uasset" 555
+"C:/Users/Some Guy/Documents/Unreal Projects/Hydroneer/Content/StarterContent/Props/SM_PillarFrame.uasset" 556
+"C:/Users/Some Guy/Documents/Unreal Projects/Hydroneer/Content/StarterContent/Props/SM_PillarFrame300.uasset" 557
+"C:/Users/Some Guy/Documents/Unreal Projects/Hydroneer/Content/StarterContent/Props/SM_WindowFrame.uasset" 558
+"C:/Users/Some Guy/Documents/Unreal Projects/Hydroneer/Content/StarterContent/Shapes/Shape_Cube.uasset" 559
+"C:/Users/Some Guy/Documents/Unreal Projects/Hydroneer/Content/StarterContent/Shapes/Shape_QuadPyramid.uasset" 560
+"C:/Users/Some Guy/Documents/Unreal Projects/Hydroneer/Content/StarterContent/Shapes/Shape_Sphere.uasset" 561
+"C:/Users/Some Guy/Documents/Unreal Projects/Hydroneer/Content/StarterContent/Maps/StarterMap.umap" 562
+"../../../Engine/Content/Maps/Entry_BuiltData.uasset" 563
+"../../../Engine/Content/Maps/Entry.umap" 564
