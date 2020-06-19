@@ -16,4 +16,4 @@
 | [DayNightExtended_P.pak](https://github.com/kaiheilos/Hydro/raw/master/Pak%20Mods/DayNightExtended_P.pak)  | Extends the length of the playable daytime  | Navsigda |
 | [PickupTruckFuel_P.pak](https://github.com/kaiheilos/Hydro/raw/master/Pak%20Mods/PickupTruckFuel_P.pak)  | greatly increases the fuel of the pickup truck  | Navsigda |
 
-NOTE:  If you are using the EternalDuraComboV3.1, you do not need BetterHarvesterV2  if you have both installed, they will conflict and could lead to crashes/mods not working.
+NOTE:  If you are using the EternalDuraComboV3.2, you do not need BetterHarvesterV2  if you have both installed, they will conflict and could lead to crashes/mods not working.
