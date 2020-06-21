@@ -17,3 +17,24 @@
 | [PickupTruckFuel_P.pak](https://github.com/kaiheilos/Hydro/raw/master/Pak%20Mods/PickupTruckFuel_P.pak)  | greatly increases the fuel of the pickup truck  | Navsigda |
 
 NOTE:  If you are using the EternalDuraComboV3.2, you do not need BetterHarvesterV2  if you have both installed, they will conflict and could lead to crashes/mods not working.
+
+# F7 Menu
+So far; (Requires World Map item to exist)
+M for Map
+Shift + Z to duplicate item under crosshairs
+F7 for menu
+Menu functions:
+ - Delete Items (Checkboxes to delete groups of items from the world)
+ - Tidy World (Teleports all items to the back of nearest truck)
+ - Set time of day
+ - Free Cam
+ - Collision toggle
+ - Flight Mode (Shift up, Ctrl down, Z to brake)
+ - Teleport via coordinates
+
+Bugfix?;
+Fixed click image on combo boxes
+
+Coming up;
+Spawn/Buy shop items
+Spawn non-shop items
