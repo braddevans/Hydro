@@ -1,0 +1,12 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-Voxel.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\Some Guy\Documents\Unreal Projects\New folder\Unreal\Intermediate\Build\Win64\HydroneerEditor\Development\Engine\SharedPCH.Engine.h.obj"
+"C:\Users\Some Guy\Documents\Unreal Projects\New folder\Unreal\Plugins\Voxel\Intermediate\Build\Win64\UE4Editor\Development\Voxel\Voxel.cpp.obj"
+"C:\Users\Some Guy\Documents\Unreal Projects\New folder\Unreal\Plugins\Voxel\Intermediate\Build\Win64\UE4Editor\Development\Voxel\PCLaunch.rc.res"
+/OUT:"C:\Users\Some Guy\Documents\Unreal Projects\New folder\Unreal\Plugins\Voxel\Intermediate\Build\Win64\UE4Editor\Development\Voxel\UE4Editor-Voxel.lib"
