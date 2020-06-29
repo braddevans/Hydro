@@ -16,9 +16,9 @@ Maintained by kaiheilos
 ## /Pak Mods
  - Pak files for the game go into - `%LocalAppData%\Mining\Saved\Paks`
  - Hit Win + R and copy paste - `%LocalAppData%\Mining\Saved` then create the Paks folder in that directory.
- 
+  - Currently Contains:
+    - All the pak mods for use.
+    
  ## /Unreal
   - Unreal project blueprints I created while building my cheat menu
  
- - Currently Contains:
-    - All the pak mods for use.
