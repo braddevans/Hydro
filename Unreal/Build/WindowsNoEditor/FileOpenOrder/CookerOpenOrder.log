@@ -202,498 +202,499 @@
 "C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/UI/HSlider.uasset" 201
 "C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/WorldObjects/Items/BP_ParentItem.uasset" 202
 "C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/WorldObjects/Items/BuildItems/BP_ParentBuild.uasset" 203
-"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/WorldObjects/Items/BuildItems/BP_BuildBed.uasset" 204
-"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/WorldObjects/Items/BuildItems/BP_BuildCarpet.uasset" 205
-"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/WorldObjects/Items/BuildItems/BP_BuildFancyBed.uasset" 206
-"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/WorldObjects/Items/BuildItems/BP_BuildFancyTable.uasset" 207
-"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/WorldObjects/Items/BuildItems/BP_BuildLargeDoorway.uasset" 208
-"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/WorldObjects/Items/BuildItems/BP_BuildLargeFloor.uasset" 209
-"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/WorldObjects/Items/BuildItems/BP_BuildLargeFoundation.uasset" 210
-"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/WorldObjects/Items/BuildItems/BP_ParentBuildWall.uasset" 211
-"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/WorldObjects/Items/BuildItems/BP_BuildLargeWall1.uasset" 212
-"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/WorldObjects/Items/BuildItems/BP_BuildLargeWall2.uasset" 213
-"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/WorldObjects/Items/BuildItems/BP_BuildLargeWallTriangle.uasset" 214
-"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/WorldObjects/Items/BuildItems/BP_BuildLargeWallWindow1.uasset" 215
-"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/WorldObjects/Items/BuildItems/BP_BuildLargeWallWindow2.uasset" 216
-"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/WorldObjects/Items/BuildItems/BP_BuildPole.uasset" 217
-"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/WorldObjects/Items/BuildItems/BP_BuildRoofFlat.uasset" 218
-"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/WorldObjects/Items/BuildItems/BP_BuildRoofLong.uasset" 219
-"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/WorldObjects/Items/BuildItems/BP_BuildRoofShort.uasset" 220
-"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/WorldObjects/Items/BuildItems/BP_ParentBuildStorage.uasset" 221
-"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/WorldObjects/Items/BuildItems/BP_BuildSafe.uasset" 222
-"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/WorldObjects/Items/BuildItems/BP_ParentBuildSeedBag.uasset" 223
-"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/WorldObjects/Items/BuildItems/BP_BuildSeedBagAfage.uasset" 224
-"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/WorldObjects/Items/BuildItems/BP_BuildSeedBagEmberSpice.uasset" 225
-"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/WorldObjects/Items/BuildItems/BP_BuildSeedBagFrostspine.uasset" 226
-"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/WorldObjects/Items/BuildItems/BP_BuildSeedBagGluuin.uasset" 227
-"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/WorldObjects/Items/BuildItems/BP_BuildSeedBagGreenCane.uasset" 228
-"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/WorldObjects/Items/BuildItems/BP_BuildSeedBagHillLavender.uasset" 229
-"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/WorldObjects/Items/BuildItems/BP_BuildSeedBagLunarLeaf.uasset" 230
-"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/WorldObjects/Items/BuildItems/BP_BuildSeedBagRegalRye.uasset" 231
-"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/WorldObjects/Items/BuildItems/BP_BuildSeedBagStreedThorn.uasset" 232
-"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/WorldObjects/Items/BuildItems/BP_BuildSeedBagWildBower.uasset" 233
-"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/WorldObjects/Items/BuildItems/BP_BuildStairs.uasset" 234
-"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/WorldObjects/Items/BuildItems/BP_BuildTable.uasset" 235
-"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/WorldObjects/Items/BuildItems/BP_BuildWall.uasset" 236
-"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/WorldObjects/Items/BuildItems/BP_BuildWindow.uasset" 237
-"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/WorldObjects/Items/BuildItems/BP_ParentConveyer.uasset" 238
-"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/WorldObjects/Items/BuildItems/BP_Conveyer.uasset" 239
-"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/WorldObjects/Items/BuildItems/BP_ConveyerSplitter.uasset" 240
-"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/WorldObjects/Items/BuildItems/BP_ConveyerVertical.uasset" 241
-"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/WorldObjects/Items/BuildItems/BP_ConveyorShredder.uasset" 242
-"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/WorldObjects/Items/BuildItems/BP_DeerTrophy.uasset" 243
-"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/WorldObjects/Items/BuildItems/BP_FishingPot.uasset" 244
-"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/WorldObjects/Items/BuildItems/BP_FishTrophy.uasset" 245
-"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/WorldObjects/Items/BuildItems/BP_Funnel.uasset" 246
-"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/WorldObjects/Items/BuildItems/BP_GoldenHeadStatue.uasset" 247
-"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/WorldObjects/Items/BuildItems/BP_ParentWaterItem.uasset" 248
-"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/WorldObjects/Items/BuildItems/BP_ParentWaterItemDurability.uasset" 249
-"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/WorldObjects/Items/BuildItems/BP_GoliathDrill.uasset" 250
-"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/WorldObjects/Items/BuildItems/BP_GrindingWheel.uasset" 251
-"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/WorldObjects/Items/BuildItems/BP_Harvester.uasset" 252
-"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/WorldObjects/Items/BuildItems/BP_IntakePipe.uasset" 253
-"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/WorldObjects/Items/BuildItems/BP_ParentBuildLighting.uasset" 254
-"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/WorldObjects/Items/BuildItems/BP_LightPost.uasset" 255
-"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/WorldObjects/Items/BuildItems/BP_PipeBent.uasset" 256
-"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/WorldObjects/Items/BuildItems/BP_PipeCork.uasset" 257
-"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/WorldObjects/Items/BuildItems/BP_PipeValve.uasset" 258
-"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/WorldObjects/Items/BuildItems/BP_Plinth.uasset" 259
-"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/WorldObjects/Items/BuildItems/BP_PressureGaugePipe.uasset" 260
-"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/WorldObjects/Items/BuildItems/BP_PressureTankPipe.uasset" 261
-"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/WorldObjects/Items/BuildItems/BP_RamDrill.uasset" 262
-"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/WorldObjects/Items/BuildItems/BP_Scales.uasset" 263
-"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/WorldObjects/Items/BuildItems/BP_SmallFurnace.uasset" 264
-"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/WorldObjects/Items/BuildItems/BP_StraightPipe.uasset" 265
-"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/StarterContent/Props/SM_Chair.uasset" 266
-"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/WorldObjects/Items/BuildItems/BP_Test.uasset" 267
-"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/WorldObjects/Items/BuildItems/BP_ThatchCorner1.uasset" 268
-"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/WorldObjects/Items/BuildItems/BP_ThatchCorner2.uasset" 269
-"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/WorldObjects/Items/BuildItems/BP_ThatchFlat.uasset" 270
-"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/WorldObjects/Items/BuildItems/BP_ThatchRamp.uasset" 271
-"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/WorldObjects/Items/BuildItems/BP_Throne.uasset" 272
-"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/WorldObjects/Items/BuildItems/BP_ToolRack.uasset" 273
-"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/WorldObjects/Items/BuildItems/BP_TPipe.uasset" 274
-"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/WorldObjects/Items/BuildItems/BP_WaterfallTub.uasset" 275
-"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/WorldObjects/Items/BuildItems/BP_WoodBlock.uasset" 276
-"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/WorldObjects/Items/Plants/BP_ParentPlant.uasset" 277
-"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/WorldObjects/StoreItems/BP_ParentStoreItem.uasset" 278
-"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/WorldObjects/Vehicles/BP_ParentVehicle.uasset" 279
-"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/WorldObjects/Vehicles/BP_Excavator.uasset" 280
-"../../../Engine/Content/EngineMaterials/WorldGridMaterial.uasset" 281
-"../../../Engine/Content/ArtTools/RenderToTexture/Meshes/S_1_Unit_Plane.uasset" 282
-"../../../Engine/Content/BasicShapes/Cone.uasset" 283
-"../../../Engine/Content/BasicShapes/Cylinder.uasset" 284
-"../../../Engine/Content/BasicShapes/Plane.uasset" 285
-"../../../Engine/Content/BasicShapes/Sphere.uasset" 286
-"../../../Engine/Content/EditorLandscapeResources/DataLayer.uasset" 287
-"../../../Engine/Content/EditorMaterials/GizmoMaterial.uasset" 288
-"../../../Engine/Content/EditorMaterials/MAT_Groups_Toggle.uasset" 289
-"../../../Engine/Content/EditorMaterials/MAT_Groups_Visibility.uasset" 290
-"../../../Engine/Content/EditorMaterials/PreviewShadowIndicator.uasset" 291
-"../../../Engine/Content/EditorMaterials/PreviewShadowIndicatorMaterial.uasset" 292
-"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_ColorTrack.uasset" 293
-"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Anim.uasset" 294
-"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_AudioMaster.uasset" 295
-"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Director.uasset" 296
-"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Event.uasset" 297
-"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Fade.uasset" 298
-"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Float.uasset" 299
-"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Move.uasset" 300
-"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Slomo.uasset" 301
-"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Sound.uasset" 302
-"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Vector.uasset" 303
-"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_NoImage.uasset" 304
-"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_OOD.uasset" 305
-"../../../Engine/Content/EditorMaterials/Camera/CineMat.uasset" 306
-"../../../Engine/Content/EditorMaterials/Camera/MI_CineMat_Rig.uasset" 307
-"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Arm.uasset" 308
-"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Base.uasset" 309
-"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Body.uasset" 310
-"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Mount.uasset" 311
-"../../../Engine/Content/EditorMeshes/Camera/SM_RailRig_Mount.uasset" 312
-"../../../Engine/Content/EditorMeshes/Camera/SM_RailRig_Track.uasset" 313
-"../../../Engine/Content/EditorResources/BSPVertex.uasset" 314
-"../../../Engine/Content/EditorResources/EmptyActor.uasset" 315
-"../../../Engine/Content/EditorResources/S_Actor.uasset" 316
-"../../../Engine/Content/EditorResources/S_Trigger.uasset" 317
-"../../../Engine/Content/EditorResources/AudioIcons/S_AudioComponent.uasset" 318
-"../../../Engine/Content/EditorResources/AudioIcons/S_AudioComponent_AutoActivate.uasset" 319
-"../../../Engine/Content/EditorResources/LightIcons/S_LightError.uasset" 320
-"../../../Engine/Content/EditorResources/SequenceRecorder/Countdown.uasset" 321
-"../../../Engine/Content/EditorResources/SequenceRecorder/RecordingIndicator.uasset" 322
-"../../../Engine/Content/EditorSounds/Notifications/CompileFailed.uasset" 323
-"../../../Engine/Content/EditorSounds/Notifications/CompileFailed_Cue.uasset" 324
-"../../../Engine/Content/EditorSounds/Notifications/CompileSuccess.uasset" 325
-"../../../Engine/Content/EditorSounds/Notifications/CompileStart_Cue.uasset" 326
-"../../../Engine/Content/EditorSounds/Notifications/CompileSuccess_Cue.uasset" 327
-"../../../Engine/Content/EngineDamageTypes/DmgTypeBP_Environmental.uasset" 328
-"../../../Engine/Content/EngineDebugMaterials/HeatmapGradient.uasset" 329
-"../../../Engine/Content/EngineDebugMaterials/BoneWeightMaterial.uasset" 330
-"../../../Engine/Content/EngineDebugMaterials/ClothMaterial.uasset" 331
-"../../../Engine/Content/EngineDebugMaterials/ClothMaterial_WF.uasset" 332
-"../../../Engine/Content/EngineDebugMaterials/DebugEditorMaterial.uasset" 333
-"../../../Engine/Content/EngineDebugMaterials/DebugMeshMaterial.uasset" 334
-"../../../Engine/Content/EngineDebugMaterials/GeomMaterial.uasset" 335
-"../../../Engine/Content/EngineDebugMaterials/M_SimpleTranslucent.uasset" 336
-"../../../Engine/Content/EngineFonts/Faces/RobotoBold.uasset" 337
-"../../../Engine/Content/EngineFonts/Faces/RobotoBoldItalic.uasset" 338
-"../../../Engine/Content/EngineFonts/Faces/RobotoItalic.uasset" 339
-"../../../Engine/Content/EngineFonts/Faces/RobotoLight.uasset" 340
-"../../../Engine/Content/EngineFonts/Faces/RobotoRegular.uasset" 341
-"../../../Engine/Content/EngineFonts/Roboto.uasset" 342
-"../../../Engine/Content/EngineFonts/Faces/RobotoTiny.uasset" 343
-"../../../Engine/Content/EngineFonts/RobotoTiny.uasset" 344
-"../../../Engine/Content/EngineMaterials/BaseFlattenDiffuseMap.uasset" 345
-"../../../Engine/Content/EngineMaterials/BaseFlattenEmissiveMap.uasset" 346
-"../../../Engine/Content/EngineMaterials/BaseFlattenGrayscaleMap.uasset" 347
-"../../../Engine/Content/EngineMaterials/BaseFlattenNormalMap.uasset" 348
-"../../../Engine/Content/EngineMaterials/BaseFlattenMaterial.uasset" 349
-"../../../Engine/Content/EngineMaterials/DefaultBloomKernel.uasset" 350
-"../../../Engine/Content/EngineMaterials/DefaultBokeh.uasset" 351
-"../../../Engine/Content/EngineMaterials/DefaultDiffuse.uasset" 352
-"../../../Engine/Content/EngineMaterials/DefaultDeferredDecalMaterial.uasset" 353
-"../../../Engine/Content/EngineMaterials/DefaultLightFunctionMaterial.uasset" 354
-"../../../Engine/Content/EngineMaterials/DefaultPhysicalMaterial.uasset" 355
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat2Components.uasset" 356
-"../../../Engine/Content/EngineMaterials/DefaultPostProcessMaterial.uasset" 357
-"../../../Engine/Content/EngineFonts/RobotoDistanceField.uasset" 358
-"../../../Engine/Content/EngineMaterials/DefaultTextMaterialOpaque.uasset" 359
-"../../../Engine/Content/EngineMaterials/DefaultWhiteGrid.uasset" 360
-"../../../Engine/Content/EngineMaterials/EditorBrushMaterial.uasset" 361
-"../../../Engine/Content/EngineMaterials/Good64x64TilingNoiseHighFreq.uasset" 362
-"../../../Engine/Content/EngineMaterials/MiniFont.uasset" 363
-"../../../Engine/Content/EngineMaterials/InvalidLightmapSettings.uasset" 364
-"../../../Engine/Content/EngineMaterials/M_InvalidLightmapSettings.uasset" 365
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/WorldPositionOffset/CameraOffset.uasset" 366
-"../../../Engine/Content/EngineMaterials/PhAT_JointLimitMaterial.uasset" 367
-"../../../Engine/Content/EngineMaterials/PreintegratedSkinBRDF.uasset" 368
-"../../../Engine/Content/EngineMaterials/RemoveSurfaceMaterial.uasset" 369
-"../../../Engine/Content/EngineMaterials/WeightMapPlaceholderTexture.uasset" 370
-"../../../Engine/Content/EngineResources/WhiteSquareTexture.uasset" 371
-"../../../Engine/Content/EngineMaterials/Widget3DPassThrough.uasset" 372
-"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked.uasset" 373
-"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque.uasset" 374
-"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked_OneSided.uasset" 375
-"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque_OneSided.uasset" 376
-"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent.uasset" 377
-"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent_OneSided.uasset" 378
-"../../../Engine/Content/EngineMeshes/Cylinder.uasset" 379
-"../../../Engine/Content/EngineMeshes/Sphere.uasset" 380
-"../../../Engine/Content/EngineResources/Black.uasset" 381
-"../../../Engine/Content/EngineResources/DefaultTexture.uasset" 382
-"../../../Engine/Content/EngineResources/DefaultTextureCube.uasset" 383
-"../../../Engine/Content/EngineResources/DefaultVolumeTexture2D.uasset" 384
-"../../../Engine/Content/EngineResources/DefaultVolumeTexture.uasset" 385
-"../../../Engine/Content/EngineResources/GradientTexture0.uasset" 386
-"../../../Engine/Content/EngineSounds/Master.uasset" 387
-"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/ConvertFromDiffSpec.uasset" 388
-"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/PowerToRoughness.uasset" 389
-"../../../Engine/Content/Maps/Templates/Thumbnails/Default.uasset" 390
-"../../../Engine/Content/Maps/Templates/Thumbnails/VR-Basic.uasset" 391
-"../../../Engine/Content/MobileResources/T_MobileControls_texture.uasset" 392
-"../../../Engine/Content/MobileResources/T_MobileMenu2.uasset" 393
-"../../../Engine/Content/MobileResources/HUD/AnalogHat.uasset" 394
-"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Background.uasset" 395
-"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Thumb.uasset" 396
-"../../../Engine/Content/MobileResources/HUD/DefaultVirtualJoysticks.uasset" 397
-"../../../Engine/Content/MobileResources/HUD/LeftVirtualJoystickOnly.uasset" 398
-"../../../Engine/Content/MobileResources/HUD/MobileHUDButton1_off.uasset" 399
-"../../../Engine/Content/MobileResources/HUD/MobileHUDButton1_on.uasset" 400
-"../../../Engine/Content/MobileResources/HUD/MobileHUDButton2_off.uasset" 401
-"../../../Engine/Content/MobileResources/HUD/MobileHUDButton2_on.uasset" 402
-"../../../Engine/Content/MobileResources/HUD/MobileHUDButton3.uasset" 403
-"../../../Engine/Content/MobileResources/HUD/MobileHUDButtonFire.uasset" 404
-"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad.uasset" 405
-"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad2.uasset" 406
-"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad3.uasset" 407
-"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionStick.uasset" 408
-"../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickInner.uasset" 409
-"../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickOutter.uasset" 410
-"../../../Engine/Content/Tutorial/ContentIntroCurve.uasset" 411
-"../../../Engine/Content/Tutorial/BlueprintTutorials/TutorialAssets/Blueprint_64x.uasset" 412
-"../../../Engine/Content/VREditor/LaserPointer/VR_LaserPower_01.uasset" 413
-"../../../Engine/Content/VREditor/TransformGizmo/TransformGizmoMaterial.uasset" 414
-"../../../Engine/Content/VREditor/TransformGizmo/TranslucentTransformGizmoMaterial.uasset" 415
-"../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxCorner.uasset" 416
-"../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxEdge.uasset" 417
-"../../../Engine/Content/VREditor/TransformGizmo/PlaneTranslationHandle.uasset" 418
-"../../../Engine/Content/VREditor/TransformGizmo/Main.uasset" 419
-"../../../Engine/Content/VREditor/TransformGizmo/Xray.uasset" 420
-"../../../Engine/Content/VREditor/TransformGizmo/SM_Sequencer_Key.uasset" 421
-"../../../Engine/Content/VREditor/TransformGizmo/SM_Sequencer_Node.uasset" 422
-"../../Plugins/2D/Paper2D/Content/PlaceholderTextures/DummySpriteTexture.uasset" 423
-"../../Plugins/2D/Paper2D/Content/DummySprite.uasset" 424
-"../../Plugins/2D/Paper2D/Content/DefaultPaperTerrainMaterial.uasset" 425
-"../../Plugins/2D/Paper2D/Content/DefaultSpriteMaterial.uasset" 426
-"../../Plugins/2D/Paper2D/Content/MaskedUnlitSpriteMaterial.uasset" 427
-"../../Plugins/2D/Paper2D/Content/OpaqueUnlitSpriteMaterial.uasset" 428
-"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/PokeAHoleMaterial.uasset" 429
-"../../Plugins/Runtime/Oculus/OculusVR/Content/Textures/GearVRController_AO.uasset" 430
-"../../Plugins/Runtime/Oculus/OculusVR/Content/Textures/GearVRController_Color.uasset" 431
-"../../Plugins/Runtime/Oculus/OculusVR/Content/Textures/GearVRController_Normal.uasset" 432
-"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/GearVRControllerMaterial.uasset" 433
-"../../Plugins/Runtime/Oculus/OculusVR/Content/Meshes/GearVrController.uasset" 434
-"../../Plugins/Runtime/Oculus/OculusVR/Content/Textures/touchController_albedo.uasset" 435
-"../../Plugins/Runtime/Oculus/OculusVR/Content/Textures/touchController_controlmap.uasset" 436
-"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/touchController_mat.uasset" 437
-"../../Plugins/Runtime/Oculus/OculusVR/Content/Meshes/LeftTouchController.uasset" 438
-"../../Plugins/Runtime/Oculus/OculusVR/Content/Meshes/RiftHMD.uasset" 439
-"../../Plugins/Runtime/Oculus/OculusVR/Content/Meshes/RightTouchController.uasset" 440
-"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/L_GameWorld1.umap" 441
-"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/StarterContent/Blueprints/Assets/FogBrightnessLUT.uasset" 442
-"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/StarterContent/Blueprints/Assets/SunlightColorLUT.uasset" 443
-"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/StarterContent/Blueprints/Assets/M_LightStage_Arrows.uasset" 444
-"../../../Engine/Content/MapTemplates/Sky/DaylightAmbientCubemap.uasset" 445
-"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master.uasset" 446
-"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Black.uasset" 447
-"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_HDRI.uasset" 448
-"../../../Engine/Content/EditorMaterials/Thumbnails/SkySphereMaterial.uasset" 449
-"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/StarterContent/Blueprints/Assets/Skybox.uasset" 450
-"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/StarterContent/Blueprints/Assets/SM_Arrows.uasset" 451
-"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset" 452
-"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/StarterContent/Blueprints/BP_LightStudio.uasset" 453
-"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset" 454
-"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/StarterContent/Materials/M_AssetPlatform.uasset" 455
-"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ChromeBall.uasset" 456
-"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ClearCoat.uasset" 457
-"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ClearCoatBlack.uasset" 458
-"../../../Engine/Content/EditorMeshes/ColorCalibrator/Color_checker.uasset" 459
-"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ColorGrid.uasset" 460
-"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_GreyBall.uasset" 461
-"../../../Engine/Content/EditorMeshes/ColorCalibrator/SM_ColorCalibrator.uasset" 462
-"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/StarterContent/Architecture/SM_AssetPlatform.uasset" 463
-"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/StarterContent/Maps/Advanced_Lighting.umap" 464
-"../../../Engine/Content/EditorBlueprintResources/StandardMacros.uasset" 465
-"../../../Engine/Content/EngineSky/C_Sky_Cloud_Color.uasset" 466
-"../../../Engine/Content/EngineSky/C_Sky_Horizon_Color.uasset" 467
-"../../../Engine/Content/EngineSky/C_Sky_Zenith_Color.uasset" 468
-"../../../Engine/Content/EngineSky/T_Sky_Blue.uasset" 469
-"../../../Engine/Content/EngineSky/T_Sky_Clouds_M.uasset" 470
-"../../../Engine/Content/EngineSky/T_Sky_Stars.uasset" 471
-"../../../Engine/Content/EngineSky/M_Sky_Panning_Clouds2.uasset" 472
-"../../../Engine/Content/EngineSky/SM_SkySphere.uasset" 473
-"../../../Engine/Content/EngineSky/BP_Sky_Sphere.uasset" 474
-"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/Meshes/SM_MagnetStaff.uasset" 475
-"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/WorldObjects/Items/BuildItems/BP_BuildFloor.uasset" 476
-"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/WorldObjects/Items/BuildItems/BP_PipeFilter.uasset" 477
-"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/WorldObjects/Items/ToolItems/BP_ParentTool.uasset" 478
-"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/WorldObjects/Items/ToolItems/BP_Pan.uasset" 479
-"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/ExternalAssets/Wooden_UI/Textures/Tex_checkbox_bg.uasset" 480
-"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/ExternalAssets/Wooden_UI/Textures/Tex_checkbox_filled.uasset" 481
-"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/UI/HCheckBox.uasset" 482
-"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/WorldObjects/BP_DayNightCycle.uasset" 483
-"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/WorldObjects/Vehicles/BP_PickupTruck.uasset" 484
-"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/BP_DevCam.uasset" 485
-"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/UI/HKeyBindSelector.uasset" 486
-"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/ExternalAssets/Wooden_UI/Textures/Tex_plank_17.uasset" 487
-"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/UI/HSmallButton1.uasset" 488
-"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/ExternalAssets/Wooden_UI/Textures/Tex_plank_16.uasset" 489
-"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/UI/HSmallButton2.uasset" 490
-"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/ExternalAssets/Wooden_UI/Textures/Tex_plank_18.uasset" 491
-"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/UI/HSmallButton3.uasset" 492
-"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/ExternalAssets/Wooden_UI/Textures/Tex_Plank_08.uasset" 493
-"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/UI/HTabButton.uasset" 494
-"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/ExternalAssets/Wooden_UI/Textures/Tex_Plank_07.uasset" 495
-"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/UI/HTabButton2.uasset" 496
-"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/ExternalAssets/Wooden_UI/Textures/Tex_Plank_09.uasset" 497
-"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/UI/HTabButton3.uasset" 498
-"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/UI/HTextBlock.uasset" 499
-"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/UI/HTextBox.uasset" 500
-"../../../Engine/Content/BasicShapes/BasicShapeMaterial.uasset" 501
-"../../../Engine/Content/BasicShapes/Cube.uasset" 502
-"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/WorldObjects/Items/BuildItems/BP_Anvil.uasset" 503
-"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/WorldObjects/Items/ResourceItems/BP_ParentResource_C.uasset" 504
-"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/WorldObjects/Items/ResourceItems/BP_DirtResource.uasset" 505
-"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/WorldObjects/Items/ResourceItems/BP_GoldOre.uasset" 506
-"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/WorldObjects/Items/ResourceItems/BP_IronOre.uasset" 507
-"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/WorldObjects/Items/ResourceItems/BP_ScrapMetal.uasset" 508
-"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/WorldObjects/Items/ResourceItems/BP_UncutEmerald.uasset" 509
-"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/WorldObjects/Items/ResourceItems/BP_UncutRuby.uasset" 510
-"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/WorldObjects/Items/ResourceItems/BP_UncutSapphire.uasset" 511
-"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/ExternalAssets/Wooden_UI/Textures/Tex_bg_01_02.uasset" 512
-"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/ExternalAssets/Wooden_UI/Textures/Tex_frame_line.uasset" 513
-"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/ExternalAssets/Wooden_UI/Textures/Tex_title.uasset" 514
-"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/CheatMenu/CheatMenu.uasset" 515
-"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/StarterContent/Textures/T_Frame_M.uasset" 516
-"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/StarterContent/Textures/T_Frame_N.uasset" 517
-"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/StarterContent/Props/Materials/M_Frame.uasset" 518
-"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/StarterContent/Props/SM_PillarFrame.uasset" 519
-"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/UI/UI_WorldMap.uasset" 520
-"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/UI/VisualHud.uasset" 521
-"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/WorldObjects/Items/ToolItems/BP_WorldMap.uasset" 522
-"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset" 523
-"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/StarterContent/Textures/T_MacroVariation.uasset" 524
-"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/StarterContent/Materials/M_Metal_Brushed_Nickel.uasset" 525
-"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/StarterContent/Textures/T_Metal_Aluminum_D.uasset" 526
-"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/StarterContent/Textures/T_Metal_Gold_N.uasset" 527
-"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/StarterContent/Materials/M_Metal_Burnished_Steel.uasset" 528
-"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/StarterContent/Textures/T_Metal_Copper_D.uasset" 529
-"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/StarterContent/Materials/M_Metal_Copper.uasset" 530
-"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/StarterContent/Textures/T_Statue_M.uasset" 531
-"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/StarterContent/Textures/T_Statue_N.uasset" 532
-"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/StarterContent/Props/Materials/M_StatueGlass.uasset" 533
-"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/StarterContent/Architecture/Floor_400x400.uasset" 534
-"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/StarterContent/Audio/Starter_Background_Cue.uasset" 535
-"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/StarterContent/Props/Materials/M_Statue.uasset" 536
-"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/StarterContent/Props/SM_Statue.uasset" 537
-"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/StarterContent/Textures/T_TableRound_M.uasset" 538
-"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/StarterContent/Textures/T_TableRound_N.uasset" 539
-"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/StarterContent/Props/Materials/M_TableRound.uasset" 540
-"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/StarterContent/Props/SM_TableRound.uasset" 541
-"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/StarterContent/Maps/Minimal_Default.umap" 542
-"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/StarterContent/Audio/Fire01_Cue.uasset" 543
-"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/StarterContent/Textures/T_Fire_SubUV.uasset" 544
-"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/StarterContent/Textures/T_Fire_Tiled_D.uasset" 545
-"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/StarterContent/Particles/Materials/M_Fire_SubUV.uasset" 546
-"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/StarterContent/Textures/T_Water_N.uasset" 547
-"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/StarterContent/Particles/Materials/M_Heat_Distortion.uasset" 548
-"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/StarterContent/Particles/Materials/M_Radial_Gradient.uasset" 549
-"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/StarterContent/Particles/P_Fire.uasset" 550
-"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/StarterContent/Blueprints/Blueprint_Effect_Fire.uasset" 551
-"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/StarterContent/Audio/Smoke01_Cue.uasset" 552
-"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/StarterContent/Particles/P_Smoke.uasset" 553
-"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/StarterContent/Blueprints/Blueprint_Effect_Smoke.uasset" 554
-"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/StarterContent/Audio/Fire_Sparks01_Cue.uasset" 555
-"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/StarterContent/Textures/T_Spark_Core.uasset" 556
-"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/StarterContent/Particles/Materials/M_Spark.uasset" 557
-"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/StarterContent/Particles/P_Sparks.uasset" 558
-"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/StarterContent/Blueprints/Blueprint_Effect_Sparks.uasset" 559
-"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/StarterContent/Audio/Steam01_Cue.uasset" 560
-"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/StarterContent/Particles/P_Steam_Lit.uasset" 561
-"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/StarterContent/Blueprints/Blueprint_Effect_Steam.uasset" 562
-"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/StarterContent/Textures/T_Lamp_M.uasset" 563
-"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/StarterContent/Textures/T_Lamp_N.uasset" 564
-"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/StarterContent/Props/Materials/M_Lamp.uasset" 565
-"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/StarterContent/Props/SM_Lamp_Ceiling.uasset" 566
-"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset" 567
-"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/StarterContent/Props/SM_Lamp_Wall.uasset" 568
-"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/StarterContent/Blueprints/Blueprint_WallSconce.uasset" 569
-"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/StarterContent/Maps/StarterMap_BuiltData.uasset" 570
-"../../../Engine/Content/Functions/Engine_MaterialFunctions03/Procedurals/ComputeFilterWidth.uasset" 571
-"../../../Engine/Content/EngineMaterials/AntiAliasedTextMaterialTranslucent.uasset" 572
-"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/StarterContent/Textures/T_Brick_Clay_Beveled_D.uasset" 573
-"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/StarterContent/Textures/T_Brick_Clay_Beveled_M.uasset" 574
-"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/StarterContent/Textures/T_Brick_Clay_Beveled_N.uasset" 575
-"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/StarterContent/Materials/M_Brick_Clay_Beveled.uasset" 576
-"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/StarterContent/Textures/T_Brick_Clay_New_D.uasset" 577
-"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/StarterContent/Textures/T_Brick_Clay_New_M.uasset" 578
-"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/StarterContent/Textures/T_Brick_Clay_New_N.uasset" 579
-"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/StarterContent/Materials/M_Brick_Clay_New.uasset" 580
-"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/StarterContent/Textures/T_Brick_Clay_Old_D.uasset" 581
-"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/StarterContent/Textures/T_Brick_Clay_Old_N.uasset" 582
-"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset" 583
-"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/StarterContent/Materials/M_Brick_Clay_Old.uasset" 584
-"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/StarterContent/Textures/T_Brick_Cut_Stone_D.uasset" 585
-"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/StarterContent/Textures/T_Brick_Cut_Stone_N.uasset" 586
-"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/StarterContent/Materials/M_Brick_Cut_Stone.uasset" 587
-"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/StarterContent/Textures/T_Brick_Hewn_Stone_D.uasset" 588
-"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/StarterContent/Textures/T_Brick_Hewn_Stone_M.uasset" 589
-"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/StarterContent/Textures/T_Brick_Hewn_Stone_N.uasset" 590
-"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/StarterContent/Materials/M_Brick_Hewn_Stone.uasset" 591
-"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/StarterContent/Textures/T_Ceramic_Tile_M.uasset" 592
-"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/StarterContent/Textures/T_Ceramic_Tile_N.uasset" 593
-"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/StarterContent/Textures/T_Rock_Marble_Polished_D.uasset" 594
-"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/StarterContent/Materials/M_Ceramic_Tile_Checker.uasset" 595
-"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/StarterContent/Textures/T_CobbleStone_Pebble_D.uasset" 596
-"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/StarterContent/Textures/T_CobbleStone_Pebble_M.uasset" 597
-"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/StarterContent/Textures/T_CobbleStone_Pebble_N.uasset" 598
-"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/StarterContent/Materials/M_CobbleStone_Pebble.uasset" 599
-"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/StarterContent/Textures/T_CobbleStone_Rough_D.uasset" 600
-"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/StarterContent/Textures/T_CobbleStone_Rough_N.uasset" 601
-"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/StarterContent/Textures/T_Gradinet_01.uasset" 602
-"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/StarterContent/Textures/T_Rock_Smooth_Granite_D.uasset" 603
-"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/StarterContent/Materials/M_CobbleStone_Rough.uasset" 604
-"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/StarterContent/Textures/T_CobbleStone_Smooth_D.uasset" 605
-"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/StarterContent/Textures/T_CobbleStone_Smooth_M.uasset" 606
-"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/StarterContent/Textures/T_CobbleStone_Smooth_N.uasset" 607
-"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/StarterContent/Materials/M_CobbleStone_Smooth.uasset" 608
-"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/StarterContent/Textures/T_Concrete_Grime_D.uasset" 609
-"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/StarterContent/Textures/T_Metal_Rust_N.uasset" 610
-"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/StarterContent/Materials/M_Concrete_Grime.uasset" 611
-"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/StarterContent/Textures/T_Concrete_Panels_D.uasset" 612
-"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/StarterContent/Textures/T_Concrete_Panels_N.uasset" 613
-"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/StarterContent/Materials/M_Concrete_Panels.uasset" 614
-"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/StarterContent/Textures/T_Concrete_Poured_D.uasset" 615
-"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/StarterContent/Textures/T_Concrete_Poured_N.uasset" 616
-"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/StarterContent/Materials/M_Concrete_Poured.uasset" 617
-"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/StarterContent/Textures/T_Concrete_Tiles_D.uasset" 618
-"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/StarterContent/Textures/T_Concrete_Tiles_M.uasset" 619
-"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/StarterContent/Textures/T_Concrete_Tiles_N.uasset" 620
-"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/StarterContent/Textures/T_Concrete_Tiles_Variation_M.uasset" 621
-"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/StarterContent/Materials/M_Concrete_Tiles.uasset" 622
-"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/StarterContent/Textures/T_Ground_Grass_D.uasset" 623
-"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/StarterContent/Textures/T_Ground_Grass_N.uasset" 624
-"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/StarterContent/Materials/M_Ground_Grass.uasset" 625
-"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/StarterContent/Textures/T_Ground_Gravel_D.uasset" 626
-"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/StarterContent/Textures/T_Ground_Gravel_N.uasset" 627
-"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/StarterContent/Materials/M_Ground_Gravel.uasset" 628
-"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/StarterContent/Textures/T_ground_Moss_D.uasset" 629
-"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/StarterContent/Textures/T_Ground_Moss_N.uasset" 630
-"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/StarterContent/Materials/M_Ground_Moss.uasset" 631
-"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/StarterContent/Materials/M_Metal_Chrome.uasset" 632
-"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/StarterContent/Textures/T_Metal_Gold_D.uasset" 633
-"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/StarterContent/Materials/M_Metal_Gold.uasset" 634
-"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/StarterContent/Textures/T_Metal_Rust_D.uasset" 635
-"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/StarterContent/Materials/M_Metal_Rust.uasset" 636
-"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/StarterContent/Textures/T_Metal_Steel_D.uasset" 637
-"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/StarterContent/Textures/T_Metal_Steel_N.uasset" 638
-"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/StarterContent/Materials/M_Metal_Steel.uasset" 639
-"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/StarterContent/Textures/T_Rock_Basalt_N.uasset" 640
-"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/StarterContent/Materials/M_Rock_Basalt.uasset" 641
-"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/StarterContent/Materials/M_Rock_Marble_Polished.uasset" 642
-"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/StarterContent/Textures/T_Rock_Sandstone_D.uasset" 643
-"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/StarterContent/Textures/T_Rock_Sandstone_N.uasset" 644
-"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/StarterContent/Materials/M_Rock_Sandstone.uasset" 645
-"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/StarterContent/Textures/T_Rock_Slate_D.uasset" 646
-"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/StarterContent/Textures/T_Rock_Slate_N.uasset" 647
-"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/StarterContent/Materials/M_Rock_Slate.uasset" 648
-"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/StarterContent/Textures/T_Checker_Noise_M.uasset" 649
-"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/StarterContent/Textures/T_Single_Tile_N.uasset" 650
-"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/StarterContent/Textures/T_Tech_Dot_M.uasset" 651
-"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/StarterContent/Textures/T_Tech_Dot_N.uasset" 652
-"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/StarterContent/Materials/M_Tech_Checker_Dot.uasset" 653
-"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/StarterContent/Textures/T_Tech_Hex_Tile_M.uasset" 654
-"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/StarterContent/Textures/T_Tech_Hex_Tile_N.uasset" 655
-"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/StarterContent/Materials/M_Tech_Hex_Tile.uasset" 656
-"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/StarterContent/Materials/M_Tech_Hex_Tile_Pulse.uasset" 657
-"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/StarterContent/Textures/T_Tech_Panel_M.uasset" 658
-"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/StarterContent/Textures/T_Tech_Panel_N.uasset" 659
-"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/StarterContent/Materials/M_Tech_Panel.uasset" 660
-"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/StarterContent/Materials/M_Water_Lake.uasset" 661
-"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/StarterContent/Textures/T_Water_M.uasset" 662
-"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/StarterContent/Materials/M_Water_Ocean.uasset" 663
-"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/StarterContent/Textures/T_Wood_Floor_Walnut_D.uasset" 664
-"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/StarterContent/Textures/T_Wood_Floor_Walnut_M.uasset" 665
-"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/StarterContent/Textures/T_Wood_Floor_Walnut_N.uasset" 666
-"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Polished.uasset" 667
-"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Opacity/AlphaOffset.uasset" 668
-"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Worn.uasset" 669
-"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/StarterContent/Textures/T_Wood_Oak_D.uasset" 670
-"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/StarterContent/Textures/T_Wood_Oak_N.uasset" 671
-"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/StarterContent/Materials/M_Wood_Oak.uasset" 672
-"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/StarterContent/Textures/T_Wood_Pine_D.uasset" 673
-"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/StarterContent/Textures/T_Wood_Pine_N.uasset" 674
-"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/StarterContent/Materials/M_Wood_Pine.uasset" 675
-"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/StarterContent/Textures/T_Wood_Walnut_D.uasset" 676
-"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/StarterContent/Textures/T_Wood_Walnut_N.uasset" 677
-"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/StarterContent/Materials/M_Wood_Walnut.uasset" 678
-"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/StarterContent/Architecture/Wall_400x200.uasset" 679
-"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/StarterContent/Architecture/Wall_Door_400x300.uasset" 680
-"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/StarterContent/Architecture/Wall_Window_400x300.uasset" 681
-"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/StarterContent/Audio/Collapse_Cue.uasset" 682
-"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/StarterContent/Audio/Starter_Music_Cue.uasset" 683
-"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/StarterContent/Textures/T_Dust_Particle_D.uasset" 684
-"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/StarterContent/Particles/Materials/M_Dust_Particle.uasset" 685
-"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/StarterContent/Particles/P_Ambient_Dust.uasset" 686
-"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/StarterContent/Props/MaterialSphere.uasset" 687
-"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/StarterContent/Props/SM_CornerFrame.uasset" 688
-"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/StarterContent/Props/SM_DoorFrame.uasset" 689
-"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/StarterContent/Props/SM_GlassWindow.uasset" 690
-"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/StarterContent/Props/SM_PillarFrame300.uasset" 691
-"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/StarterContent/Props/SM_WindowFrame.uasset" 692
-"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/StarterContent/Shapes/Shape_Cube.uasset" 693
-"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/StarterContent/Shapes/Shape_QuadPyramid.uasset" 694
-"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/StarterContent/Shapes/Shape_Sphere.uasset" 695
-"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/StarterContent/Maps/StarterMap.umap" 696
-"../../../Engine/Content/Maps/Entry_BuiltData.uasset" 697
-"../../../Engine/Content/Maps/Entry.umap" 698
+"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/WorldObjects/Items/BuildItems/BP_ParentBuildStorage.uasset" 204
+"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/WorldObjects/Items/BuildItems/BP_BuildSafe.uasset" 205
+"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/WorldObjects/Items/BuildItems/BP_ParentBuildSeedBag.uasset" 206
+"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/WorldObjects/Items/BuildItems/BP_BuildSeedBagAfage.uasset" 207
+"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/WorldObjects/Items/BuildItems/BP_BuildSeedBagEmberSpice.uasset" 208
+"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/WorldObjects/Items/BuildItems/BP_BuildSeedBagFrostspine.uasset" 209
+"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/WorldObjects/Items/BuildItems/BP_BuildSeedBagGluuin.uasset" 210
+"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/WorldObjects/Items/BuildItems/BP_BuildSeedBagGreenCane.uasset" 211
+"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/WorldObjects/Items/BuildItems/BP_BuildSeedBagHillLavender.uasset" 212
+"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/WorldObjects/Items/BuildItems/BP_BuildSeedBagLunarLeaf.uasset" 213
+"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/WorldObjects/Items/BuildItems/BP_BuildSeedBagRegalRye.uasset" 214
+"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/WorldObjects/Items/BuildItems/BP_BuildSeedBagStreedThorn.uasset" 215
+"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/WorldObjects/Items/BuildItems/BP_BuildSeedBagWildBower.uasset" 216
+"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/WorldObjects/Items/BuildItems/BP_ParentConveyer.uasset" 217
+"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/WorldObjects/Items/BuildItems/BP_Conveyer.uasset" 218
+"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/WorldObjects/Items/BuildItems/BP_ConveyerSplitter.uasset" 219
+"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/WorldObjects/Items/BuildItems/BP_ConveyerVertical.uasset" 220
+"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/WorldObjects/Items/BuildItems/BP_ConveyorShredder.uasset" 221
+"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/WorldObjects/Items/BuildItems/BP_FishingPot.uasset" 222
+"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/WorldObjects/Items/BuildItems/BP_Funnel.uasset" 223
+"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/WorldObjects/Items/BuildItems/BP_ParentWaterItem.uasset" 224
+"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/WorldObjects/Items/BuildItems/BP_ParentWaterItemDurability.uasset" 225
+"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/WorldObjects/Items/BuildItems/BP_GoliathDrill.uasset" 226
+"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/WorldObjects/Items/BuildItems/BP_GrindingWheel.uasset" 227
+"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/WorldObjects/Items/BuildItems/BP_Harvester.uasset" 228
+"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/WorldObjects/Items/BuildItems/BP_IntakePipe.uasset" 229
+"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/WorldObjects/Items/BuildItems/BP_ParentBuildLighting.uasset" 230
+"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/WorldObjects/Items/BuildItems/BP_LightPost.uasset" 231
+"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/WorldObjects/Items/BuildItems/BP_PipeBent.uasset" 232
+"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/WorldObjects/Items/BuildItems/BP_PipeCork.uasset" 233
+"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/WorldObjects/Items/BuildItems/BP_PipeValve.uasset" 234
+"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/WorldObjects/Items/BuildItems/BP_PressureGaugePipe.uasset" 235
+"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/WorldObjects/Items/BuildItems/BP_PressureTankPipe.uasset" 236
+"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/WorldObjects/Items/BuildItems/BP_RamDrill.uasset" 237
+"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/WorldObjects/Items/BuildItems/BP_Scales.uasset" 238
+"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/WorldObjects/Items/BuildItems/BP_SmallFurnace.uasset" 239
+"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/WorldObjects/Items/BuildItems/BP_StraightPipe.uasset" 240
+"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/StarterContent/Props/SM_Chair.uasset" 241
+"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/WorldObjects/Items/BuildItems/BP_Test.uasset" 242
+"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/WorldObjects/Items/BuildItems/BP_ToolRack.uasset" 243
+"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/WorldObjects/Items/BuildItems/BP_TPipe.uasset" 244
+"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/WorldObjects/Items/BuildItems/BP_WaterfallTub.uasset" 245
+"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/WorldObjects/Items/Plants/BP_ParentPlant.uasset" 246
+"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/WorldObjects/StoreItems/BP_ParentStoreItem.uasset" 247
+"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/WorldObjects/Vehicles/BP_ParentVehicle.uasset" 248
+"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/WorldObjects/Vehicles/BP_Excavator.uasset" 249
+"../../../Engine/Content/EngineMaterials/WorldGridMaterial.uasset" 250
+"../../../Engine/Content/ArtTools/RenderToTexture/Meshes/S_1_Unit_Plane.uasset" 251
+"../../../Engine/Content/BasicShapes/Cone.uasset" 252
+"../../../Engine/Content/BasicShapes/Cylinder.uasset" 253
+"../../../Engine/Content/BasicShapes/Plane.uasset" 254
+"../../../Engine/Content/BasicShapes/Sphere.uasset" 255
+"../../../Engine/Content/EditorLandscapeResources/DataLayer.uasset" 256
+"../../../Engine/Content/EditorMaterials/GizmoMaterial.uasset" 257
+"../../../Engine/Content/EditorMaterials/MAT_Groups_Toggle.uasset" 258
+"../../../Engine/Content/EditorMaterials/MAT_Groups_Visibility.uasset" 259
+"../../../Engine/Content/EditorMaterials/PreviewShadowIndicator.uasset" 260
+"../../../Engine/Content/EditorMaterials/PreviewShadowIndicatorMaterial.uasset" 261
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_ColorTrack.uasset" 262
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Anim.uasset" 263
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_AudioMaster.uasset" 264
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Director.uasset" 265
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Event.uasset" 266
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Fade.uasset" 267
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Float.uasset" 268
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Move.uasset" 269
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Slomo.uasset" 270
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Sound.uasset" 271
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Vector.uasset" 272
+"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_NoImage.uasset" 273
+"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_OOD.uasset" 274
+"../../../Engine/Content/EditorMaterials/Camera/CineMat.uasset" 275
+"../../../Engine/Content/EditorMaterials/Camera/MI_CineMat_Rig.uasset" 276
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Arm.uasset" 277
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Base.uasset" 278
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Body.uasset" 279
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Mount.uasset" 280
+"../../../Engine/Content/EditorMeshes/Camera/SM_RailRig_Mount.uasset" 281
+"../../../Engine/Content/EditorMeshes/Camera/SM_RailRig_Track.uasset" 282
+"../../../Engine/Content/EditorResources/BSPVertex.uasset" 283
+"../../../Engine/Content/EditorResources/EmptyActor.uasset" 284
+"../../../Engine/Content/EditorResources/S_Actor.uasset" 285
+"../../../Engine/Content/EditorResources/S_Trigger.uasset" 286
+"../../../Engine/Content/EditorResources/AudioIcons/S_AudioComponent.uasset" 287
+"../../../Engine/Content/EditorResources/AudioIcons/S_AudioComponent_AutoActivate.uasset" 288
+"../../../Engine/Content/EditorResources/LightIcons/S_LightError.uasset" 289
+"../../../Engine/Content/EditorResources/SequenceRecorder/Countdown.uasset" 290
+"../../../Engine/Content/EditorResources/SequenceRecorder/RecordingIndicator.uasset" 291
+"../../../Engine/Content/EditorSounds/Notifications/CompileFailed.uasset" 292
+"../../../Engine/Content/EditorSounds/Notifications/CompileFailed_Cue.uasset" 293
+"../../../Engine/Content/EditorSounds/Notifications/CompileSuccess.uasset" 294
+"../../../Engine/Content/EditorSounds/Notifications/CompileStart_Cue.uasset" 295
+"../../../Engine/Content/EditorSounds/Notifications/CompileSuccess_Cue.uasset" 296
+"../../../Engine/Content/EngineDamageTypes/DmgTypeBP_Environmental.uasset" 297
+"../../../Engine/Content/EngineDebugMaterials/HeatmapGradient.uasset" 298
+"../../../Engine/Content/EngineDebugMaterials/BoneWeightMaterial.uasset" 299
+"../../../Engine/Content/EngineDebugMaterials/ClothMaterial.uasset" 300
+"../../../Engine/Content/EngineDebugMaterials/ClothMaterial_WF.uasset" 301
+"../../../Engine/Content/EngineDebugMaterials/DebugEditorMaterial.uasset" 302
+"../../../Engine/Content/EngineDebugMaterials/DebugMeshMaterial.uasset" 303
+"../../../Engine/Content/EngineDebugMaterials/GeomMaterial.uasset" 304
+"../../../Engine/Content/EngineDebugMaterials/M_SimpleTranslucent.uasset" 305
+"../../../Engine/Content/EngineFonts/Faces/RobotoBold.uasset" 306
+"../../../Engine/Content/EngineFonts/Faces/RobotoBoldItalic.uasset" 307
+"../../../Engine/Content/EngineFonts/Faces/RobotoItalic.uasset" 308
+"../../../Engine/Content/EngineFonts/Faces/RobotoLight.uasset" 309
+"../../../Engine/Content/EngineFonts/Faces/RobotoRegular.uasset" 310
+"../../../Engine/Content/EngineFonts/Roboto.uasset" 311
+"../../../Engine/Content/EngineFonts/Faces/RobotoTiny.uasset" 312
+"../../../Engine/Content/EngineFonts/RobotoTiny.uasset" 313
+"../../../Engine/Content/EngineMaterials/BaseFlattenDiffuseMap.uasset" 314
+"../../../Engine/Content/EngineMaterials/BaseFlattenEmissiveMap.uasset" 315
+"../../../Engine/Content/EngineMaterials/BaseFlattenGrayscaleMap.uasset" 316
+"../../../Engine/Content/EngineMaterials/BaseFlattenNormalMap.uasset" 317
+"../../../Engine/Content/EngineMaterials/BaseFlattenMaterial.uasset" 318
+"../../../Engine/Content/EngineMaterials/DefaultBloomKernel.uasset" 319
+"../../../Engine/Content/EngineMaterials/DefaultBokeh.uasset" 320
+"../../../Engine/Content/EngineMaterials/DefaultDiffuse.uasset" 321
+"../../../Engine/Content/EngineMaterials/DefaultDeferredDecalMaterial.uasset" 322
+"../../../Engine/Content/EngineMaterials/DefaultLightFunctionMaterial.uasset" 323
+"../../../Engine/Content/EngineMaterials/DefaultPhysicalMaterial.uasset" 324
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat2Components.uasset" 325
+"../../../Engine/Content/EngineMaterials/DefaultPostProcessMaterial.uasset" 326
+"../../../Engine/Content/EngineFonts/RobotoDistanceField.uasset" 327
+"../../../Engine/Content/EngineMaterials/DefaultTextMaterialOpaque.uasset" 328
+"../../../Engine/Content/EngineMaterials/DefaultWhiteGrid.uasset" 329
+"../../../Engine/Content/EngineMaterials/EditorBrushMaterial.uasset" 330
+"../../../Engine/Content/EngineMaterials/Good64x64TilingNoiseHighFreq.uasset" 331
+"../../../Engine/Content/EngineMaterials/MiniFont.uasset" 332
+"../../../Engine/Content/EngineMaterials/InvalidLightmapSettings.uasset" 333
+"../../../Engine/Content/EngineMaterials/M_InvalidLightmapSettings.uasset" 334
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/WorldPositionOffset/CameraOffset.uasset" 335
+"../../../Engine/Content/EngineMaterials/PhAT_JointLimitMaterial.uasset" 336
+"../../../Engine/Content/EngineMaterials/PreintegratedSkinBRDF.uasset" 337
+"../../../Engine/Content/EngineMaterials/RemoveSurfaceMaterial.uasset" 338
+"../../../Engine/Content/EngineMaterials/WeightMapPlaceholderTexture.uasset" 339
+"../../../Engine/Content/EngineResources/WhiteSquareTexture.uasset" 340
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough.uasset" 341
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked.uasset" 342
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque.uasset" 343
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked_OneSided.uasset" 344
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque_OneSided.uasset" 345
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent.uasset" 346
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent_OneSided.uasset" 347
+"../../../Engine/Content/EngineMeshes/Cylinder.uasset" 348
+"../../../Engine/Content/EngineMeshes/Sphere.uasset" 349
+"../../../Engine/Content/EngineResources/Black.uasset" 350
+"../../../Engine/Content/EngineResources/DefaultTexture.uasset" 351
+"../../../Engine/Content/EngineResources/DefaultTextureCube.uasset" 352
+"../../../Engine/Content/EngineResources/DefaultVolumeTexture2D.uasset" 353
+"../../../Engine/Content/EngineResources/DefaultVolumeTexture.uasset" 354
+"../../../Engine/Content/EngineResources/GradientTexture0.uasset" 355
+"../../../Engine/Content/EngineSounds/Master.uasset" 356
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/ConvertFromDiffSpec.uasset" 357
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/PowerToRoughness.uasset" 358
+"../../../Engine/Content/Maps/Templates/Thumbnails/Default.uasset" 359
+"../../../Engine/Content/Maps/Templates/Thumbnails/VR-Basic.uasset" 360
+"../../../Engine/Content/MobileResources/T_MobileControls_texture.uasset" 361
+"../../../Engine/Content/MobileResources/T_MobileMenu2.uasset" 362
+"../../../Engine/Content/MobileResources/HUD/AnalogHat.uasset" 363
+"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Background.uasset" 364
+"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Thumb.uasset" 365
+"../../../Engine/Content/MobileResources/HUD/DefaultVirtualJoysticks.uasset" 366
+"../../../Engine/Content/MobileResources/HUD/LeftVirtualJoystickOnly.uasset" 367
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton1_off.uasset" 368
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton1_on.uasset" 369
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton2_off.uasset" 370
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton2_on.uasset" 371
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton3.uasset" 372
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButtonFire.uasset" 373
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad.uasset" 374
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad2.uasset" 375
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad3.uasset" 376
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionStick.uasset" 377
+"../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickInner.uasset" 378
+"../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickOutter.uasset" 379
+"../../../Engine/Content/Tutorial/ContentIntroCurve.uasset" 380
+"../../../Engine/Content/Tutorial/BlueprintTutorials/TutorialAssets/Blueprint_64x.uasset" 381
+"../../../Engine/Content/VREditor/LaserPointer/VR_LaserPower_01.uasset" 382
+"../../../Engine/Content/VREditor/TransformGizmo/TransformGizmoMaterial.uasset" 383
+"../../../Engine/Content/VREditor/TransformGizmo/TranslucentTransformGizmoMaterial.uasset" 384
+"../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxCorner.uasset" 385
+"../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxEdge.uasset" 386
+"../../../Engine/Content/VREditor/TransformGizmo/PlaneTranslationHandle.uasset" 387
+"../../../Engine/Content/VREditor/TransformGizmo/Main.uasset" 388
+"../../../Engine/Content/VREditor/TransformGizmo/Xray.uasset" 389
+"../../../Engine/Content/VREditor/TransformGizmo/SM_Sequencer_Key.uasset" 390
+"../../../Engine/Content/VREditor/TransformGizmo/SM_Sequencer_Node.uasset" 391
+"../../Plugins/2D/Paper2D/Content/PlaceholderTextures/DummySpriteTexture.uasset" 392
+"../../Plugins/2D/Paper2D/Content/DummySprite.uasset" 393
+"../../Plugins/2D/Paper2D/Content/DefaultPaperTerrainMaterial.uasset" 394
+"../../Plugins/2D/Paper2D/Content/DefaultSpriteMaterial.uasset" 395
+"../../Plugins/2D/Paper2D/Content/MaskedUnlitSpriteMaterial.uasset" 396
+"../../Plugins/2D/Paper2D/Content/OpaqueUnlitSpriteMaterial.uasset" 397
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/PokeAHoleMaterial.uasset" 398
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Textures/GearVRController_AO.uasset" 399
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Textures/GearVRController_Color.uasset" 400
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Textures/GearVRController_Normal.uasset" 401
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/GearVRControllerMaterial.uasset" 402
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Meshes/GearVrController.uasset" 403
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Textures/touchController_albedo.uasset" 404
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Textures/touchController_controlmap.uasset" 405
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/touchController_mat.uasset" 406
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Meshes/LeftTouchController.uasset" 407
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Meshes/RiftHMD.uasset" 408
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Meshes/RightTouchController.uasset" 409
+"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/L_GameWorld1.umap" 410
+"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/StarterContent/Blueprints/Assets/FogBrightnessLUT.uasset" 411
+"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/StarterContent/Blueprints/Assets/SunlightColorLUT.uasset" 412
+"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/StarterContent/Blueprints/Assets/M_LightStage_Arrows.uasset" 413
+"../../../Engine/Content/MapTemplates/Sky/DaylightAmbientCubemap.uasset" 414
+"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master.uasset" 415
+"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Black.uasset" 416
+"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_HDRI.uasset" 417
+"../../../Engine/Content/EditorMaterials/Thumbnails/SkySphereMaterial.uasset" 418
+"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/StarterContent/Blueprints/Assets/Skybox.uasset" 419
+"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/StarterContent/Blueprints/Assets/SM_Arrows.uasset" 420
+"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset" 421
+"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/StarterContent/Blueprints/BP_LightStudio.uasset" 422
+"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset" 423
+"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/StarterContent/Materials/M_AssetPlatform.uasset" 424
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ChromeBall.uasset" 425
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ClearCoat.uasset" 426
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ClearCoatBlack.uasset" 427
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/Color_checker.uasset" 428
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ColorGrid.uasset" 429
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_GreyBall.uasset" 430
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/SM_ColorCalibrator.uasset" 431
+"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/StarterContent/Architecture/SM_AssetPlatform.uasset" 432
+"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/StarterContent/Maps/Advanced_Lighting.umap" 433
+"../../../Engine/Content/EditorBlueprintResources/StandardMacros.uasset" 434
+"../../../Engine/Content/EngineSky/C_Sky_Cloud_Color.uasset" 435
+"../../../Engine/Content/EngineSky/C_Sky_Horizon_Color.uasset" 436
+"../../../Engine/Content/EngineSky/C_Sky_Zenith_Color.uasset" 437
+"../../../Engine/Content/EngineSky/T_Sky_Blue.uasset" 438
+"../../../Engine/Content/EngineSky/T_Sky_Clouds_M.uasset" 439
+"../../../Engine/Content/EngineSky/T_Sky_Stars.uasset" 440
+"../../../Engine/Content/EngineSky/M_Sky_Panning_Clouds2.uasset" 441
+"../../../Engine/Content/EngineSky/SM_SkySphere.uasset" 442
+"../../../Engine/Content/EngineSky/BP_Sky_Sphere.uasset" 443
+"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/Meshes/SM_MagnetStaff.uasset" 444
+"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/WorldObjects/Items/BuildItems/BP_BuildFloor.uasset" 445
+"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/WorldObjects/Items/BuildItems/BP_PipeFilter.uasset" 446
+"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/WorldObjects/Items/ToolItems/BP_ParentTool.uasset" 447
+"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/WorldObjects/Items/ToolItems/BP_Pan.uasset" 448
+"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/UI/HTextBlock.uasset" 449
+"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/WorldObjects/Items/BuildItems/BP_BuildBed.uasset" 450
+"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/WorldObjects/Items/BuildItems/BP_BuildCarpet.uasset" 451
+"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/WorldObjects/Items/BuildItems/BP_BuildFancyBed.uasset" 452
+"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/WorldObjects/Items/BuildItems/BP_BuildFancyTable.uasset" 453
+"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/WorldObjects/Items/BuildItems/BP_BuildLargeDoorway.uasset" 454
+"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/WorldObjects/Items/BuildItems/BP_BuildLargeFloor.uasset" 455
+"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/WorldObjects/Items/BuildItems/BP_BuildLargeFoundation.uasset" 456
+"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/WorldObjects/Items/BuildItems/BP_ParentBuildWall.uasset" 457
+"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/WorldObjects/Items/BuildItems/BP_BuildLargeWall1.uasset" 458
+"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/WorldObjects/Items/BuildItems/BP_BuildLargeWall2.uasset" 459
+"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/WorldObjects/Items/BuildItems/BP_BuildLargeWallTriangle.uasset" 460
+"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/WorldObjects/Items/BuildItems/BP_BuildLargeWallWindow1.uasset" 461
+"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/WorldObjects/Items/BuildItems/BP_BuildLargeWallWindow2.uasset" 462
+"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/WorldObjects/Items/BuildItems/BP_BuildPole.uasset" 463
+"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/WorldObjects/Items/BuildItems/BP_BuildRoofFlat.uasset" 464
+"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/WorldObjects/Items/BuildItems/BP_BuildRoofLong.uasset" 465
+"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/WorldObjects/Items/BuildItems/BP_BuildRoofShort.uasset" 466
+"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/UI/UI_Creative.uasset" 467
+"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/ExternalAssets/Wooden_UI/Textures/Tex_checkbox_bg.uasset" 468
+"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/ExternalAssets/Wooden_UI/Textures/Tex_checkbox_filled.uasset" 469
+"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/UI/HCheckBox.uasset" 470
+"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/WorldObjects/BP_DayNightCycle.uasset" 471
+"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/WorldObjects/Vehicles/BP_PickupTruck.uasset" 472
+"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/WorldObjects/Items/BuildItems/BP_BuildStairs.uasset" 473
+"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/WorldObjects/Items/BuildItems/BP_BuildTable.uasset" 474
+"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/WorldObjects/Items/BuildItems/BP_BuildWall.uasset" 475
+"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/WorldObjects/Items/BuildItems/BP_BuildWindow.uasset" 476
+"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/WorldObjects/Items/BuildItems/BP_DeerTrophy.uasset" 477
+"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/WorldObjects/Items/BuildItems/BP_FishTrophy.uasset" 478
+"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/WorldObjects/Items/BuildItems/BP_GoldenHeadStatue.uasset" 479
+"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/WorldObjects/Items/BuildItems/BP_Plinth.uasset" 480
+"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/WorldObjects/Items/BuildItems/BP_ThatchCorner1.uasset" 481
+"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/WorldObjects/Items/BuildItems/BP_ThatchCorner2.uasset" 482
+"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/WorldObjects/Items/BuildItems/BP_ThatchFlat.uasset" 483
+"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/WorldObjects/Items/BuildItems/BP_ThatchRamp.uasset" 484
+"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/WorldObjects/Items/BuildItems/BP_Throne.uasset" 485
+"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/WorldObjects/Items/BuildItems/BP_WoodBlock.uasset" 486
+"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/BP_DevCam.uasset" 487
+"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/UI/HKeyBindSelector.uasset" 488
+"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/ExternalAssets/Wooden_UI/Textures/Tex_plank_17.uasset" 489
+"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/UI/HSmallButton1.uasset" 490
+"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/ExternalAssets/Wooden_UI/Textures/Tex_plank_16.uasset" 491
+"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/UI/HSmallButton2.uasset" 492
+"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/ExternalAssets/Wooden_UI/Textures/Tex_plank_18.uasset" 493
+"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/UI/HSmallButton3.uasset" 494
+"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/ExternalAssets/Wooden_UI/Textures/Tex_Plank_08.uasset" 495
+"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/UI/HTabButton.uasset" 496
+"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/ExternalAssets/Wooden_UI/Textures/Tex_Plank_07.uasset" 497
+"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/UI/HTabButton2.uasset" 498
+"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/ExternalAssets/Wooden_UI/Textures/Tex_Plank_09.uasset" 499
+"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/UI/HTabButton3.uasset" 500
+"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/UI/HTextBox.uasset" 501
+"../../../Engine/Content/BasicShapes/BasicShapeMaterial.uasset" 502
+"../../../Engine/Content/BasicShapes/Cube.uasset" 503
+"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/WorldObjects/Items/BuildItems/BP_Anvil.uasset" 504
+"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/WorldObjects/Items/ResourceItems/BP_ParentResource_C.uasset" 505
+"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/WorldObjects/Items/ResourceItems/BP_DirtResource.uasset" 506
+"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/WorldObjects/Items/ResourceItems/BP_GoldOre.uasset" 507
+"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/WorldObjects/Items/ResourceItems/BP_IronOre.uasset" 508
+"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/WorldObjects/Items/ResourceItems/BP_ScrapMetal.uasset" 509
+"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/WorldObjects/Items/ResourceItems/BP_UncutEmerald.uasset" 510
+"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/WorldObjects/Items/ResourceItems/BP_UncutRuby.uasset" 511
+"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/WorldObjects/Items/ResourceItems/BP_UncutSapphire.uasset" 512
+"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/ExternalAssets/Wooden_UI/Textures/Tex_bg_01_02.uasset" 513
+"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/ExternalAssets/Wooden_UI/Textures/Tex_frame_line.uasset" 514
+"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/ExternalAssets/Wooden_UI/Textures/Tex_title.uasset" 515
+"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/CheatMenu/CheatMenu.uasset" 516
+"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/StarterContent/Textures/T_Frame_M.uasset" 517
+"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/StarterContent/Textures/T_Frame_N.uasset" 518
+"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/StarterContent/Props/Materials/M_Frame.uasset" 519
+"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/StarterContent/Props/SM_PillarFrame.uasset" 520
+"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/UI/UI_VisualHud.uasset" 521
+"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/UI/UI_WorldMap.uasset" 522
+"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/WorldObjects/Items/ToolItems/BP_WorldMap.uasset" 523
+"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset" 524
+"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/StarterContent/Textures/T_MacroVariation.uasset" 525
+"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/StarterContent/Materials/M_Metal_Brushed_Nickel.uasset" 526
+"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/StarterContent/Textures/T_Metal_Aluminum_D.uasset" 527
+"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/StarterContent/Textures/T_Metal_Gold_N.uasset" 528
+"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/StarterContent/Materials/M_Metal_Burnished_Steel.uasset" 529
+"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/StarterContent/Textures/T_Metal_Copper_D.uasset" 530
+"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/StarterContent/Materials/M_Metal_Copper.uasset" 531
+"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/StarterContent/Textures/T_Statue_M.uasset" 532
+"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/StarterContent/Textures/T_Statue_N.uasset" 533
+"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/StarterContent/Props/Materials/M_StatueGlass.uasset" 534
+"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/StarterContent/Architecture/Floor_400x400.uasset" 535
+"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/StarterContent/Audio/Starter_Background_Cue.uasset" 536
+"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/StarterContent/Props/Materials/M_Statue.uasset" 537
+"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/StarterContent/Props/SM_Statue.uasset" 538
+"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/StarterContent/Textures/T_TableRound_M.uasset" 539
+"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/StarterContent/Textures/T_TableRound_N.uasset" 540
+"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/StarterContent/Props/Materials/M_TableRound.uasset" 541
+"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/StarterContent/Props/SM_TableRound.uasset" 542
+"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/StarterContent/Maps/Minimal_Default.umap" 543
+"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/StarterContent/Audio/Fire01_Cue.uasset" 544
+"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/StarterContent/Textures/T_Fire_SubUV.uasset" 545
+"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/StarterContent/Textures/T_Fire_Tiled_D.uasset" 546
+"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/StarterContent/Particles/Materials/M_Fire_SubUV.uasset" 547
+"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/StarterContent/Textures/T_Water_N.uasset" 548
+"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/StarterContent/Particles/Materials/M_Heat_Distortion.uasset" 549
+"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/StarterContent/Particles/Materials/M_Radial_Gradient.uasset" 550
+"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/StarterContent/Particles/P_Fire.uasset" 551
+"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/StarterContent/Blueprints/Blueprint_Effect_Fire.uasset" 552
+"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/StarterContent/Audio/Smoke01_Cue.uasset" 553
+"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/StarterContent/Particles/P_Smoke.uasset" 554
+"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/StarterContent/Blueprints/Blueprint_Effect_Smoke.uasset" 555
+"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/StarterContent/Audio/Fire_Sparks01_Cue.uasset" 556
+"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/StarterContent/Textures/T_Spark_Core.uasset" 557
+"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/StarterContent/Particles/Materials/M_Spark.uasset" 558
+"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/StarterContent/Particles/P_Sparks.uasset" 559
+"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/StarterContent/Blueprints/Blueprint_Effect_Sparks.uasset" 560
+"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/StarterContent/Audio/Steam01_Cue.uasset" 561
+"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/StarterContent/Particles/P_Steam_Lit.uasset" 562
+"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/StarterContent/Blueprints/Blueprint_Effect_Steam.uasset" 563
+"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/StarterContent/Textures/T_Lamp_M.uasset" 564
+"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/StarterContent/Textures/T_Lamp_N.uasset" 565
+"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/StarterContent/Props/Materials/M_Lamp.uasset" 566
+"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/StarterContent/Props/SM_Lamp_Ceiling.uasset" 567
+"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset" 568
+"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/StarterContent/Props/SM_Lamp_Wall.uasset" 569
+"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/StarterContent/Blueprints/Blueprint_WallSconce.uasset" 570
+"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/StarterContent/Maps/StarterMap_BuiltData.uasset" 571
+"../../../Engine/Content/Functions/Engine_MaterialFunctions03/Procedurals/ComputeFilterWidth.uasset" 572
+"../../../Engine/Content/EngineMaterials/AntiAliasedTextMaterialTranslucent.uasset" 573
+"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/StarterContent/Textures/T_Brick_Clay_Beveled_D.uasset" 574
+"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/StarterContent/Textures/T_Brick_Clay_Beveled_M.uasset" 575
+"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/StarterContent/Textures/T_Brick_Clay_Beveled_N.uasset" 576
+"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/StarterContent/Materials/M_Brick_Clay_Beveled.uasset" 577
+"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/StarterContent/Textures/T_Brick_Clay_New_D.uasset" 578
+"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/StarterContent/Textures/T_Brick_Clay_New_M.uasset" 579
+"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/StarterContent/Textures/T_Brick_Clay_New_N.uasset" 580
+"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/StarterContent/Materials/M_Brick_Clay_New.uasset" 581
+"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/StarterContent/Textures/T_Brick_Clay_Old_D.uasset" 582
+"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/StarterContent/Textures/T_Brick_Clay_Old_N.uasset" 583
+"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset" 584
+"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/StarterContent/Materials/M_Brick_Clay_Old.uasset" 585
+"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/StarterContent/Textures/T_Brick_Cut_Stone_D.uasset" 586
+"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/StarterContent/Textures/T_Brick_Cut_Stone_N.uasset" 587
+"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/StarterContent/Materials/M_Brick_Cut_Stone.uasset" 588
+"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/StarterContent/Textures/T_Brick_Hewn_Stone_D.uasset" 589
+"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/StarterContent/Textures/T_Brick_Hewn_Stone_M.uasset" 590
+"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/StarterContent/Textures/T_Brick_Hewn_Stone_N.uasset" 591
+"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/StarterContent/Materials/M_Brick_Hewn_Stone.uasset" 592
+"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/StarterContent/Textures/T_Ceramic_Tile_M.uasset" 593
+"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/StarterContent/Textures/T_Ceramic_Tile_N.uasset" 594
+"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/StarterContent/Textures/T_Rock_Marble_Polished_D.uasset" 595
+"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/StarterContent/Materials/M_Ceramic_Tile_Checker.uasset" 596
+"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/StarterContent/Textures/T_CobbleStone_Pebble_D.uasset" 597
+"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/StarterContent/Textures/T_CobbleStone_Pebble_M.uasset" 598
+"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/StarterContent/Textures/T_CobbleStone_Pebble_N.uasset" 599
+"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/StarterContent/Materials/M_CobbleStone_Pebble.uasset" 600
+"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/StarterContent/Textures/T_CobbleStone_Rough_D.uasset" 601
+"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/StarterContent/Textures/T_CobbleStone_Rough_N.uasset" 602
+"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/StarterContent/Textures/T_Gradinet_01.uasset" 603
+"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/StarterContent/Textures/T_Rock_Smooth_Granite_D.uasset" 604
+"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/StarterContent/Materials/M_CobbleStone_Rough.uasset" 605
+"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/StarterContent/Textures/T_CobbleStone_Smooth_D.uasset" 606
+"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/StarterContent/Textures/T_CobbleStone_Smooth_M.uasset" 607
+"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/StarterContent/Textures/T_CobbleStone_Smooth_N.uasset" 608
+"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/StarterContent/Materials/M_CobbleStone_Smooth.uasset" 609
+"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/StarterContent/Textures/T_Concrete_Grime_D.uasset" 610
+"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/StarterContent/Textures/T_Metal_Rust_N.uasset" 611
+"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/StarterContent/Materials/M_Concrete_Grime.uasset" 612
+"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/StarterContent/Textures/T_Concrete_Panels_D.uasset" 613
+"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/StarterContent/Textures/T_Concrete_Panels_N.uasset" 614
+"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/StarterContent/Materials/M_Concrete_Panels.uasset" 615
+"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/StarterContent/Textures/T_Concrete_Poured_D.uasset" 616
+"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/StarterContent/Textures/T_Concrete_Poured_N.uasset" 617
+"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/StarterContent/Materials/M_Concrete_Poured.uasset" 618
+"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/StarterContent/Textures/T_Concrete_Tiles_D.uasset" 619
+"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/StarterContent/Textures/T_Concrete_Tiles_M.uasset" 620
+"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/StarterContent/Textures/T_Concrete_Tiles_N.uasset" 621
+"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/StarterContent/Textures/T_Concrete_Tiles_Variation_M.uasset" 622
+"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/StarterContent/Materials/M_Concrete_Tiles.uasset" 623
+"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/StarterContent/Textures/T_Ground_Grass_D.uasset" 624
+"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/StarterContent/Textures/T_Ground_Grass_N.uasset" 625
+"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/StarterContent/Materials/M_Ground_Grass.uasset" 626
+"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/StarterContent/Textures/T_Ground_Gravel_D.uasset" 627
+"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/StarterContent/Textures/T_Ground_Gravel_N.uasset" 628
+"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/StarterContent/Materials/M_Ground_Gravel.uasset" 629
+"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/StarterContent/Textures/T_ground_Moss_D.uasset" 630
+"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/StarterContent/Textures/T_Ground_Moss_N.uasset" 631
+"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/StarterContent/Materials/M_Ground_Moss.uasset" 632
+"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/StarterContent/Materials/M_Metal_Chrome.uasset" 633
+"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/StarterContent/Textures/T_Metal_Gold_D.uasset" 634
+"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/StarterContent/Materials/M_Metal_Gold.uasset" 635
+"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/StarterContent/Textures/T_Metal_Rust_D.uasset" 636
+"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/StarterContent/Materials/M_Metal_Rust.uasset" 637
+"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/StarterContent/Textures/T_Metal_Steel_D.uasset" 638
+"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/StarterContent/Textures/T_Metal_Steel_N.uasset" 639
+"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/StarterContent/Materials/M_Metal_Steel.uasset" 640
+"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/StarterContent/Textures/T_Rock_Basalt_N.uasset" 641
+"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/StarterContent/Materials/M_Rock_Basalt.uasset" 642
+"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/StarterContent/Materials/M_Rock_Marble_Polished.uasset" 643
+"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/StarterContent/Textures/T_Rock_Sandstone_D.uasset" 644
+"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/StarterContent/Textures/T_Rock_Sandstone_N.uasset" 645
+"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/StarterContent/Materials/M_Rock_Sandstone.uasset" 646
+"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/StarterContent/Textures/T_Rock_Slate_D.uasset" 647
+"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/StarterContent/Textures/T_Rock_Slate_N.uasset" 648
+"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/StarterContent/Materials/M_Rock_Slate.uasset" 649
+"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/StarterContent/Textures/T_Checker_Noise_M.uasset" 650
+"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/StarterContent/Textures/T_Single_Tile_N.uasset" 651
+"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/StarterContent/Textures/T_Tech_Dot_M.uasset" 652
+"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/StarterContent/Textures/T_Tech_Dot_N.uasset" 653
+"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/StarterContent/Materials/M_Tech_Checker_Dot.uasset" 654
+"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/StarterContent/Textures/T_Tech_Hex_Tile_M.uasset" 655
+"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/StarterContent/Textures/T_Tech_Hex_Tile_N.uasset" 656
+"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/StarterContent/Materials/M_Tech_Hex_Tile.uasset" 657
+"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/StarterContent/Materials/M_Tech_Hex_Tile_Pulse.uasset" 658
+"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/StarterContent/Textures/T_Tech_Panel_M.uasset" 659
+"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/StarterContent/Textures/T_Tech_Panel_N.uasset" 660
+"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/StarterContent/Materials/M_Tech_Panel.uasset" 661
+"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/StarterContent/Materials/M_Water_Lake.uasset" 662
+"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/StarterContent/Textures/T_Water_M.uasset" 663
+"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/StarterContent/Materials/M_Water_Ocean.uasset" 664
+"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/StarterContent/Textures/T_Wood_Floor_Walnut_D.uasset" 665
+"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/StarterContent/Textures/T_Wood_Floor_Walnut_M.uasset" 666
+"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/StarterContent/Textures/T_Wood_Floor_Walnut_N.uasset" 667
+"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Polished.uasset" 668
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Opacity/AlphaOffset.uasset" 669
+"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Worn.uasset" 670
+"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/StarterContent/Textures/T_Wood_Oak_D.uasset" 671
+"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/StarterContent/Textures/T_Wood_Oak_N.uasset" 672
+"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/StarterContent/Materials/M_Wood_Oak.uasset" 673
+"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/StarterContent/Textures/T_Wood_Pine_D.uasset" 674
+"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/StarterContent/Textures/T_Wood_Pine_N.uasset" 675
+"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/StarterContent/Materials/M_Wood_Pine.uasset" 676
+"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/StarterContent/Textures/T_Wood_Walnut_D.uasset" 677
+"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/StarterContent/Textures/T_Wood_Walnut_N.uasset" 678
+"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/StarterContent/Materials/M_Wood_Walnut.uasset" 679
+"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/StarterContent/Architecture/Wall_400x200.uasset" 680
+"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/StarterContent/Architecture/Wall_Door_400x300.uasset" 681
+"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/StarterContent/Architecture/Wall_Window_400x300.uasset" 682
+"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/StarterContent/Audio/Collapse_Cue.uasset" 683
+"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/StarterContent/Audio/Starter_Music_Cue.uasset" 684
+"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/StarterContent/Textures/T_Dust_Particle_D.uasset" 685
+"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/StarterContent/Particles/Materials/M_Dust_Particle.uasset" 686
+"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/StarterContent/Particles/P_Ambient_Dust.uasset" 687
+"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/StarterContent/Props/MaterialSphere.uasset" 688
+"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/StarterContent/Props/SM_CornerFrame.uasset" 689
+"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/StarterContent/Props/SM_DoorFrame.uasset" 690
+"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/StarterContent/Props/SM_GlassWindow.uasset" 691
+"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/StarterContent/Props/SM_PillarFrame300.uasset" 692
+"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/StarterContent/Props/SM_WindowFrame.uasset" 693
+"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/StarterContent/Shapes/Shape_Cube.uasset" 694
+"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/StarterContent/Shapes/Shape_QuadPyramid.uasset" 695
+"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/StarterContent/Shapes/Shape_Sphere.uasset" 696
+"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/StarterContent/Maps/StarterMap.umap" 697
+"../../../Engine/Content/Maps/Entry_BuiltData.uasset" 698
+"../../../Engine/Content/Maps/Entry.umap" 699
