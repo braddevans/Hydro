@@ -13,7 +13,7 @@
 | [Eternal Crystals](https://github.com/kaiheilos/Hydro/raw/master/Pak%20Mods/000-CrystalLength_P.pak)  | Makes crystals last forever inside pressure chambers | Heilos |
 | [Everything Free](https://github.com/kaiheilos/Hydro/raw/master/Pak%20Mods/000-EverythingFree_P.pak)  | Makes all buyable items free.  **The game still requires one coin in each bucket** | Heilos |
 | [Vehicle Torque Improvement](https://github.com/kaiheilos/Hydro/raw/master/Pak%20Mods/000-VehicleTorque_P.pak)  | Doubles the torque and reverse speed of the pickup truck - **NOT COMPATIBLE WITH PickupTruckFuel_P.pak** | Heilos|
-| [The All-In-One](https://github.com/kaiheilos/Hydro/raw/master/Pak%20Mods/000-EternalDuraComboV3.2_P.pak)  | Infinite durability machines, better harvester, and Goliaths don't remove dirt - **NOT COMPATIBLE WITH 000-BetterHarvesterV2_P.pak** | Heilos & Rhino |
+| [The All-In-One](https://github.com/kaiheilos/Hydro/raw/master/Pak%20Mods/000-EternalDuraComboV3.2_P.pak)  | Infinite durability machines, better harvester, and Goliaths don't remove dirt - **ALSO CONTAINS CHANGES FROM 000-BetterHarvesterV2_P.pak** | Heilos & Rhino |
 | [Longer Day/Night Cycle](https://github.com/kaiheilos/Hydro/raw/master/Pak%20Mods/DayNightExtended_P.pak)  | Extends the length of the playable daytime | Navsigda |
 | [Double Truck Fuel Capacity](https://github.com/kaiheilos/Hydro/raw/master/Pak%20Mods/PickupTruckFuel_P.pak)  | Greatly increases the fuel capacity of the pickup truck - **NOT COMPATIBLE WITH 000-VehicleTorque_P.pak** | Navsigda |
 
@@ -29,7 +29,8 @@ F7 for menu
 Menu functions:
  - Delete Items (Checkboxes to delete groups of items from the world)
  - Tidy World (Teleports all items to the back of nearest truck) (Temporarily disabled)
- - Set time of day - **Does not lock the time once you close the menu**, but re-opening the menu will reset the time to the value you set
+ - Set and freeze time of day
+ - Set characters acceleration and max speed
  - Free Cam
  - Collision toggle - **Only use when flying!  Be sure you turn collisions back on before turning flight off!**
  - Flight Mode (Shift up, Ctrl down, Z to brake)
