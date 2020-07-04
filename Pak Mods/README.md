@@ -29,7 +29,8 @@ F7 for menu
 Menu functions:
  - Delete Items (Checkboxes to delete groups of items from the world)
  - Tidy World (Teleports all items to the back of nearest truck) (Temporarily disabled)
- - Set time of day - **Does not lock the time once you close the menu**, but re-opening the menu will reset the time to the value you set
+ - Set and freeze time of day
+ - Set characters acceleration and max speed
  - Free Cam
  - Collision toggle - **Only use when flying!  Be sure you turn collisions back on before turning flight off!**
  - Flight Mode (Shift up, Ctrl down, Z to brake)
