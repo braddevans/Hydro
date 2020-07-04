@@ -10,7 +10,7 @@
 | [Autumn Overhaul](https://github.com/kaiheilos/Hydro/raw/master/Pak%20Mods/000-AutumnOverhaul_P.pak)  | New textures and colors for an autumn/fall themed mining experience | Rhino |
 | [F7 Menu](https://github.com/kaiheilos/Hydro/raw/master/Pak%20Mods/000-F7Menu_P.pak)  | Removes the World Map item from the game and enables you to open a secret menu by pressing F7 or the Map by pressing M | Heilos |
 | [Slow Dirt Combine](https://github.com/kaiheilos/Hydro/raw/master/Pak%20Mods/000-SlowerDirt_P.pak)  | Increases dirt merge time from 0.3-0.6 to 0.7-1 seconds to improve the effect of shredders and reduce clumping caused by vertical conveyor delays | Heilos |
-| [Crystal Duration 100x](https://github.com/kaiheilos/Hydro/raw/master/Pak%20Mods/000-CrystalLength_P.pak)  | Makes crystals last 100 times longer in the pressure chamber | Heilos |
+| [Eternal Crystals](https://github.com/kaiheilos/Hydro/raw/master/Pak%20Mods/000-CrystalLength_P.pak)  | Makes crystals last forever inside pressure chambers | Heilos |
 | [Everything Free](https://github.com/kaiheilos/Hydro/raw/master/Pak%20Mods/000-EverythingFree_P.pak)  | Makes all buyable items free.  **The game still requires one coin in each bucket** | Heilos |
 | [Vehicle Torque Improvement](https://github.com/kaiheilos/Hydro/raw/master/Pak%20Mods/000-VehicleTorque_P.pak)  | Doubles the torque and reverse speed of the pickup truck - **NOT COMPATIBLE WITH PickupTruckFuel_P.pak** | Heilos|
 | [The All-In-One](https://github.com/kaiheilos/Hydro/raw/master/Pak%20Mods/000-EternalDuraComboV3.2_P.pak)  | Infinite durability machines, better harvester, and Goliaths don't remove dirt - **NOT COMPATIBLE WITH 000-BetterHarvesterV2_P.pak** | Heilos & Rhino |

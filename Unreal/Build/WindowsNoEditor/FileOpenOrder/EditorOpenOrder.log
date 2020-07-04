@@ -1711,8 +1711,8 @@
 "../../../Engine/Content/EngineFonts/Faces/RobotoTiny.uasset" 1711
 "C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Intermediate/AssetRegistryCache/311563bb.bin" 1712
 "C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Intermediate/AssetRegistryCache/c90e3f55.bin" 1713
-"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/CheatMenu/CheatMenu.uasset" 1714
-"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/StarterContent/Maps/Minimal_Default.umap" 1715
+"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/StarterContent/Maps/Minimal_Default.umap" 1714
+"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/WorldObjects/Items/ToolItems/BP_WorldMap.uasset" 1715
 "../../../Engine/Content/EditorResources/SequenceRecorder/Countdown.uasset" 1716
 "../../../Engine/Content/EditorResources/SequenceRecorder/RecordingIndicator.uasset" 1717
 "../../../Engine/Content/BasicShapes/Cube.uasset" 1718
@@ -1769,108 +1769,108 @@
 "C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/BP_Game_Controller.uasset" 1769
 "C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/WorldObjects/Items/BuildItems/BP_ParentWaterItemDurability.uasset" 1770
 "C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/WorldObjects/Items/BuildItems/BP_ParentWaterItem.uasset" 1771
-"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/WorldObjects/Items/ToolItems/BP_WorldMap.uasset" 1772
+"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/WorldObjects/Items/ToolItems/BP_Pan.uasset" 1772
 "C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/WorldObjects/Items/ToolItems/BP_ParentTool.uasset" 1773
-"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/BP_DevCam.uasset" 1774
-"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/UI/HCheckBox.uasset" 1775
-"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/ExternalAssets/Wooden_UI/Textures/Tex_checkbox_bg.uasset" 1776
-"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/ExternalAssets/Wooden_UI/Textures/Tex_checkbox_filled.uasset" 1777
-"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/Sound/Player/Button_Press.uasset" 1778
-"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/UI/HKeyBindSelector.uasset" 1779
-"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/UI/AlmendraSC-Bold_Font.uasset" 1780
-"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/UI/AlmendraSC-Bold.uasset" 1781
-"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/UI/HSmallButton1.uasset" 1782
-"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/ExternalAssets/Wooden_UI/Textures/Tex_plank_17.uasset" 1783
-"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/UI/HSmallButton2.uasset" 1784
-"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/ExternalAssets/Wooden_UI/Textures/Tex_plank_16.uasset" 1785
-"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/UI/HSmallButton3.uasset" 1786
-"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/ExternalAssets/Wooden_UI/Textures/Tex_plank_18.uasset" 1787
-"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/UI/HTabButton.uasset" 1788
-"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/ExternalAssets/Wooden_UI/Textures/Tex_Plank_08.uasset" 1789
-"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/UI/HTabButton2.uasset" 1790
-"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/ExternalAssets/Wooden_UI/Textures/Tex_Plank_07.uasset" 1791
-"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/UI/HTabButton3.uasset" 1792
-"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/ExternalAssets/Wooden_UI/Textures/Tex_Plank_09.uasset" 1793
-"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/UI/HTextBlock.uasset" 1794
-"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/UI/HTextBox.uasset" 1795
-"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/WorldObjects/BP_DayNightCycle.uasset" 1796
-"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/WorldObjects/Items/BuildItems/BP_Anvil.uasset" 1797
-"../../../Engine/Content/BasicShapes/BasicShapeMaterial.uasset" 1798
-"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/WorldObjects/Items/ResourceItems/BP_DirtResource.uasset" 1799
-"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/WorldObjects/Items/ResourceItems/BP_ParentResource_C.uasset" 1800
-"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/WorldObjects/Items/ResourceItems/BP_GoldOre.uasset" 1801
-"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/WorldObjects/Items/ResourceItems/BP_IronOre.uasset" 1802
-"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/WorldObjects/Items/ResourceItems/BP_ScrapMetal.uasset" 1803
-"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/WorldObjects/Items/ResourceItems/BP_UncutEmerald.uasset" 1804
-"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/WorldObjects/Items/ResourceItems/BP_UncutRuby.uasset" 1805
-"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/WorldObjects/Items/ResourceItems/BP_UncutSapphire.uasset" 1806
-"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/WorldObjects/Vehicles/BP_ParentVehicle.uasset" 1807
-"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/WorldObjects/Vehicles/BP_PickupTruck.uasset" 1808
-"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/ExternalAssets/Wooden_UI/Textures/Tex_bg_01_02.uasset" 1809
-"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/ExternalAssets/Wooden_UI/Textures/Tex_frame_line.uasset" 1810
-"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/ExternalAssets/Wooden_UI/Textures/Tex_title.uasset" 1811
-"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/UI/UI_WorldMap.uasset" 1812
-"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset" 1813
-"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/StarterContent/Materials/M_Metal_Brushed_Nickel.uasset" 1814
-"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/StarterContent/Textures/T_MacroVariation.uasset" 1815
-"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/StarterContent/Materials/M_Metal_Burnished_Steel.uasset" 1816
-"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/StarterContent/Textures/T_Metal_Aluminum_D.uasset" 1817
-"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/StarterContent/Textures/T_Metal_Gold_N.uasset" 1818
-"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/StarterContent/Materials/M_Metal_Copper.uasset" 1819
-"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/StarterContent/Textures/T_Metal_Copper_D.uasset" 1820
-"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/StarterContent/Props/Materials/M_Chair.uasset" 1821
-"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/StarterContent/Textures/T_Chair_M.uasset" 1822
-"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/StarterContent/Textures/T_Chair_N.uasset" 1823
-"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/StarterContent/Props/Materials/M_StatueGlass.uasset" 1824
-"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/StarterContent/Textures/T_Statue_M.uasset" 1825
-"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/StarterContent/Textures/T_Statue_N.uasset" 1826
-"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/StarterContent/Architecture/Floor_400x400.uasset" 1827
-"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/StarterContent/Materials/M_Basic_Floor.uasset" 1828
-"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/StarterContent/Audio/Starter_Background_Cue.uasset" 1829
-"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/StarterContent/Props/SM_Chair.uasset" 1830
-"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/StarterContent/Props/SM_Statue.uasset" 1831
-"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/StarterContent/Props/Materials/M_Statue.uasset" 1832
-"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/StarterContent/Props/SM_TableRound.uasset" 1833
-"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/StarterContent/Props/Materials/M_TableRound.uasset" 1834
-"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/StarterContent/Textures/T_TableRound_M.uasset" 1835
-"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/StarterContent/Textures/T_TableRound_N.uasset" 1836
-"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/StarterContent/Audio/Starter_Wind05.uasset" 1837
-"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/StarterContent/Audio/Starter_Birds01.uasset" 1838
-"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/StarterContent/Audio/Starter_Wind06.uasset" 1839
-"C:/Users/Some Guy/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/9/6/STATICMESH_3713973CA1B84F41BA1EB2E56FCE9211_228332BAE0224DD294E232B87D83948F1$__4F6DC4D9DE1030757BB58556E56BFAF249495E66.udd" 1840
-"C:/Users/Some Guy/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/3/7/NAVCOLLISION_B89838347A4348138EE337A847529C5C_NAVCOLLISION_X_EA35731049A9E64A4__A72EF0651DF7A741D94A37C319158DFB273AF90C.udd" 1841
-"C:/Users/Some Guy/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/8/0/PHYSX_A08609EF508D460CBB6710540B03AACF_PHYSXPC_EA35731049A9E64A43F53F82F99607C__864EC5E1422D3E824F138579BC22734A669329DB.udd" 1842
-"../../../Engine/Content/EditorResources/EmptyActor.uasset" 1843
-"../../../Engine/Content/EditorResources/LightIcons/S_LightError.uasset" 1844
-"../../../Engine/Content/EditorResources/AudioIcons/S_AudioComponent_AutoActivate.uasset" 1845
-"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/StarterContent/Maps/Advanced_Lighting.umap" 1846
-"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/StarterContent/Blueprints/BP_LightStudio.uasset" 1847
-"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/StarterContent/Blueprints/Assets/FogBrightnessLUT.uasset" 1848
-"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/StarterContent/Blueprints/Assets/SunlightColorLUT.uasset" 1849
-"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/StarterContent/Blueprints/Assets/M_LightStage_Arrows.uasset" 1850
-"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master.uasset" 1851
-"../../../Engine/Content/MapTemplates/Sky/DaylightAmbientCubemap.uasset" 1852
-"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Black.uasset" 1853
-"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_HDRI.uasset" 1854
-"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/StarterContent/Blueprints/Assets/Skybox.uasset" 1855
-"../../../Engine/Content/EditorMaterials/Thumbnails/SkySphereMaterial.uasset" 1856
-"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/StarterContent/Blueprints/Assets/SM_Arrows.uasset" 1857
-"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset" 1858
-"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset" 1859
-"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/StarterContent/Materials/M_AssetPlatform.uasset" 1860
-"../../../Engine/Content/EditorMeshes/ColorCalibrator/SM_ColorCalibrator.uasset" 1861
-"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ChromeBall.uasset" 1862
-"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ClearCoat.uasset" 1863
-"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ClearCoatBlack.uasset" 1864
-"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ColorGrid.uasset" 1865
-"../../../Engine/Content/EditorMeshes/ColorCalibrator/Color_checker.uasset" 1866
-"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_GreyBall.uasset" 1867
-"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/StarterContent/Architecture/SM_AssetPlatform.uasset" 1868
-"C:/Users/Some Guy/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/3/7/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_BGRA8_B77A212D474A05DEBBB145B68651715__BBBA677262A1B8A6956BA1D1504A3D79321197FD.udd" 1869
-"C:/Users/Some Guy/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/9/5/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_BGRA8_5B9FF28C48C96E6683F76F890F0AC50__6A90E971D0B7B0050A2DA3AD5BA0D6078A5FE1E0.udd" 1870
-"C:/Users/Some Guy/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/8/1/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_BGRA8_BF90A1E44A5DB259B51E9987001CB1D__068A54EE5CAEE2E593F9E364E425B47925B35312.udd" 1871
-"C:/Users/Some Guy/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/2/8/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_BGRA8_090AC203473AC42969F5D0A3189E983__C18AC10002BE51A3DD866C8BA6F927734A1A3D70.udd" 1872
-"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/WorldObjects/Vehicles/BP_Excavator.uasset" 1873
+"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/WorldObjects/Vehicles/BP_PickupTruck.uasset" 1774
+"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/WorldObjects/Vehicles/BP_ParentVehicle.uasset" 1775
+"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/CheatMenu/CheatMenu.uasset" 1776
+"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/BP_DevCam.uasset" 1777
+"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/UI/HCheckBox.uasset" 1778
+"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/ExternalAssets/Wooden_UI/Textures/Tex_checkbox_bg.uasset" 1779
+"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/ExternalAssets/Wooden_UI/Textures/Tex_checkbox_filled.uasset" 1780
+"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/Sound/Player/Button_Press.uasset" 1781
+"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/UI/HKeyBindSelector.uasset" 1782
+"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/UI/AlmendraSC-Bold_Font.uasset" 1783
+"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/UI/AlmendraSC-Bold.uasset" 1784
+"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/UI/HSmallButton1.uasset" 1785
+"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/ExternalAssets/Wooden_UI/Textures/Tex_plank_17.uasset" 1786
+"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/UI/HSmallButton2.uasset" 1787
+"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/ExternalAssets/Wooden_UI/Textures/Tex_plank_16.uasset" 1788
+"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/UI/HSmallButton3.uasset" 1789
+"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/ExternalAssets/Wooden_UI/Textures/Tex_plank_18.uasset" 1790
+"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/UI/HTabButton.uasset" 1791
+"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/ExternalAssets/Wooden_UI/Textures/Tex_Plank_08.uasset" 1792
+"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/UI/HTabButton2.uasset" 1793
+"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/ExternalAssets/Wooden_UI/Textures/Tex_Plank_07.uasset" 1794
+"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/UI/HTabButton3.uasset" 1795
+"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/ExternalAssets/Wooden_UI/Textures/Tex_Plank_09.uasset" 1796
+"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/UI/HTextBlock.uasset" 1797
+"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/UI/HTextBox.uasset" 1798
+"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/WorldObjects/BP_DayNightCycle.uasset" 1799
+"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/WorldObjects/Items/BuildItems/BP_Anvil.uasset" 1800
+"../../../Engine/Content/BasicShapes/BasicShapeMaterial.uasset" 1801
+"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/WorldObjects/Items/ResourceItems/BP_DirtResource.uasset" 1802
+"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/WorldObjects/Items/ResourceItems/BP_ParentResource_C.uasset" 1803
+"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/WorldObjects/Items/ResourceItems/BP_GoldOre.uasset" 1804
+"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/WorldObjects/Items/ResourceItems/BP_IronOre.uasset" 1805
+"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/WorldObjects/Items/ResourceItems/BP_ScrapMetal.uasset" 1806
+"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/WorldObjects/Items/ResourceItems/BP_UncutEmerald.uasset" 1807
+"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/WorldObjects/Items/ResourceItems/BP_UncutRuby.uasset" 1808
+"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/WorldObjects/Items/ResourceItems/BP_UncutSapphire.uasset" 1809
+"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/ExternalAssets/Wooden_UI/Textures/Tex_bg_01_02.uasset" 1810
+"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/ExternalAssets/Wooden_UI/Textures/Tex_frame_line.uasset" 1811
+"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/ExternalAssets/Wooden_UI/Textures/Tex_title.uasset" 1812
+"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/UI/UI_WorldMap.uasset" 1813
+"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset" 1814
+"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/StarterContent/Materials/M_Metal_Brushed_Nickel.uasset" 1815
+"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/StarterContent/Textures/T_MacroVariation.uasset" 1816
+"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/StarterContent/Materials/M_Metal_Burnished_Steel.uasset" 1817
+"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/StarterContent/Textures/T_Metal_Aluminum_D.uasset" 1818
+"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/StarterContent/Textures/T_Metal_Gold_N.uasset" 1819
+"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/StarterContent/Materials/M_Metal_Copper.uasset" 1820
+"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/StarterContent/Textures/T_Metal_Copper_D.uasset" 1821
+"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/StarterContent/Props/Materials/M_Chair.uasset" 1822
+"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/StarterContent/Textures/T_Chair_M.uasset" 1823
+"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/StarterContent/Textures/T_Chair_N.uasset" 1824
+"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/StarterContent/Props/Materials/M_StatueGlass.uasset" 1825
+"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/StarterContent/Textures/T_Statue_M.uasset" 1826
+"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/StarterContent/Textures/T_Statue_N.uasset" 1827
+"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/StarterContent/Architecture/Floor_400x400.uasset" 1828
+"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/StarterContent/Materials/M_Basic_Floor.uasset" 1829
+"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/StarterContent/Audio/Starter_Background_Cue.uasset" 1830
+"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/StarterContent/Props/SM_Chair.uasset" 1831
+"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/StarterContent/Props/SM_Statue.uasset" 1832
+"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/StarterContent/Props/Materials/M_Statue.uasset" 1833
+"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/StarterContent/Props/SM_TableRound.uasset" 1834
+"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/StarterContent/Props/Materials/M_TableRound.uasset" 1835
+"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/StarterContent/Textures/T_TableRound_M.uasset" 1836
+"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/StarterContent/Textures/T_TableRound_N.uasset" 1837
+"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/StarterContent/Audio/Starter_Wind05.uasset" 1838
+"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/StarterContent/Audio/Starter_Birds01.uasset" 1839
+"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/StarterContent/Audio/Starter_Wind06.uasset" 1840
+"C:/Users/Some Guy/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/9/6/STATICMESH_3713973CA1B84F41BA1EB2E56FCE9211_228332BAE0224DD294E232B87D83948F1$__4F6DC4D9DE1030757BB58556E56BFAF249495E66.udd" 1841
+"C:/Users/Some Guy/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/3/7/NAVCOLLISION_B89838347A4348138EE337A847529C5C_NAVCOLLISION_X_EA35731049A9E64A4__A72EF0651DF7A741D94A37C319158DFB273AF90C.udd" 1842
+"C:/Users/Some Guy/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/8/0/PHYSX_A08609EF508D460CBB6710540B03AACF_PHYSXPC_EA35731049A9E64A43F53F82F99607C__864EC5E1422D3E824F138579BC22734A669329DB.udd" 1843
+"../../../Engine/Content/EditorResources/EmptyActor.uasset" 1844
+"../../../Engine/Content/EditorResources/LightIcons/S_LightError.uasset" 1845
+"../../../Engine/Content/EditorResources/AudioIcons/S_AudioComponent_AutoActivate.uasset" 1846
+"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/StarterContent/Maps/Advanced_Lighting.umap" 1847
+"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/StarterContent/Blueprints/BP_LightStudio.uasset" 1848
+"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/StarterContent/Blueprints/Assets/FogBrightnessLUT.uasset" 1849
+"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/StarterContent/Blueprints/Assets/SunlightColorLUT.uasset" 1850
+"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/StarterContent/Blueprints/Assets/M_LightStage_Arrows.uasset" 1851
+"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master.uasset" 1852
+"../../../Engine/Content/MapTemplates/Sky/DaylightAmbientCubemap.uasset" 1853
+"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Black.uasset" 1854
+"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_HDRI.uasset" 1855
+"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/StarterContent/Blueprints/Assets/Skybox.uasset" 1856
+"../../../Engine/Content/EditorMaterials/Thumbnails/SkySphereMaterial.uasset" 1857
+"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/StarterContent/Blueprints/Assets/SM_Arrows.uasset" 1858
+"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset" 1859
+"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset" 1860
+"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/StarterContent/Materials/M_AssetPlatform.uasset" 1861
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/SM_ColorCalibrator.uasset" 1862
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ChromeBall.uasset" 1863
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ClearCoat.uasset" 1864
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ClearCoatBlack.uasset" 1865
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ColorGrid.uasset" 1866
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/Color_checker.uasset" 1867
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_GreyBall.uasset" 1868
+"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/StarterContent/Architecture/SM_AssetPlatform.uasset" 1869
+"C:/Users/Some Guy/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/3/7/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_BGRA8_B77A212D474A05DEBBB145B68651715__BBBA677262A1B8A6956BA1D1504A3D79321197FD.udd" 1870
+"C:/Users/Some Guy/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/9/5/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_BGRA8_5B9FF28C48C96E6683F76F890F0AC50__6A90E971D0B7B0050A2DA3AD5BA0D6078A5FE1E0.udd" 1871
+"C:/Users/Some Guy/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/8/1/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_BGRA8_BF90A1E44A5DB259B51E9987001CB1D__068A54EE5CAEE2E593F9E364E425B47925B35312.udd" 1872
+"C:/Users/Some Guy/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/2/8/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_BGRA8_090AC203473AC42969F5D0A3189E983__C18AC10002BE51A3DD866C8BA6F927734A1A3D70.udd" 1873
 "C:/Users/Some Guy/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/9/6/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_BGRA8_F7664EDE4AEC669BBA80059A3790876__4C1DEFFCC58D9EDCD67E86EC451CF71D46B8CF0E.udd" 1874
 "C:/Users/Some Guy/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/7/2/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_BGRA8_A501E0774E1F5AB28EE0A695392E18C__95009D0568D64AAE9722BAA1BE0B57EAD5C64EB6.udd" 1875
 "C:/Users/Some Guy/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/8/8/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_BGRA8_362BC8204310F0D1F4381AA4CA94BBE__C220385916B889B55A3EB0050ACDF61A31C3B587.udd" 1876
@@ -1878,8 +1878,8 @@
 "C:/Users/Some Guy/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/5/8/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_BGRA8_5813BFAD4CC615ABC33E34B42FEFD77__C22D950FD3851C99E282584D3E84B7B60CC03FAC.udd" 1878
 "C:/Users/Some Guy/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/6/9/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_BGRA8_42A52D22490FB0A5E2062C93F17F1B3__435D4305FF7CC6ABB65C8D2975E2F174D7D0B6A7.udd" 1879
 "C:/Users/Some Guy/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/2/8/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_BGRA8_0AD41E04497A0C601DA1D68DE547CE0__5010EAB09D567BCEF3ED3E3913C74028E764B4D2.udd" 1880
-"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/WorldObjects/StoreItems/BP_ParentStoreItem.uasset" 1881
-"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/WorldObjects/Items/ToolItems/BP_Pan_C.uasset" 1882
+"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/WorldObjects/Vehicles/BP_Excavator.uasset" 1881
+"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/WorldObjects/StoreItems/BP_ParentStoreItem.uasset" 1882
 "C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/WorldObjects/Items/Plants/BP_ParentPlant.uasset" 1883
 "C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/WorldObjects/Items/BuildItems/BP_WoodBlock.uasset" 1884
 "C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/WorldObjects/Items/BuildItems/BP_WaterfallTub.uasset" 1885
@@ -1956,8 +1956,8 @@
 "C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/UI/HSlider.uasset" 1956
 "C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/ExternalAssets/Wooden_UI/Textures/Tex_obj_02.uasset" 1957
 "C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/ExternalAssets/Wooden_UI/Textures/Tex_strip_bg01.uasset" 1958
-"C:/Users/Some Guy/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/8/3/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_BGRA8_5E65C2614472FE8E84653A91BA4F3E7__D3474342A645CF8CADD8351FD9394269D340B866.udd" 1959
-"C:/Users/Some Guy/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/3/2/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_BDEB3C044DD6F278CA90A5ABD8C42__3B46C763961F1A64215B9FECCCB9EBE883855573.udd" 1960
+"C:/Users/Some Guy/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/3/2/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_BDEB3C044DD6F278CA90A5ABD8C42__3B46C763961F1A64215B9FECCCB9EBE883855573.udd" 1959
+"C:/Users/Some Guy/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/8/3/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_BGRA8_5E65C2614472FE8E84653A91BA4F3E7__D3474342A645CF8CADD8351FD9394269D340B866.udd" 1960
 "C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/UI/HComboStringBox.uasset" 1961
 "C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/ExternalAssets/Wooden_UI/Textures/Tex_plank_19.uasset" 1962
 "C:/Users/Some Guy/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/3/8/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_BGRA8_A1E417444362AF4264D2EBA4D226542__2A17F41AAB2A39C96111F8D36BAC7E98F59BA1EF.udd" 1963
@@ -2203,45 +2203,45 @@
 "C:/Users/Some Guy/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/4/7/MATSM_F1CC9C7A48F5422EB67E3ADC82465189_PCD3D_SM4_7__BC5N_NOCCBN_NOIRIS_DEV_SL___4AF10B45EF513B8EC1B735CE1EFB68FFD4D38C73.udd" 2203
 "C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/ExternalAssets/Wooden_UI/Textures/Tex_Wooden_UI.uasset" 2204
 "C:/Users/Some Guy/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/9/7/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_E8BA661D4F140961E44F6CA3E7A76__BF3CFD72A68DF748AD964A1E226AE4F39003AC7F.udd" 2205
-"C:/Users/Some Guy/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/7/3/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_E8BA661D4F140961E44F6CA3E7A76__989582E568E726662013C8D3609D456C3FB5EF27.udd" 2206
-"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/ExternalAssets/Wooden_UI/Textures/Tex_sword_02.uasset" 2207
-"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/ExternalAssets/Wooden_UI/Textures/Tex_sword_01.uasset" 2208
-"C:/Users/Some Guy/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/2/2/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_BGRA8_0103FF6149E75D10E922508F6E1AB01__F7E0821A029127EBE33E0E7DCFCF8A19F9A7BBE6.udd" 2209
-"C:/Users/Some Guy/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/3/2/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_BGRA8_355189D0434311ED4D9CE0B68A5510A__A2D1B10C4DD49D5DCD309FE34D3E91727A7B5959.udd" 2210
-"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/ExternalAssets/Wooden_UI/Textures/Tex_strip_red.uasset" 2211
-"C:/Users/Some Guy/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/5/3/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_BGRA8_D2A0858A4CCC52A2A77A5CBA8F9C824__ADE93BCDB4C05EF7971CFDC243CD1494BC944D4B.udd" 2212
-"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/ExternalAssets/Wooden_UI/Textures/Tex_strip_green.uasset" 2213
-"C:/Users/Some Guy/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/0/7/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_BGRA8_56AEEC684D28BA4A30EDB8B0FF53340__24D16E90B2A8C96DBC988004E1DB944C60ED67A2.udd" 2214
-"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/ExternalAssets/Wooden_UI/Textures/Tex_strip_blue.uasset" 2215
-"C:/Users/Some Guy/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/0/3/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_E8BA661D4F140961E44F6CA3E7A76__D3A86DA2B38059D68E6659C34501FD5D7763BC69.udd" 2216
-"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/ExternalAssets/Wooden_UI/Textures/Tex_strip_bg02.uasset" 2217
-"C:/Users/Some Guy/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/2/2/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_BGRA8_AF49C9A6440CCC383A6CF680455047C__DDC7067236C8AB30BA96E1B2D2C4413E09FEE615.udd" 2218
-"C:/Users/Some Guy/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/7/1/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_BGRA8_1035F8CE485D0012BC2A9E8584D5EB1__2CBFBAF9E2861631B4E616B04790B14613F4BB14.udd" 2219
-"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/ExternalAssets/Wooden_UI/Textures/Tex_skull_03.uasset" 2220
-"C:/Users/Some Guy/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/7/3/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_E8BA661D4F140961E44F6CA3E7A76__0CCEEC5FFA51C08F352803A530E4D273BFA828DB.udd" 2221
-"C:/Users/Some Guy/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/4/3/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_E8BA661D4F140961E44F6CA3E7A76__0E92411AF712473E252D3C7EBD9C38912F6887B4.udd" 2222
-"C:/Users/Some Guy/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/8/5/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_BGRA8_C21BCFB744F4DE410B3ED89E2FC5D1D__CEF53C6C17038B95827E46BF6E770D69A92F5E2C.udd" 2223
-"C:/Users/Some Guy/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/7/5/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_E8BA661D4F140961E44F6CA3E7A76__EB2A32DD82BFF820F4465B9BB31C9AB8D55F65BF.udd" 2224
-"C:/Users/Some Guy/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/5/7/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_E8BA661D4F140961E44F6CA3E7A76__BCB934395AA14EF7D4CB16B9BF70563A79419E7B.udd" 2225
+"C:/Users/Some Guy/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/0/3/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_E8BA661D4F140961E44F6CA3E7A76__D3A86DA2B38059D68E6659C34501FD5D7763BC69.udd" 2206
+"C:/Users/Some Guy/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/7/3/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_E8BA661D4F140961E44F6CA3E7A76__989582E568E726662013C8D3609D456C3FB5EF27.udd" 2207
+"C:/Users/Some Guy/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/7/3/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_E8BA661D4F140961E44F6CA3E7A76__0CCEEC5FFA51C08F352803A530E4D273BFA828DB.udd" 2208
+"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/ExternalAssets/Wooden_UI/Textures/Tex_sword_02.uasset" 2209
+"C:/Users/Some Guy/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/4/3/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_E8BA661D4F140961E44F6CA3E7A76__0E92411AF712473E252D3C7EBD9C38912F6887B4.udd" 2210
+"C:/Users/Some Guy/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/7/5/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_E8BA661D4F140961E44F6CA3E7A76__EB2A32DD82BFF820F4465B9BB31C9AB8D55F65BF.udd" 2211
+"C:/Users/Some Guy/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/5/7/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_E8BA661D4F140961E44F6CA3E7A76__BCB934395AA14EF7D4CB16B9BF70563A79419E7B.udd" 2212
+"C:/Users/Some Guy/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/2/2/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_BGRA8_0103FF6149E75D10E922508F6E1AB01__F7E0821A029127EBE33E0E7DCFCF8A19F9A7BBE6.udd" 2213
+"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/ExternalAssets/Wooden_UI/Textures/Tex_sword_01.uasset" 2214
+"C:/Users/Some Guy/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/3/2/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_BGRA8_355189D0434311ED4D9CE0B68A5510A__A2D1B10C4DD49D5DCD309FE34D3E91727A7B5959.udd" 2215
+"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/ExternalAssets/Wooden_UI/Textures/Tex_strip_red.uasset" 2216
+"C:/Users/Some Guy/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/5/3/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_BGRA8_D2A0858A4CCC52A2A77A5CBA8F9C824__ADE93BCDB4C05EF7971CFDC243CD1494BC944D4B.udd" 2217
+"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/ExternalAssets/Wooden_UI/Textures/Tex_strip_green.uasset" 2218
+"C:/Users/Some Guy/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/0/7/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_BGRA8_56AEEC684D28BA4A30EDB8B0FF53340__24D16E90B2A8C96DBC988004E1DB944C60ED67A2.udd" 2219
+"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/ExternalAssets/Wooden_UI/Textures/Tex_strip_blue.uasset" 2220
+"C:/Users/Some Guy/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/2/2/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_BGRA8_AF49C9A6440CCC383A6CF680455047C__DDC7067236C8AB30BA96E1B2D2C4413E09FEE615.udd" 2221
+"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/ExternalAssets/Wooden_UI/Textures/Tex_strip_bg02.uasset" 2222
+"C:/Users/Some Guy/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/7/1/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_BGRA8_1035F8CE485D0012BC2A9E8584D5EB1__2CBFBAF9E2861631B4E616B04790B14613F4BB14.udd" 2223
+"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/ExternalAssets/Wooden_UI/Textures/Tex_skull_03.uasset" 2224
+"C:/Users/Some Guy/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/8/5/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_BGRA8_C21BCFB744F4DE410B3ED89E2FC5D1D__CEF53C6C17038B95827E46BF6E770D69A92F5E2C.udd" 2225
 "C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/ExternalAssets/Wooden_UI/Textures/Tex_skull_02.uasset" 2226
 "C:/Users/Some Guy/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/0/6/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_BGRA8_8C1371E047C57DB9255815874DD4175__D508C586F05D92C327E2332574A850F8CFCB622F.udd" 2227
 "C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/ExternalAssets/Wooden_UI/Textures/Tex_skull_01.uasset" 2228
 "C:/Users/Some Guy/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/9/3/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_BGRA8_230619C0424CF7A7B412BAA7235086F__4B4DD4151A7A8032719BAFFEF7CE7F2A1401B3BB.udd" 2229
 "C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/ExternalAssets/Wooden_UI/Textures/Tex_plank_15.uasset" 2230
-"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/ExternalAssets/Wooden_UI/Textures/Tex_plank_14.uasset" 2231
-"C:/Users/Some Guy/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/0/6/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_BGRA8_4613048E43D98A150DB0C09EE1B9530__20102987E9F8548EB52BA3E105E89D54D7EBDD11.udd" 2232
-"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/ExternalAssets/Wooden_UI/Textures/Tex_plank_13.uasset" 2233
-"C:/Users/Some Guy/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/6/5/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_BGRA8_116C069D4ED020B170F6CD8C8323C77__D7A3C14197F1A7CE78484C073008D736BC1D6ED0.udd" 2234
-"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/ExternalAssets/Wooden_UI/Textures/Tex_Plank_12_bg.uasset" 2235
-"C:/Users/Some Guy/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/4/2/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_BGRA8_5AF5AD424BEAF5A5A8FABCAF52CEF41__7F2930232609677C3517C015207719305F817BCB.udd" 2236
-"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/ExternalAssets/Wooden_UI/Textures/Tex_Plank_12_3.uasset" 2237
-"C:/Users/Some Guy/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/9/7/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_BGRA8_B2027B3544BB5B06D805D3BD60F2591__60E3BA71DF76F7A3840925C7DBAA95245FCD01B6.udd" 2238
-"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/ExternalAssets/Wooden_UI/Textures/Tex_Plank_12_2.uasset" 2239
-"C:/Users/Some Guy/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/9/5/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_BGRA8_30B8FCE7451F3007DBE3138F6A41F7C__06A6DF65AFCC37DE6F8804AE3E640EB1F8C91FED.udd" 2240
-"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/ExternalAssets/Wooden_UI/Textures/Tex_Plank_12_1.uasset" 2241
-"C:/Users/Some Guy/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/3/6/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_BGRA8_A9B5CC64479EE735E57A8795BF6EA66__A632DFC5D9E49E131F8EE0E1963F404FE8B2C6F0.udd" 2242
-"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/ExternalAssets/Wooden_UI/Textures/Tex_Plank_11.uasset" 2243
-"C:/Users/Some Guy/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/4/6/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_BGRA8_EBDCA5B24E1445A84737998E9E13FBC__F7D2E7B000EDBDCCD2B3B4C2549B2D9519A45C29.udd" 2244
+"C:/Users/Some Guy/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/0/6/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_BGRA8_4613048E43D98A150DB0C09EE1B9530__20102987E9F8548EB52BA3E105E89D54D7EBDD11.udd" 2231
+"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/ExternalAssets/Wooden_UI/Textures/Tex_plank_14.uasset" 2232
+"C:/Users/Some Guy/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/6/5/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_BGRA8_116C069D4ED020B170F6CD8C8323C77__D7A3C14197F1A7CE78484C073008D736BC1D6ED0.udd" 2233
+"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/ExternalAssets/Wooden_UI/Textures/Tex_plank_13.uasset" 2234
+"C:/Users/Some Guy/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/4/2/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_BGRA8_5AF5AD424BEAF5A5A8FABCAF52CEF41__7F2930232609677C3517C015207719305F817BCB.udd" 2235
+"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/ExternalAssets/Wooden_UI/Textures/Tex_Plank_12_bg.uasset" 2236
+"C:/Users/Some Guy/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/9/7/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_BGRA8_B2027B3544BB5B06D805D3BD60F2591__60E3BA71DF76F7A3840925C7DBAA95245FCD01B6.udd" 2237
+"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/ExternalAssets/Wooden_UI/Textures/Tex_Plank_12_3.uasset" 2238
+"C:/Users/Some Guy/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/9/5/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_BGRA8_30B8FCE7451F3007DBE3138F6A41F7C__06A6DF65AFCC37DE6F8804AE3E640EB1F8C91FED.udd" 2239
+"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/ExternalAssets/Wooden_UI/Textures/Tex_Plank_12_2.uasset" 2240
+"C:/Users/Some Guy/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/3/6/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_BGRA8_A9B5CC64479EE735E57A8795BF6EA66__A632DFC5D9E49E131F8EE0E1963F404FE8B2C6F0.udd" 2241
+"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/ExternalAssets/Wooden_UI/Textures/Tex_Plank_12_1.uasset" 2242
+"C:/Users/Some Guy/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/4/6/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_BGRA8_EBDCA5B24E1445A84737998E9E13FBC__F7D2E7B000EDBDCCD2B3B4C2549B2D9519A45C29.udd" 2243
+"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/ExternalAssets/Wooden_UI/Textures/Tex_Plank_11.uasset" 2244
 "C:/Users/Some Guy/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/8/2/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_BGRA8_B3F511A6435E98027FE00B8DF1651E8__942487D9330C45B5AE2B7D036ADE763FED229E23.udd" 2245
 "C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/ExternalAssets/Wooden_UI/Textures/Tex_Plank_10.uasset" 2246
 "C:/Users/Some Guy/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/2/9/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_BGRA8_9CE51DF74E8A03B56AE532979AF374D__A8A70BA8B0B85F84B46A49A108981D977791BFF4.udd" 2247
@@ -2258,52 +2258,52 @@
 "C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/ExternalAssets/Wooden_UI/Textures/Tex_Plank_01.uasset" 2258
 "C:/Users/Some Guy/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/8/9/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_BGRA8_6DA0FF6943D29615AE7ADABF2113EDF__F6B4A189DB0A1CAB78FF130858FE2217400E99C6.udd" 2259
 "C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/ExternalAssets/Wooden_UI/Textures/Tex_Plankshadow.uasset" 2260
-"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/ExternalAssets/Wooden_UI/Textures/Tex_obj_08.uasset" 2261
-"C:/Users/Some Guy/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/1/5/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_2CBF74DC467FCE929974168BEA583__D010CEEB34E33974D8529958FB5EC5050B83C69C.udd" 2262
+"C:/Users/Some Guy/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/1/5/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_2CBF74DC467FCE929974168BEA583__D010CEEB34E33974D8529958FB5EC5050B83C69C.udd" 2261
+"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/ExternalAssets/Wooden_UI/Textures/Tex_obj_08.uasset" 2262
 "C:/Users/Some Guy/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/5/0/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_2CBF74DC467FCE929974168BEA583__762B8D77BF9E2129CE01130B408302962A9E5274.udd" 2263
 "C:/Users/Some Guy/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/0/7/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_2CBF74DC467FCE929974168BEA583__A06303DD13E686FF60D4A45A1433F3B00BC6F917.udd" 2264
-"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/ExternalAssets/Wooden_UI/Textures/Tex_obj_07.uasset" 2265
-"C:/Users/Some Guy/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/1/5/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_BGRA8_E6380F554DFD49B5FF58DFA8484DC94__AF1404B6B282DEBA082A7DE24F3BFE2ECFB112D3.udd" 2266
-"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/ExternalAssets/Wooden_UI/Textures/Tex_obj_06_02.uasset" 2267
-"C:/Users/Some Guy/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/2/1/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_BGRA8_34D0B2B24A2237D984B8A491A773DFE__79C9411117FAA95B4A7819F1D7FC567B23CC06CC.udd" 2268
-"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/ExternalAssets/Wooden_UI/Textures/Tex_obj_06_01.uasset" 2269
-"C:/Users/Some Guy/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/1/7/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_BGRA8_E370770A41E2CFDB230EA98F371FA67__0A9CC9683BE2D1C2702C58529A33EC6671267179.udd" 2270
-"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/ExternalAssets/Wooden_UI/Textures/Tex_obj_05_02.uasset" 2271
-"C:/Users/Some Guy/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/7/4/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_BGRA8_BCBCBD234A9456A6117A7AA5A422813__12C5071E2F57E7286C11361ED264E45D4225E0DA.udd" 2272
-"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/ExternalAssets/Wooden_UI/Textures/Tex_obj_05_01.uasset" 2273
-"C:/Users/Some Guy/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/1/6/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_BGRA8_92BD86ED4CEEC49C6EE723AA6906E37__5E369E9DFB933A980AE607E7E751960E47F32D9D.udd" 2274
+"C:/Users/Some Guy/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/1/5/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_BGRA8_E6380F554DFD49B5FF58DFA8484DC94__AF1404B6B282DEBA082A7DE24F3BFE2ECFB112D3.udd" 2265
+"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/ExternalAssets/Wooden_UI/Textures/Tex_obj_07.uasset" 2266
+"C:/Users/Some Guy/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/2/1/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_BGRA8_34D0B2B24A2237D984B8A491A773DFE__79C9411117FAA95B4A7819F1D7FC567B23CC06CC.udd" 2267
+"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/ExternalAssets/Wooden_UI/Textures/Tex_obj_06_02.uasset" 2268
+"C:/Users/Some Guy/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/1/7/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_BGRA8_E370770A41E2CFDB230EA98F371FA67__0A9CC9683BE2D1C2702C58529A33EC6671267179.udd" 2269
+"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/ExternalAssets/Wooden_UI/Textures/Tex_obj_06_01.uasset" 2270
+"C:/Users/Some Guy/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/7/4/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_BGRA8_BCBCBD234A9456A6117A7AA5A422813__12C5071E2F57E7286C11361ED264E45D4225E0DA.udd" 2271
+"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/ExternalAssets/Wooden_UI/Textures/Tex_obj_05_02.uasset" 2272
+"C:/Users/Some Guy/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/1/6/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_BGRA8_92BD86ED4CEEC49C6EE723AA6906E37__5E369E9DFB933A980AE607E7E751960E47F32D9D.udd" 2273
+"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/ExternalAssets/Wooden_UI/Textures/Tex_obj_05_01.uasset" 2274
 "C:/Users/Some Guy/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/5/8/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_BGRA8_4E082E3F4B57A38DBFE86690AA85D91__18F502A48E36D25853CD97A8BCB29E937F02FE83.udd" 2275
 "C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/ExternalAssets/Wooden_UI/Textures/Tex_obj_04.uasset" 2276
-"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/ExternalAssets/Wooden_UI/Textures/Tex_obj_03.uasset" 2277
-"C:/Users/Some Guy/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/6/6/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_BGRA8_D1D79F2A477518015610DA9C4FC73F3__6157E74F518383368CABB1ADD7FAB2E1254E2B69.udd" 2278
+"C:/Users/Some Guy/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/6/6/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_BGRA8_D1D79F2A477518015610DA9C4FC73F3__6157E74F518383368CABB1ADD7FAB2E1254E2B69.udd" 2277
+"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/ExternalAssets/Wooden_UI/Textures/Tex_obj_03.uasset" 2278
 "C:/Users/Some Guy/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/1/8/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_BFB509D941D81A848F0493A1535F4__B2E8894D9654C42D096B1A7BA98A5F4405064415.udd" 2279
 "C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/ExternalAssets/Wooden_UI/Textures/Tex_obj_01.uasset" 2280
-"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/ExternalAssets/Wooden_UI/Textures/Tex_logo_03.uasset" 2281
-"C:/Users/Some Guy/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/2/2/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_BGRA8_42D275E04342EA7797A301B6F6E9692__4F7B5AA3AD2BFA0C3770100F28CE2606ADD17F99.udd" 2282
-"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/ExternalAssets/Wooden_UI/Textures/Tex_logo_02.uasset" 2283
-"C:/Users/Some Guy/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/1/3/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_BGRA8_B6CACBB644A3DF76DEB8E589177A180__909866EE825634E9F72EFEBE007832A96279BE42.udd" 2284
+"C:/Users/Some Guy/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/2/2/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_BGRA8_42D275E04342EA7797A301B6F6E9692__4F7B5AA3AD2BFA0C3770100F28CE2606ADD17F99.udd" 2281
+"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/ExternalAssets/Wooden_UI/Textures/Tex_logo_03.uasset" 2282
+"C:/Users/Some Guy/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/1/3/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_BGRA8_B6CACBB644A3DF76DEB8E589177A180__909866EE825634E9F72EFEBE007832A96279BE42.udd" 2283
+"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/ExternalAssets/Wooden_UI/Textures/Tex_logo_02.uasset" 2284
 "C:/Users/Some Guy/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/5/1/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_BGRA8_C7D7B9934AABDF1651754ABD36DDD4D__DCF9E42F7958F15F9BB1249AE0A191F513D735BA.udd" 2285
 "C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/ExternalAssets/Wooden_UI/Textures/Tex_logo_01.uasset" 2286
 "C:/Users/Some Guy/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/0/4/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_F07B85DC4AB657EC9D13F7B69BC48__D6E14C6AD6C6875137EA5B2A448D93B4EA328AC2.udd" 2287
 "C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/ExternalAssets/Wooden_UI/Textures/Tex_letter.uasset" 2288
 "C:/Users/Some Guy/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/6/4/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_BGRA8_FA1F32D44B80E6F1AD8BEE8E8AFA896__FD92A0280CE5E262DFD7CCE2FDDBA8385EA12172.udd" 2289
 "C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/ExternalAssets/Wooden_UI/Textures/Tex_gear.uasset" 2290
-"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/ExternalAssets/Wooden_UI/Textures/Tex_frame_violet.uasset" 2291
-"C:/Users/Some Guy/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/5/1/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_BGRA8_8DECB0914797ED845FDB7C8F26A02A8__97594BEC6DCBF6729E885539F1D7972DACE5032E.udd" 2292
+"C:/Users/Some Guy/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/5/1/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_BGRA8_8DECB0914797ED845FDB7C8F26A02A8__97594BEC6DCBF6729E885539F1D7972DACE5032E.udd" 2291
+"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/ExternalAssets/Wooden_UI/Textures/Tex_frame_violet.uasset" 2292
 "C:/Users/Some Guy/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/8/3/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_EEE88AEB4ABDAD3B71B95BAA3A563__245E92A67931971BD7DF4540D2968E456C64B8E7.udd" 2293
 "C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/ExternalAssets/Wooden_UI/Textures/Tex_frame_s_06.uasset" 2294
-"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/ExternalAssets/Wooden_UI/Textures/Tex_frame_s_05.uasset" 2295
-"C:/Users/Some Guy/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/5/9/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_BGRA8_CC778153462DB34777F071B2C887CC5__EC33295874811F2B233302648E4C792B6BAB93F5.udd" 2296
+"C:/Users/Some Guy/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/5/9/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_BGRA8_CC778153462DB34777F071B2C887CC5__EC33295874811F2B233302648E4C792B6BAB93F5.udd" 2295
+"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/ExternalAssets/Wooden_UI/Textures/Tex_frame_s_05.uasset" 2296
 "C:/Users/Some Guy/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/5/7/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_BGRA8_00E4A6D24E0AE6D130FCF7A5BADC172__8AD104388207319C1277336FDBBFFD5AF26CD4DE.udd" 2297
 "C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/ExternalAssets/Wooden_UI/Textures/Tex_frame_s_04.uasset" 2298
-"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/ExternalAssets/Wooden_UI/Textures/Tex_frame_s_03.uasset" 2299
-"C:/Users/Some Guy/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/9/9/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_BGRA8_DFC466854844EBB5F5BA6293F059614__39749DA2859DD1057D472E47B117CBD5572E06FA.udd" 2300
-"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/ExternalAssets/Wooden_UI/Textures/Tex_frame_s_02.uasset" 2301
-"C:/Users/Some Guy/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/8/4/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_BGRA8_E1B25968419BA5C038DBCC9393EF562__1B5B2387D345680295C80A1573DBB427DCF5B9E0.udd" 2302
+"C:/Users/Some Guy/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/9/9/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_BGRA8_DFC466854844EBB5F5BA6293F059614__39749DA2859DD1057D472E47B117CBD5572E06FA.udd" 2299
+"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/ExternalAssets/Wooden_UI/Textures/Tex_frame_s_03.uasset" 2300
+"C:/Users/Some Guy/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/8/4/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_BGRA8_E1B25968419BA5C038DBCC9393EF562__1B5B2387D345680295C80A1573DBB427DCF5B9E0.udd" 2301
+"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/ExternalAssets/Wooden_UI/Textures/Tex_frame_s_02.uasset" 2302
 "C:/Users/Some Guy/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/3/0/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_BGRA8_A41116144D6032F751D50DAAD160734__7DA162B903A6B43127CE00C23BB71CAF52B4C42D.udd" 2303
 "C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/ExternalAssets/Wooden_UI/Textures/Tex_frame_s_01.uasset" 2304
-"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/ExternalAssets/Wooden_UI/Textures/Tex_frame_red.uasset" 2305
-"C:/Users/Some Guy/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/3/6/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_BGRA8_DBDDE0BC4B81C2A28ACD6A929FC21AA__FC9A6195369CFC49533BC904CB5F5D609A3F2156.udd" 2306
+"C:/Users/Some Guy/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/3/6/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_BGRA8_DBDDE0BC4B81C2A28ACD6A929FC21AA__FC9A6195369CFC49533BC904CB5F5D609A3F2156.udd" 2305
+"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/ExternalAssets/Wooden_UI/Textures/Tex_frame_red.uasset" 2306
 "C:/Users/Some Guy/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/8/2/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_F9A2A3E946CF465C19A7DE92D2049__D30C4AB55A67B3EF4F24E1B968ECD68C9B5510E2.udd" 2307
 "C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/ExternalAssets/Wooden_UI/Textures/Tex_frame_k_06.uasset" 2308
 "C:/Users/Some Guy/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/5/6/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_BGRA8_46CAC3654E587F6A461508B932BAF94__6F7C2600C1A937FFCBBCB9B052DFD13DB9B007EC.udd" 2309
@@ -2346,16 +2346,16 @@
 "C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/ExternalAssets/Wooden_UI/Textures/Tex_circle_bg.uasset" 2346
 "C:/Users/Some Guy/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/5/0/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_BGRA8_D2383D9640FB356A4A7B4ABC4AA6457__410B4BCACC69C2153642623AC3E0384FEB42DDCC.udd" 2347
 "C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/ExternalAssets/Wooden_UI/Textures/Tex_circle_01.uasset" 2348
-"C:/Users/Some Guy/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/3/9/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_BGRA8_EF73521941CDF561D3BF34AC4C67DC4__C8C958C391CF7BD47A612EE64CCD3CED02AB6560.udd" 2349
-"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/ExternalAssets/Wooden_UI/Textures/Tex_checkbox_02.uasset" 2350
+"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/ExternalAssets/Wooden_UI/Textures/Tex_checkbox_02.uasset" 2349
+"C:/Users/Some Guy/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/3/9/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_BGRA8_EF73521941CDF561D3BF34AC4C67DC4__C8C958C391CF7BD47A612EE64CCD3CED02AB6560.udd" 2350
 "C:/Users/Some Guy/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/2/2/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_BGRA8_47E50AA149F3DB038088E5BBB4CE3F4__4A2F19487930AEA2B7DEAF2DC6973B31052694EE.udd" 2351
 "C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/ExternalAssets/Wooden_UI/Textures/Tex_checkbox_01.uasset" 2352
 "C:/Users/Some Guy/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/9/9/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_BGRA8_76C833F340C0E9BF8454D1A00BE888D__9EED89378D0F7DF72A89363C1D6B137401EAF8B1.udd" 2353
 "C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/ExternalAssets/Wooden_UI/Textures/Tex_button_01_03.uasset" 2354
-"C:/Users/Some Guy/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/5/2/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_308FF5284862056CA58D62A6C2E1D__228514291088027956C4F67C91711D2FFC416AC8.udd" 2355
-"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/ExternalAssets/Wooden_UI/Textures/Tex_button_01_02.uasset" 2356
-"C:/Users/Some Guy/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/6/9/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_BGRA8_050B4CF94D43E0D719C85FB0A548B46__2EA26110F90F6D3DCEC4786AA4571CD5E5577400.udd" 2357
-"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/ExternalAssets/Wooden_UI/Textures/Tex_button_01_01.uasset" 2358
+"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/ExternalAssets/Wooden_UI/Textures/Tex_button_01_02.uasset" 2355
+"C:/Users/Some Guy/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/5/2/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_308FF5284862056CA58D62A6C2E1D__228514291088027956C4F67C91711D2FFC416AC8.udd" 2356
+"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/ExternalAssets/Wooden_UI/Textures/Tex_button_01_01.uasset" 2357
+"C:/Users/Some Guy/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/6/9/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_BGRA8_050B4CF94D43E0D719C85FB0A548B46__2EA26110F90F6D3DCEC4786AA4571CD5E5577400.udd" 2358
 "C:/Users/Some Guy/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/6/5/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_BGRA8_F34D5EF8499E990D410D9D8312798E5__D51998CF035BE3F332379F401DA4949E02DB86C6.udd" 2359
 "C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/ExternalAssets/Wooden_UI/Textures/Tex_book.uasset" 2360
 "C:/Users/Some Guy/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/9/4/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_BGRA8_A24F68BC4B610174D16C37AFADE818D__F6DB9E712948643CF65C996DDE7AB361EA225707.udd" 2361
@@ -2375,6 +2375,6 @@
 "C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/ExternalAssets/Wooden_UI/Textures/Tex_arrow_right.uasset" 2375
 "C:/Users/Some Guy/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/7/0/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_BGRA8_82FD85F84674CD1BE3A68486799AE83__9AA39F225C8F8624DD1E318736637E2B4ECD6858.udd" 2376
 "C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/ExternalAssets/Wooden_UI/Textures/Tex_arrow_left.uasset" 2377
-"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/TestStuff.uasset" 2378
-"C:/Users/Some Guy/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/3/1/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_BGRA8_38C9A6F1468AD0DC23A030B577145B0__533F34E0C509722A98A4B75195871EF66FAE9C89.udd" 2379
+"C:/Users/Some Guy/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/3/1/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_BGRA8_38C9A6F1468AD0DC23A030B577145B0__533F34E0C509722A98A4B75195871EF66FAE9C89.udd" 2378
+"C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/TestStuff.uasset" 2379
 "C:/Users/Some Guy/Documents/Unreal Projects/New folder/Unreal/Content/MoreTest.uasset" 2380
